@@ -1,0 +1,2506 @@
+team: , id: 007x, name: Chayut Suebka, wiki: leagueoflegends
+, team: , id: 1xn, name: Li Xiu-Nan, wiki: leagueoflegends
+, team: , id: 2188, name: Huang Jin-Long, wiki: leagueoflegends
+, team: , id: 5fire, name: Aidan Joseph Reckamp, wiki: leagueoflegends
+, team: , id: 6ax, name: Hrsimir Popov, wiki: leagueoflegends
+, team: , id: 705, name: He Yu-Long, wiki: leagueoflegends
+, team: , id: 957, name: Ke Changyu, wiki: leagueoflegends
+, team: , id: A M U S E 4, name: Takashi Otsuka, wiki: leagueoflegends
+, team: , id: ACD, name: Markus Ku00e4pp, wiki: leagueoflegends
+, team: , id: AHaHaCiK, name: Kirill Skvortsov, wiki: leagueoflegends
+, team: , id: AMOUR FAYA, name: Coen de Witte, wiki: leagueoflegends
+, team: , id: APA, name: Eain Stearns, wiki: leagueoflegends
+, team: , id: ATRemains, name: Igors Radkeviu010d, wiki: leagueoflegends
+, team: , id: Acerola, name: Daniel Villalobos Muu00f1oz, wiki: leagueoflegends
+, team: , id: ActScene, name: Yeon Hyeong-mo, wiki: leagueoflegends
+, team: , id: Adrian, name: Adrian Ma, wiki: leagueoflegends
+, team: , id: Adryh, name: Adriu00e1n Pu00e9rez Gonzu00e1lez, wiki: leagueoflegends
+, team: , id: Aesenar, name: Luis Calderu00f3n, wiki: leagueoflegends
+, team: , id: Agentas, name: Deivydas Plikaitis, wiki: leagueoflegends
+, team: , id: Airwaks, name: Karim Benghalia, wiki: leagueoflegends
+, team: , id: Akasi, name: Kazuki Tomono, wiki: leagueoflegends
+, team: , id: Akeno, name: Hu1ed3 Trung Hu1eadu, wiki: leagueoflegends
+, team: , id: Aki, name: Daniel Lauri, wiki: leagueoflegends
+, team: , id: Akunma, name: Miguel Aylas, wiki: leagueoflegends
+, team: , id: Albis, name: Kang Chia-Wei, wiki: leagueoflegends
+, team: , id: Alex Ich, name: Alexey Ichetovkin, wiki: leagueoflegends
+, team: , id: Allorim, name: Kieran Logue, wiki: leagueoflegends
+, team: , id: AlphaCloud, name: Michael Skrede, wiki: leagueoflegends
+, team: , id: Altec, name: Johnny Ru, wiki: leagueoflegends
+, team: , id: Aluka, name: Peng Zhen-Ming, wiki: leagueoflegends
+, team: , id: AmazingJ, name: Shek Wai Ho, wiki: leagueoflegends
+, team: , id: Anderu, name: Andrew Baihn, wiki: leagueoflegends
+, team: , id: Anduril, name: Eren Varlu0131k, wiki: leagueoflegends
+, team: , id: AndyBendy, name: Andrew Foreman, wiki: leagueoflegends
+, team: , id: Angush, name: Aurimas Gedvilas, wiki: leagueoflegends
+, team: , id: Ankote, name: Natalia Kotova, wiki: leagueoflegends
+, team: , id: Ansva, name: Konstantin Chanchikov, wiki: leagueoflegends
+, team: , id: Aodi, name: Zhao Ao-Di, wiki: leagueoflegends
+, team: , id: Apex, name: Hsieh Chia-Wei, wiki: leagueoflegends
+, team: , id: Araneae, name: Alvar Martu00edn Aleu00f1ar, wiki: leagueoflegends
+, team: , id: Archie2B, name: Aleksandr Lifashin, wiki: leagueoflegends
+, team: , id: Arcsecond, name: Lyonel Pfaender, wiki: leagueoflegends
+, team: , id: Arfoad, name: Kento Inoue, wiki: leagueoflegends
+, team: , id: Argonavt, name: Andrey Yakovlev, wiki: leagueoflegends
+, team: , id: Arrow, name: Noh Dong-hyeon, wiki: leagueoflegends
+, team: , id: Arumik, name: Naoya Kimura, wiki: leagueoflegends
+, team: , id: Aslan, name: Eduardo Nunes, wiki: leagueoflegends
+, team: , id: Astarore, name: Yuta Hiratsuka, wiki: leagueoflegends
+, team: , id: Athena, name: Kang Ha-woon, wiki: leagueoflegends
+, team: , id: Atom, name: Peter Thomsen, wiki: leagueoflegends
+, team: , id: Aun, name: Soragit Buranathanasin, wiki: leagueoflegends
+, team: , id: Auspex, name: Salih Ku0131zu0131ldau011f, wiki: leagueoflegends
+, team: , id: Axecitement, name: Stijn Drissen, wiki: leagueoflegends
+, team: , id: Azael, name: Isaac Cummings Bentley, wiki: leagueoflegends
+, team: , id: Azhi, name: Huang Shang-Chih, wiki: leagueoflegends
+, team: , id: BAeKHo, name: u0412aeg Seung Min, wiki: leagueoflegends
+, team: , id: BB Muffin, name: Michael Smirnov, wiki: leagueoflegends
+, team: , id: BOSS, name: Vladislav Fomin, wiki: leagueoflegends
+, team: , id: BULBAZABP, name: Andrey Solokhov, wiki: leagueoflegends
+, team: , id: Baba, name: Onur Kazim Kaya, wiki: leagueoflegends
+, team: , id: Backlund, name: Jonathan Bu00e4cklund, wiki: leagueoflegends
+, team: , id: BaeMe, name: Kang Yang-hyun, wiki: leagueoflegends
+, team: , id: Baiano, name: Gustavo Gomes, wiki: leagueoflegends
+, team: , id: Balkhan, name: Choi Hyun-jin, wiki: leagueoflegends
+, team: , id: Balls, name: An Van Le, wiki: leagueoflegends
+, team: , id: Baloo, name: Ludvig Gru00f6nlund, wiki: leagueoflegends
+, team: , id: Bando, name: Brian Ferrando, wiki: leagueoflegends
+, team: , id: BarneyD, name: Laurent Baiverlin, wiki: leagueoflegends
+, team: , id: Barrage, name: Luc van Gestel, wiki: leagueoflegends
+, team: , id: BeBopBulli, name: David Siira, wiki: leagueoflegends
+, team: , id: BeNw, name: Benjamin Wah, wiki: leagueoflegends
+, team: , id: Belgianbeast, name: Scott Dudha, wiki: leagueoflegends
+, team: , id: Bella, name: Rebekka Kupiainen, wiki: leagueoflegends
+, team: , id: Ben, name: Nam Dong-hyun, wiki: leagueoflegends
+, team: , id: Bendix, name: Nicolai Bendix, wiki: leagueoflegends
+, team: , id: Berkan, name: Yusuf Emir Tu00fcrkden, wiki: leagueoflegends
+, team: , id: BetongJocke, name: Joachim Rasmussen, wiki: leagueoflegends
+, team: , id: Betsy, name: Felix Edling, wiki: leagueoflegends
+, team: , id: Betu00e3o, name: Norberto Motta, wiki: leagueoflegends
+, team: , id: Big, name: Terry Chuong, wiki: leagueoflegends
+, team: , id: Bigfafa, name: Seo Min-seok, wiki: leagueoflegends
+, team: , id: Bigfatlp, name: Michael Tang, wiki: leagueoflegends
+, team: , id: Bigkoro, name: u0110u1eb7ng Ngu1ecdc Tu00e0i, wiki: leagueoflegends
+, team: , id: Biofrost, name: Vincent Wang, wiki: leagueoflegends
+, team: , id: Bjergsen, name: Su00f8ren Bjerg, wiki: leagueoflegends
+, team: , id: Blaise, name: Joseph McGreevy, wiki: leagueoflegends
+, team: , id: Blake, name: Hyun Ho Kim, wiki: leagueoflegends
+, team: , id: Blanc, name: Jin Seong-min, wiki: leagueoflegends
+, team: , id: Blasting, name: Daniel Kudrin, wiki: leagueoflegends
+, team: , id: Blinky, name: Myles Irvine, wiki: leagueoflegends
+, team: , id: Blizer300, name: Marius Hu00e6sumgaard, wiki: leagueoflegends
+, team: , id: BloodWater, name: Lyubomir Spasov, wiki: leagueoflegends
+, team: , id: Bloody, name: Patrick Zeng, wiki: leagueoflegends
+, team: , id: Blossom, name: Park Beom-chan, wiki: leagueoflegends
+, team: , id: Bobo, name: Bojan Lekanic, wiki: leagueoflegends
+, team: , id: BocaJR, name: Emerson Alencar, wiki: leagueoflegends
+, team: , id: Boomin, name: Denis Melnikov, wiki: leagueoflegends
+, team: , id: Boz, name: Zhaq Jie-Jie, wiki: leagueoflegends
+, team: , id: Brandini, name: Brandon Chen, wiki: leagueoflegends
+, team: , id: Breeze, name: Huang Chien-Yuan, wiki: leagueoflegends
+, team: , id: Brom, name: Dmitriy Guscha, wiki: leagueoflegends
+, team: , id: Bruce, name: Chiu Chih-Chun, wiki: leagueoflegends
+, team: , id: Bruno, name: Bruno Romac, wiki: leagueoflegends
+, team: , id: Brush, name: Oh Jun-young, wiki: leagueoflegends
+, team: , id: Buggy, name: Deane Xie, wiki: leagueoflegends
+, team: , id: Bullet, name: Robert Pruchniewski, wiki: leagueoflegends
+, team: , id: BullyMaguire, name: Stepan Leontyev, wiki: leagueoflegends
+, team: , id: BunnyFuFuu, name: Michael Kurylo, wiki: leagueoflegends
+, team: , id: Burry, name: Jeong Seung-hwan, wiki: leagueoflegends
+, team: , id: Bush, name: Yu Ping-Kun, wiki: leagueoflegends
+, team: , id: Bushy, name: Gustav Schwerdfeger, wiki: leagueoflegends
+, team: , id: Bvoy, name: Ju Yeong-hoon, wiki: leagueoflegends
+, team: , id: Bu1eafp Bu00e0o, name: Lu00ea Thu00e0nh Du01b0u01a1ng, wiki: leagueoflegends
+, team: , id: CaD, name: Cho Seong-yong, wiki: leagueoflegends
+, team: , id: Cabu, name: Victor Oliveira, wiki: leagueoflegends
+, team: , id: CaiPi, name: Chuang Yin-Shun, wiki: leagueoflegends
+, team: , id: Cake, name: Tristan Cu00f4tu00e9-Lalumiu00e8re, wiki: leagueoflegends
+, team: , id: Call Lin, name: Colin Ting Hin Wong, wiki: leagueoflegends
+, team: , id: Candice, name: Duan Yu-shuang, wiki: leagueoflegends
+, team: , id: CandyPanda, name: Adrian Wu00fcbbelmann, wiki: leagueoflegends
+, team: , id: Carbono, name: Alejandro Gonzu00e1lez Juliu00e1n, wiki: leagueoflegends
+, team: , id: Care, name: Yang Jie, wiki: leagueoflegends
+, team: , id: Casual, name: Zhang Wen-Bo, wiki: leagueoflegends
+, team: , id: Cat, name: Wu Yao, wiki: leagueoflegends
+, team: , id: Cathrine, name: Adelina Nu00e4lsu00e9n, wiki: leagueoflegends
+, team: , id: Cboi, name: Casper Bo Simonsen, wiki: leagueoflegends
+, team: , id: Chad, name: Maximilian Lisitsa, wiki: leagueoflegends
+, team: , id: Champen, name: Lukas Borg Hyllested, wiki: leagueoflegends
+, team: , id: ChangeName, name: Elad Eliyahu, wiki: leagueoflegends
+, team: , id: Changhong, name: Jiang Chang-Hong, wiki: leagueoflegends
+, team: , id: Chaox, name: Shan Huang, wiki: leagueoflegends
+, team: , id: Charger, name: Oleg Zhuravlev, wiki: leagueoflegends
+, team: , id: Chaser, name: Lee Sang-hyun, wiki: leagueoflegends
+, team: , id: Chauster, name: Steve Chau, wiki: leagueoflegends
+, team: , id: Chazz, name: Jesse Mahoney, wiki: leagueoflegends
+, team: , id: Chenlun17, name: Zhou Peng-Yuan, wiki: leagueoflegends
+, team: , id: CheonGo, name: Choi Hyeon-woo, wiki: leagueoflegends
+, team: , id: Chippys, name: Ryan Short, wiki: leagueoflegends
+, team: , id: Chips, name: Fabien Culiu00e9, wiki: leagueoflegends
+, team: , id: Choisix, name: Steven Cordero, wiki: leagueoflegends
+, team: , id: Chronicler, name: Maurits Jan Meeusen, wiki: leagueoflegends
+, team: , id: Chunilda, name: Camila Benavides, wiki: leagueoflegends
+, team: , id: Clement Chu, name: Chu Kai-Hsin, wiki: leagueoflegends
+, team: , id: Clever, name: Moon Won-hee, wiki: leagueoflegends
+, team: , id: Click, name: Vittorio Massolo, wiki: leagueoflegends
+, team: , id: Cloud, name: Hu Zhen-Wei, wiki: leagueoflegends
+, team: , id: CloudTemplar, name: Lee Hyun-woo, wiki: leagueoflegends
+, team: , id: Coco, name: Shin Jin-yeong, wiki: leagueoflegends
+, team: , id: Cody Sun, name: Cody Sun, wiki: leagueoflegends
+, team: , id: Cola, name: Jiang Nan, wiki: leagueoflegends
+, team: , id: Coldenfeet, name: Pongsatorn Kornrat, wiki: leagueoflegends
+, team: , id: Condi, name: Xiang Ren-Jie, wiki: leagueoflegends
+, team: , id: Cookie, name: Jakob Fransson, wiki: leagueoflegends
+, team: , id: Cool, name: Yu Jia-Jun, wiki: leagueoflegends
+, team: , id: Corn, name: Lei Wen, wiki: leagueoflegends
+, team: , id: Cospect, name: Janar Mu00e4ndsalu, wiki: leagueoflegends
+, team: , id: Cotopaco, name: Sergio Silva, wiki: leagueoflegends
+, team: , id: Cover, name: Kim Joo-eon, wiki: leagueoflegends
+, team: , id: Cow, name: Woo Byeong-ha, wiki: leagueoflegends
+, team: , id: CozQ, name: Sofyan Rechchad, wiki: leagueoflegends
+, team: , id: Cpt Jack, name: Kang Hyung-woo, wiki: leagueoflegends
+, team: , id: Creaton, name: Jakub Grzegorzewski, wiki: leagueoflegends
+, team: , id: Creon, name: Riccardo Santarelli, wiki: leagueoflegends
+, team: , id: Cresho, name: Jan Edward Hortizuela, wiki: leagueoflegends
+, team: , id: Crines, name: Mitchell Bleeker, wiki: leagueoflegends
+, team: , id: Crit Hero, name: Tom Aarts, wiki: leagueoflegends
+, team: , id: Croc, name: Park Jong-hoon, wiki: leagueoflegends
+, team: , id: Crocomux, name: Davide Gioan, wiki: leagueoflegends
+, team: , id: Crown, name: Lee Min-ho, wiki: leagueoflegends
+, team: , id: Crumbz, name: Alberto Rengifo, wiki: leagueoflegends
+, team: , id: Crumple, name: Deniz Yu0131lmaz, wiki: leagueoflegends
+, team: , id: Crush, name: Kim Jun-seo, wiki: leagueoflegends
+, team: , id: Crystal, name: Atakan Aydu0131n, wiki: leagueoflegends
+, team: , id: Curtis, name: Curtis Morgan, wiki: leagueoflegends
+, team: , id: Cyanide, name: Lauri Happonen, wiki: leagueoflegends
+, team: , id: Dagda, name: Robert Price, wiki: leagueoflegends
+, team: , id: DahVys, name: David Casco Ortega, wiki: leagueoflegends
+, team: , id: DanDy, name: Choi In-kyu, wiki: leagueoflegends
+, team: , id: Daption, name: Sam Parsa Zarriz, wiki: leagueoflegends
+, team: , id: Dara, name: Jeon Jeong-hoon, wiki: leagueoflegends
+, team: , id: Dardoch, name: Joshua Hartnett, wiki: leagueoflegends
+, team: , id: Darien, name: Evgeny Mazaev, wiki: leagueoflegends
+, team: , id: DarkSide, name: Alejandro Oyonate, wiki: leagueoflegends
+, team: , id: Darker, name: Andrey Plechistov, wiki: leagueoflegends
+, team: , id: Dash, name: James Patterson, wiki: leagueoflegends
+, team: , id: Dawidsonek, name: Dawid Trojanowski, wiki: leagueoflegends
+, team: , id: Day1, name: Wataru Shimizu, wiki: leagueoflegends
+, team: , id: Decoy, name: Daniel Ealam, wiki: leagueoflegends
+, team: , id: Dedrayon, name: Filip Romejko, wiki: leagueoflegends
+, team: , id: Deftly, name: Matthew Chen, wiki: leagueoflegends
+, team: , id: DenVoksne, name: Nikolaj Meilby, wiki: leagueoflegends
+, team: , id: Denian, name: James Goddard, wiki: leagueoflegends
+, team: , id: Denzel, name: Dennis Lundcrantz, wiki: leagueoflegends
+, team: , id: Destroy, name: Yoon Jeong-min, wiki: leagueoflegends
+, team: , id: Dhokla, name: Niship Doshi, wiki: leagueoflegends
+, team: , id: Diablo, name: Dorian Lefebvre, wiki: leagueoflegends
+, team: , id: DinTer, name: Xue Hong-Wei, wiki: leagueoflegends
+, team: , id: Dinka, name: John Dinka, wiki: leagueoflegends
+, team: , id: Direnc, name: Direnc Yozan, wiki: leagueoflegends
+, team: , id: DiscotEkka, name: Anton Shestakov, wiki: leagueoflegends
+, team: , id: Do1u1u, name: Tsai Chien-Cheng, wiki: leagueoflegends
+, team: , id: DoRaoN, name: Kim Do-yeong, wiki: leagueoflegends
+, team: , id: Don Arts, name: Finn-Lukas Salomon, wiki: leagueoflegends
+, team: , id: Donbray, name: Braydon Phan, wiki: leagueoflegends
+, team: , id: Doss, name: Mads Schwartz, wiki: leagueoflegends
+, team: , id: Doxy, name: Rafael Adl Zarabi, wiki: leagueoflegends
+, team: , id: DrChaos, name: Riccardo Mann, wiki: leagueoflegends
+, team: , id: DrMatt, name: Mattia Fazzalaro, wiki: leagueoflegends
+, team: , id: Dragdar, name: Fayez Ahmed, wiki: leagueoflegends
+, team: , id: Dragoon, name: Kishan Makati, wiki: leagueoflegends
+, team: , id: Drakos, name: Daniel Drakos, wiki: leagueoflegends
+, team: , id: Dred, name: Jan Hrbu00e1u010d, wiki: leagueoflegends
+, team: , id: Drobovik123, name: Evgeniy Belousov, wiki: leagueoflegends
+, team: , id: Duclou, name: Francisco Duclou Rito, wiki: leagueoflegends
+, team: , id: Duke, name: Hadrien Forestier, wiki: leagueoflegends
+, team: , id: Duke, name: Lee Ho-seong, wiki: leagueoflegends
+, team: , id: Dumbledoge, name: Mustafa Kemal Gu00f6kselou011flu, wiki: leagueoflegends
+, team: , id: Duoking, name: James Stephenson, wiki: leagueoflegends
+, team: , id: Dyrus, name: Marcus Hill, wiki: leagueoflegends
+, team: , id: EGym, name: Bryce Paule, wiki: leagueoflegends
+, team: , id: Easyhoon, name: Lee Ji-hoon, wiki: leagueoflegends
+, team: , id: Eckas, name: Edgaras Strazdauskas, wiki: leagueoflegends
+, team: , id: Eclipse, name: Yujie Wu, wiki: leagueoflegends
+, team: , id: Eden Fox, name: Wilfred Ding, wiki: leagueoflegends
+, team: , id: Edward, name: Edward Abgaryan, wiki: leagueoflegends
+, team: , id: Elfishguy, name: Jordan Mays, wiki: leagueoflegends
+, team: , id: Elwind, name: Kaan Atu0131cu0131, wiki: leagueoflegends
+, team: , id: Emperor, name: Kim Jin-hyun, wiki: leagueoflegends
+, team: , id: Empt2y, name: Anson Leung, wiki: leagueoflegends
+, team: , id: Ender, name: Christy Frierson, wiki: leagueoflegends
+, team: , id: Energy, name: Isak Pettersen Fjell, wiki: leagueoflegends
+, team: , id: Engo, name: Alvin Ngo, wiki: leagueoflegends
+, team: , id: EnvyCarry, name: Erkan u015eenol, wiki: leagueoflegends
+, team: , id: EquivocaL, name: Baldwin Sai Heng Sheng, wiki: leagueoflegends
+, team: , id: Eragon, name: Adam Harney, wiki: leagueoflegends
+, team: , id: Evolved, name: Jackson Dohan, wiki: leagueoflegends
+, team: , id: Exile, name: Fabian Schubert, wiki: leagueoflegends
+, team: , id: Exosen, name: Eric Gubatan, wiki: leagueoflegends
+, team: , id: Expect, name: Ki Dae-han, wiki: leagueoflegends
+, team: , id: FEBIVEN, name: Fabian Diepstraten, wiki: leagueoflegends
+, team: , id: FORG1VEN, name: Konstantinos-Napoleon Tzortziou, wiki: leagueoflegends
+, team: , id: FZZF, name: Feng Zhuo-Jun, wiki: leagueoflegends
+, team: , id: Fanatiik, name: Gabriel Saucier, wiki: leagueoflegends
+, team: , id: FatMamma, name: Hans Bjerhem, wiki: leagueoflegends
+, team: , id: Fax, name: Lawrence Clegg, wiki: leagueoflegends
+, team: , id: FeeNiixZ, name: Sergio Garcu00eda, wiki: leagueoflegends
+, team: , id: Feint, name: Alvise Bruni, wiki: leagueoflegends
+, team: , id: Fenfen, name: Huang Chen, wiki: leagueoflegends
+, team: , id: Fenix, name: Kim Jae-hun, wiki: leagueoflegends
+, team: , id: Fill, name: Lee Hyo-won, wiki: leagueoflegends
+, team: , id: FireFox, name: Huang Ting-Hsiang, wiki: leagueoflegends
+, team: , id: FireRain, name: Choo Hwa-woo, wiki: leagueoflegends
+, team: , id: Fireloli, name: Zhao Zhiming, wiki: leagueoflegends
+, team: , id: Fittle, name: Anders Carly Wind, wiki: leagueoflegends
+, team: , id: Fitz, name: Mateus Cayres, wiki: leagueoflegends
+, team: , id: Fl4mer, name: Julien Berschuck, wiki: leagueoflegends
+, team: , id: Flaresz, name: Cuong Ta, wiki: leagueoflegends
+, team: , id: FlashInTheNight, name: Yury Shilenkov, wiki: leagueoflegends
+, team: , id: Flaxxish, name: Olof Hagberg Medin, wiki: leagueoflegends
+, team: , id: Follow, name: Ignacio Anderson, wiki: leagueoflegends
+, team: , id: Fomko, name: Anton Fomkin, wiki: leagueoflegends
+, team: , id: ForellenLord, name: Carl Lu00fcckmann, wiki: leagueoflegends
+, team: , id: Fox, name: Hampus Myhre, wiki: leagueoflegends
+, team: , id: Fragas, name: Kristopher Myhal, wiki: leagueoflegends
+, team: , id: Freire, name: Matheus Freire, wiki: leagueoflegends
+, team: , id: Freshx, name: Ibrahim Lu00f3pez Sanchez, wiki: leagueoflegends
+, team: , id: Froskurinn, name: Indiana Juniper Black, wiki: leagueoflegends
+, team: , id: Furuy, name: Mike Wils, wiki: leagueoflegends
+, team: , id: G0DFRED, name: Oskar Lundstru00f6m, wiki: leagueoflegends
+, team: , id: G4, name: Nuttapong Menkasikan, wiki: leagueoflegends
+, team: , id: GODV, name: Wei Zhen, wiki: leagueoflegends
+, team: , id: Gamsu, name: Noh Yeong-jin, wiki: leagueoflegends
+, team: , id: Gari, name: Bae Yong-jun, wiki: leagueoflegends
+, team: , id: Gear, name: Lam Kwok Wa, wiki: leagueoflegends
+, team: , id: Genes1s, name: Alexey Romanov, wiki: leagueoflegends
+, team: , id: Genja, name: Evgeny Andryushin, wiki: leagueoflegends
+, team: , id: Genza, name: Tru1ea7n Hu1ed3ng Phu00fac, wiki: leagueoflegends
+, team: , id: Ggamza, name: Lee Joo-yong, wiki: leagueoflegends
+, team: , id: Gimliques, name: Roman Generalov, wiki: leagueoflegends
+, team: , id: Glebo, name: Piotr Du0105browski, wiki: leagueoflegends
+, team: , id: GodKwai, name: Cheung Ho Wan, wiki: leagueoflegends
+, team: , id: GodLike, name: Xiao Wang, wiki: leagueoflegends
+, team: , id: Gogoing, name: Gao Di-Ping, wiki: leagueoflegends
+, team: , id: Goo, name: Bryan Yi, wiki: leagueoflegends
+, team: , id: Gorica, name: Alex Gorica, wiki: leagueoflegends
+, team: , id: GorillA, name: Kang Beom-hyeon, wiki: leagueoflegends
+, team: , id: Governor, name: James Gove, wiki: leagueoflegends
+, team: , id: Gralou, name: Emanuel Trasande, wiki: leagueoflegends
+, team: , id: Gricek, name: Hubert Brodowski, wiki: leagueoflegends
+, team: , id: Griffin, name: Raymond Griffin, wiki: leagueoflegends
+, team: , id: Grisen, name: Emil Brouwer, wiki: leagueoflegends
+, team: , id: GuGer, name: Kim Do-yeop, wiki: leagueoflegends
+, team: , id: Guilty, name: Luca Valla, wiki: leagueoflegends
+, team: , id: Guldborg, name: Mikkel Guldborg Nielsen, wiki: leagueoflegends
+, team: , id: Guoguo, name: Zeng Jun-Li, wiki: leagueoflegends
+, team: , id: H0R0, name: Cho Jae-hwan, wiki: leagueoflegends
+, team: , id: HaRleLuYaR, name: Jason Koh Wei Hao, wiki: leagueoflegends
+, team: , id: Hachiman, name: Davy de Graaf, wiki: leagueoflegends
+, team: , id: Haise, name: Vu0103n Hu1eefu Bu1ea3o, wiki: leagueoflegends
+, team: , id: Hakuho, name: Nickolas Surgent, wiki: leagueoflegends
+, team: , id: Hamez, name: James Santos, wiki: leagueoflegends
+, team: , id: Hard, name: Anthony Barkhovtsev, wiki: leagueoflegends
+, team: , id: Haretti, name: Souta Nakamura, wiki: leagueoflegends
+, team: , id: Haru, name: Kang Min-seung, wiki: leagueoflegends
+, team: , id: Hauntzer, name: Kevin Yarnell, wiki: leagueoflegends
+, team: , id: Hauz, name: Bruno Ferreira, wiki: leagueoflegends
+, team: , id: HeaQ, name: Martin Kordmaa, wiki: leagueoflegends
+, team: , id: Heart, name: Lee Gwan-hyung, wiki: leagueoflegends
+, team: , id: Helios, name: Shin Dong-jin, wiki: leagueoflegends
+, team: , id: Hinn, name: u0110inh Quang Huy, wiki: leagueoflegends
+, team: , id: Hioss, name: Emircan Hazar, wiki: leagueoflegends
+, team: , id: Hoglet, name: Kim Gwang-hyeop, wiki: leagueoflegends
+, team: , id: Hojin, name: Lee Ho-jin, wiki: leagueoflegends
+, team: , id: Homi, name: Adriu00e1n Moldes Lu00f3pez, wiki: leagueoflegends
+, team: , id: Homme, name: Yoon Sung-young, wiki: leagueoflegends
+, team: , id: Honey, name: Park Bo-heon, wiki: leagueoflegends
+, team: , id: Hooks, name: Osama Alkhalaileh, wiki: leagueoflegends
+, team: , id: HungryPanda, name: Nikos Nikolaidis, wiki: leagueoflegends
+, team: , id: Ian, name: An Jun-hyeong, wiki: leagueoflegends
+, team: , id: IchiGod, name: Tony Ng Feng, wiki: leagueoflegends
+, team: , id: Igloo, name: Jani Heinonen, wiki: leagueoflegends
+, team: , id: ImSoFresh, name: Karim Bbahla, wiki: leagueoflegends
+, team: , id: Imaqtpie, name: Michael Santana, wiki: leagueoflegends
+, team: , id: Imbi, name: Sami Sarkanen, wiki: leagueoflegends
+, team: , id: Imp, name: Gu Seung-bin, wiki: leagueoflegends
+, team: , id: InKos, name: Kevin Alpire, wiki: leagueoflegends
+, team: , id: InTreso, name: Sanpett Marat, wiki: leagueoflegends
+, team: , id: Infectrix, name: Ferdous Hassan, wiki: leagueoflegends
+, team: , id: Infinity, name: Christian Hernando San Jose, wiki: leagueoflegends
+, team: , id: Inition, name: Lukas Otter, wiki: leagueoflegends
+, team: , id: Instinct, name: Tony Ng, wiki: leagueoflegends
+, team: , id: Ippon, name: Bartosz Dzikowski, wiki: leagueoflegends
+, team: , id: Irean, name: Heo Yeong-cheol, wiki: leagueoflegends
+, team: , id: JF, name: Chio Hong Loc, wiki: leagueoflegends
+, team: , id: JaVaaa, name: Javier Martu00ednez, wiki: leagueoflegends
+, team: , id: Jakamaka, name: Jake Sampson-Roberts, wiki: leagueoflegends
+, team: , id: Jaqen, name: Mateusz Gu00f3ral, wiki: leagueoflegends
+, team: , id: Jatt, name: Joshua Leesman, wiki: leagueoflegends
+, team: , id: Jejky, name: David Jakubec, wiki: leagueoflegends
+, team: , id: JeppeHou, name: Jeppe Hougaard, wiki: leagueoflegends
+, team: , id: Jesiz, name: Jesse Le, wiki: leagueoflegends
+, team: , id: Jeskla, name: Jesper Klarin Stru00f6mberg, wiki: leagueoflegends
+, team: , id: Jiekou, name: Hu Zi-Xiang, wiki: leagueoflegends
+, team: , id: Jinjiao, name: Xie Jin-Shan, wiki: leagueoflegends
+, team: , id: Jinoo, name: Lim Jin-woo, wiki: leagueoflegends
+, team: , id: Jinsh, name: Chen Gilles Xiao-Zhou, wiki: leagueoflegends
+, team: , id: Jisoo, name: Huu1ef3nh Hu1eefu Sang, wiki: leagueoflegends
+, team: , id: Jisu, name: Park Jin-cheol, wiki: leagueoflegends
+, team: , id: Jjun, name: Kwon Jun-seok, wiki: leagueoflegends
+, team: , id: Jkalam, name: Andrew Lanooij, wiki: leagueoflegends
+, team: , id: Joe Miller, name: Joe Miller, wiki: leagueoflegends
+, team: , id: Joekerism, name: Joe Kent, wiki: leagueoflegends
+, team: , id: Joekie, name: Michael Gielisse, wiki: leagueoflegends
+, team: , id: Jonsonny, name: Joni Lyu00f6milu00e4, wiki: leagueoflegends
+, team: , id: Jree, name: Alexander Bergstru00f6m, wiki: leagueoflegends
+, team: , id: Julbu, name: Jeppe Reinicke, wiki: leagueoflegends
+, team: , id: Junri, name: Zhao Junri, wiki: leagueoflegends
+, team: , id: Justice, name: Yoon Seok-joon, wiki: leagueoflegends
+, team: , id: Juves, name: Brandon Defina, wiki: leagueoflegends
+, team: , id: Jwaow, name: Jesper Strandgren, wiki: leagueoflegends
+, team: , id: K1tava, name: Egor Maznev, wiki: leagueoflegends
+, team: , id: KRP, name: Jens Edvinsson, wiki: leagueoflegends
+, team: , id: KTSR, name: Kaan Tau015far, wiki: leagueoflegends
+, team: , id: KaKAO, name: Lee Byung-kwon, wiki: leagueoflegends
+, team: , id: Kabe, name: Kan Ho Man, wiki: leagueoflegends
+, team: , id: Kakan, name: Elias Edlund, wiki: leagueoflegends
+, team: , id: Kami, name: Gabriel Santos, wiki: leagueoflegends
+, team: , id: Kamil, name: Kamil Marcysiak, wiki: leagueoflegends
+, team: , id: Kashtelan, name: Gaweu0142 Paprzycki, wiki: leagueoflegends
+, team: , id: Katsurii, name: Robert Gouv, wiki: leagueoflegends
+, team: , id: KazeTAR, name: Weeravat Baolorphet, wiki: leagueoflegends
+, team: , id: Keane, name: Jang Lae-young, wiki: leagueoflegends
+, team: , id: Kehvo, name: Aleksi Merta, wiki: leagueoflegends
+, team: , id: Kerp, name: Adrian Wetekam, wiki: leagueoflegends
+, team: , id: Keshi, name: Park Hee-seok, wiki: leagueoflegends
+, team: , id: Keymaker, name: Hiroto Ito, wiki: leagueoflegends
+, team: , id: Khomzar, name: Nazar Khomitsky, wiki: leagueoflegends
+, team: , id: KiWiKiD, name: Alan Nguyen, wiki: leagueoflegends
+, team: , id: Kiao, name: Mateusz Sujdak, wiki: leagueoflegends
+, team: , id: Kid, name: Ge Yan, wiki: leagueoflegends
+, team: , id: Kikis, name: Mateusz Szkudlarek, wiki: leagueoflegends
+, team: , id: Killua, name: Lio Dan-Yang, wiki: leagueoflegends
+, team: , id: King, name: Trevor Roy, wiki: leagueoflegends
+, team: , id: Kinn, name: Alexandru Dumitrescu, wiki: leagueoflegends
+, team: , id: Kinzu, name: Vladyslav Belokon, wiki: leagueoflegends
+, team: , id: Kirrrra, name: Mykhailo Harmash, wiki: leagueoflegends
+, team: , id: Kitties, name: Liu Hong-Ju, wiki: leagueoflegends
+, team: , id: Kitty, name: Sander Jeroen Everink, wiki: leagueoflegends
+, team: , id: Klaabu, name: Tim Aadam Laats, wiki: leagueoflegends
+, team: , id: Kobe, name: Sam Hartman-Kenzler, wiki: leagueoflegends
+, team: , id: Korpse, name: Mehmet Turgut Aksel, wiki: leagueoflegends
+, team: , id: Kreox, name: Ilya Grom, wiki: leagueoflegends
+, team: , id: Krepo, name: Mitch Voorspoels, wiki: leagueoflegends
+, team: , id: Kroghsen, name: Daniel Krogh, wiki: leagueoflegends
+, team: , id: Kruimel, name: Brayan van Oosten, wiki: leagueoflegends
+, team: , id: KuKu, name: Lam Ka Fu, wiki: leagueoflegends
+, team: , id: KuMaMoTo, name: Vilayouth Vongthilath, wiki: leagueoflegends
+, team: , id: Kubz, name: Kublai Barlas, wiki: leagueoflegends
+, team: , id: Kuma, name: Park Hyeon-gyu, wiki: leagueoflegends
+, team: , id: Kuri, name: Choi Won-yeong, wiki: leagueoflegends
+, team: , id: Kuro, name: Lee Seo-haeng, wiki: leagueoflegends
+, team: , id: Kyon, name: Kyoji Tanaka, wiki: leagueoflegends
+, team: , id: LEP, name: Pedro Luiz Marcari, wiki: leagueoflegends
+, team: , id: LL, name: Ngu00f4 Minh Quu00e2n, wiki: leagueoflegends
+, team: , id: LUBEEENZZZ, name: Lyuben Hadziev, wiki: leagueoflegends
+, team: , id: LaMiaZeaLoT, name: Manuel Mildenberger, wiki: leagueoflegends
+, team: , id: Laden, name: Kang Byung-ho, wiki: leagueoflegends
+, team: , id: Lagiah, name: Bju00f6rn Kalcum, wiki: leagueoflegends
+, team: , id: Lakinther, name: Rauno Veski, wiki: leagueoflegends
+, team: , id: Last, name: Jeong Yeong-seok, wiki: leagueoflegends
+, team: , id: Lastwolf, name: Andru00e9 Costa, wiki: leagueoflegends
+, team: , id: Lautemortis, name: Tyler Nicholls, wiki: leagueoflegends
+, team: , id: LeTigressash, name: Gabriella Devia-Allen, wiki: leagueoflegends
+, team: , id: LeX, name: Alexei Chitac, wiki: leagueoflegends
+, team: , id: Lekcycc, name: Alexander Lexikov, wiki: leagueoflegends
+, team: , id: LemonNation, name: Daerek Hart, wiki: leagueoflegends
+, team: , id: Lenny, name: Lenny Uytterhoeven, wiki: leagueoflegends
+, team: , id: Leodaras, name: Christodoulos Leodaras, wiki: leagueoflegends
+, team: , id: Letme, name: Yan Jun-Ze, wiki: leagueoflegends
+, team: , id: Lewus, name: Wojtek Strykowski, wiki: leagueoflegends
+, team: , id: Ley, name: Le Yi, wiki: leagueoflegends
+, team: , id: Librid, name: Nikita Frunza, wiki: leagueoflegends
+, team: , id: Lies, name: Guo Hao-Tian, wiki: leagueoflegends
+, team: , id: Lilballz, name: Sung Kuan-Po, wiki: leagueoflegends
+, team: , id: Lillebelt, name: Yosiaki Koka, wiki: leagueoflegends
+, team: , id: Lindarang, name: Heo Man-heung, wiki: leagueoflegends
+, team: , id: Lloyd, name: Juckkirsts Kongubon, wiki: leagueoflegends
+, team: , id: Locodoco, name: Choi Yoon-seop, wiki: leagueoflegends
+, team: , id: Lodik, name: Stanislav Kornelyuk, wiki: leagueoflegends
+, team: , id: LokeN, name: Lee Dong-wook, wiki: leagueoflegends
+, team: , id: LongB, name: Serkan u00dclku00fccu00fc, wiki: leagueoflegends
+, team: , id: Looca, name: Luca Hansen, wiki: leagueoflegends
+, team: , id: Looper, name: Jang Hyeong-seok, wiki: leagueoflegends
+, team: , id: Lotus, name: Duu0161an Nedeljkoviu0107, wiki: leagueoflegends
+, team: , id: LoveLing, name: Yin Le, wiki: leagueoflegends
+, team: , id: Lucky, name: Luca Santos, wiki: leagueoflegends
+, team: , id: Lukezy, name: Luka Trumbiu0107, wiki: leagueoflegends
+, team: , id: Lumerion, name: Elias Gashonga, wiki: leagueoflegends
+, team: , id: Lvsyan, name: Sergi Madrigal Gu00f3mez, wiki: leagueoflegends
+, team: , id: Lyric, name: Jordan Corby, wiki: leagueoflegends
+, team: , id: MANTARRAYA, name: Juan Ignacio Abdu00f3n, wiki: leagueoflegends
+, team: , id: MaGeRdAnGeR, name: Jason Magerkurth, wiki: leagueoflegends
+, team: , id: MaKNooN, name: Yoon Ha-woon, wiki: leagueoflegends
+, team: , id: MaRin, name: Jang Gyeong-hwan, wiki: leagueoflegends
+, team: , id: Mac, name: Geordie McAleer, wiki: leagueoflegends
+, team: , id: MadLife, name: Hong Min-gi, wiki: leagueoflegends
+, team: , id: Madly, name: Ferhat Can Atma, wiki: leagueoflegends
+, team: , id: Madness, name: Gu00f6khan Uu00e7ar, wiki: leagueoflegends
+, team: , id: Mafa, name: Won Sang-yeon, wiki: leagueoflegends
+, team: , id: Mafab, name: Maximilian Sindermann, wiki: leagueoflegends
+, team: , id: MagiFelix, name: Felix Bostru00f6m, wiki: leagueoflegends
+, team: , id: Magic, name: Zhou Jun-Xuan, wiki: leagueoflegends
+, team: , id: Malice, name: Sebastian Edholm, wiki: leagueoflegends
+, team: , id: Manu, name: Manuel Villa, wiki: leagueoflegends
+, team: , id: Maplestreet, name: Ainslie Wyllie, wiki: leagueoflegends
+, team: , id: MarkZ, name: Mark Zimmerman, wiki: leagueoflegends
+, team: , id: Marrow Ooze, name: Luka Cvetkoviu0107, wiki: leagueoflegends
+, team: , id: Masterwork, name: Casper van Kampen, wiki: leagueoflegends
+, team: , id: Masyo, name: Shoma Sasaki, wiki: leagueoflegends
+, team: , id: Mata, name: Cho Se-hyeong, wiki: leagueoflegends
+, team: , id: Max, name: Jeong Jong-bin, wiki: leagueoflegends
+, team: , id: Maximillion, name: Hamza Kandemir, wiki: leagueoflegends
+, team: , id: Meech, name: Brandon Choi, wiki: leagueoflegends
+, team: , id: MegaZero, name: Patrick Glinsman, wiki: leagueoflegends
+, team: , id: Meight, name: Tu00f6ru00f6k Mu00e1tu00e9, wiki: leagueoflegends
+, team: , id: Meliodas, name: Hou00e0ng Tiu1ebfn Nhu1eadt, wiki: leagueoflegends
+, team: , id: Mellisan, name: Peter Meisrimel, wiki: leagueoflegends
+, team: , id: Memory, name: Yang Ju-Bao, wiki: leagueoflegends
+, team: , id: Merao, name: Aida Kazarjan, wiki: leagueoflegends
+, team: , id: Mercenary, name: Ali Musaew, wiki: leagueoflegends
+, team: , id: Meron, name: Kiichi Watanabe, wiki: leagueoflegends
+, team: , id: Merza, name: Aleksi Merilu00e4inen, wiki: leagueoflegends
+, team: , id: Metalx, name: Tom Latour, wiki: leagueoflegends
+, team: , id: Meteos, name: William Hartman, wiki: leagueoflegends
+, team: , id: MiSTakE, name: Chen Hui Chung, wiki: leagueoflegends
+, team: , id: Mia, name: Choi Sang-in, wiki: leagueoflegends
+, team: , id: Mickey, name: Son Young-min, wiki: leagueoflegends
+, team: , id: Mightybear, name: Kim Min-su, wiki: leagueoflegends
+, team: , id: Mihai, name: Alexandru Mihai Zamfirache, wiki: leagueoflegends
+, team: , id: MikeYeung, name: Michael Yeung, wiki: leagueoflegends
+, team: , id: Milica, name: Aljou0161a Kovandu017eiu0107, wiki: leagueoflegends
+, team: , id: Mills, name: Guilherme Uessler Conti, wiki: leagueoflegends
+, team: , id: Mimer, name: Mimer Ahlstru00f6m, wiki: leagueoflegends
+, team: , id: Mimic, name: Min Ju-seong, wiki: leagueoflegends
+, team: , id: Mirbs, name: Alex Holmin, wiki: leagueoflegends
+, team: , id: Mirror, name: Rudy Beltran, wiki: leagueoflegends
+, team: , id: Misaya, name: Yu Jing-Xi, wiki: leagueoflegends
+, team: , id: Mist, name: Lin Zi-Lan, wiki: leagueoflegends
+, team: , id: Mke, name: Mike van den Eventuin, wiki: leagueoflegends
+, team: , id: Mlxg, name: Liu Shi-Yu, wiki: leagueoflegends
+, team: , id: MoMa, name: Maik Wallus, wiki: leagueoflegends
+, team: , id: MoSiTing, name: Chris Wu00fcrger, wiki: leagueoflegends
+, team: , id: Mocha, name: Kim Tae-gyeom, wiki: leagueoflegends
+, team: , id: Mong, name: Moon Chang-min, wiki: leagueoflegends
+, team: , id: Monk, name: Joosep Kivilaan, wiki: leagueoflegends
+, team: , id: Moo, name: Adam Mura, wiki: leagueoflegends
+, team: , id: Moojin, name: Kim Moo-jin, wiki: leagueoflegends
+, team: , id: Moopz, name: Amaury Minguerche, wiki: leagueoflegends
+, team: , id: Morning, name: Chen Kuan-Ting, wiki: leagueoflegends
+, team: , id: Morsu, name: Bram Knol, wiki: leagueoflegends
+, team: , id: Motive, name: Cho Se-hee, wiki: leagueoflegends
+, team: , id: Mountain, name: Xue Zhao-Hong, wiki: leagueoflegends
+, team: , id: Mouse, name: Chen Yu-Hao, wiki: leagueoflegends
+, team: , id: Move, name: Kang Min-su, wiki: leagueoflegends
+, team: , id: Moyu, name: Xiong Hui-Dong, wiki: leagueoflegends
+, team: , id: MrRalleZ, name: Rasmus Skinneholm, wiki: leagueoflegends
+, team: , id: Muvert, name: Tobias Wall-Horgen, wiki: leagueoflegends
+, team: , id: Mylon, name: Matheus Borges, wiki: leagueoflegends
+, team: , id: Mystic, name: Jin Seong-jun, wiki: leagueoflegends
+, team: , id: Mytheos, name: Pavlos Voriatzidis, wiki: leagueoflegends
+, team: , id: NIXWATER, name: Mai Nhu1eadt Tu00e2n, wiki: leagueoflegends
+, team: , id: NL, name: Hsiung Wen-An, wiki: leagueoflegends
+, team: , id: NaMei, name: Zhu Jia-Wen, wiki: leagueoflegends
+, team: , id: Naelynn, name: Nathalie Novu00e1kovu00e1, wiki: leagueoflegends
+, team: , id: Nagi, name: Genta Tada, wiki: leagueoflegends
+, team: , id: Nagne, name: Kim Sang-moon, wiki: leagueoflegends
+, team: , id: Namex, name: Mikael Axelsson, wiki: leagueoflegends
+, team: , id: Nardeus, name: Tomu00e1u0161 Maru0161u00e1lek, wiki: leagueoflegends
+, team: , id: Naru, name: Koray Bu0131u00e7ak, wiki: leagueoflegends
+, team: , id: Nasser, name: Nasser Rifai, wiki: leagueoflegends
+, team: , id: Natsume, name: Natsume Funada, wiki: leagueoflegends
+, team: , id: Naxxy, name: Christian Jensen, wiki: leagueoflegends
+, team: , id: Nemoh, name: Keisuke Koresawa, wiki: leagueoflegends
+, team: , id: Neo, name: Moon Ji-won, wiki: leagueoflegends
+, team: , id: Nevan, name: Phu00f9ng Thiu1ec7n Nhu00e2n, wiki: leagueoflegends
+, team: , id: Newbie, name: Leandro Marcos, wiki: leagueoflegends
+, team: , id: NicoThePico, name: Nicholas Korsgu00e5rd, wiki: leagueoflegends
+, team: , id: Nightmares, name: Richard Gielisse, wiki: leagueoflegends
+, team: , id: NikSar, name: Valentin Zimakov, wiki: leagueoflegends
+, team: , id: Nille, name: Juho Wilhelm Janhunen, wiki: leagueoflegends
+, team: , id: Nisbeth, name: Nicolai Nisbeth, wiki: leagueoflegends
+, team: , id: Nji, name: Cantoursna An, wiki: leagueoflegends
+, team: , id: NoFe, name: Jeong No-chul, wiki: leagueoflegends
+, team: , id: Noi, name: Charles Lapassat, wiki: leagueoflegends
+, team: , id: Noltey, name: Thomas Nolte, wiki: leagueoflegends
+, team: , id: Nomanz, name: Lev Yakshin, wiki: leagueoflegends
+, team: , id: NooB, name: Lu00e9o Pitrey, wiki: leagueoflegends
+, team: , id: Noway, name: Nguyu1ec5n Vu0169 Long, wiki: leagueoflegends
+, team: , id: Nyph, name: Patrick Funke, wiki: leagueoflegends
+, team: , id: OPAL, name: Alexander Archambault, wiki: leagueoflegends
+, team: , id: OTTO, name: Hou Guo-Yu, wiki: leagueoflegends
+, team: , id: Obvious, name: Dennis Su00f8rensen, wiki: leagueoflegends
+, team: , id: OdduGi, name: Song Kwang-ho, wiki: leagueoflegends
+, team: , id: Ohq, name: Oh Gyu-min, wiki: leagueoflegends
+, team: , id: Olleh, name: Kim Joo-sung, wiki: leagueoflegends
+, team: , id: OmarGod, name: Omar Amin, wiki: leagueoflegends
+, team: , id: Once, name: Jang Se-yeong, wiki: leagueoflegends
+, team: , id: Only35, name: Mehmet Emin Aydu0131n, wiki: leagueoflegends
+, team: , id: Optimas, name: Rolandas Vincaloviu010dius, wiki: leagueoflegends
+, team: , id: Outlandisch, name: Sermend Alhmawendi, wiki: leagueoflegends
+, team: , id: Ovilee, name: Ovilee May, wiki: leagueoflegends
+, team: , id: OzoraVeki, name: Poon Kok Sing, wiki: leagueoflegends
+, team: , id: POILK, name: Vilhelm Flennmark, wiki: leagueoflegends
+, team: , id: Pabu, name: Jackson Pavone, wiki: leagueoflegends
+, team: , id: Pake, name: Huu1ef3nh Thanh Hou00e0ng, wiki: leagueoflegends
+, team: , id: Paladin, name: Cheon Joon-hee, wiki: leagueoflegends
+, team: , id: Panda, name: James Ding, wiki: leagueoflegends
+, team: , id: Papryze, name: Daniel Francis, wiki: leagueoflegends
+, team: , id: Paranoia, name: Ivan Tipuhov, wiki: leagueoflegends
+, team: , id: Pastrytime, name: Julian Carr, wiki: leagueoflegends
+, team: , id: Pat, name: Lee Seung-yong, wiki: leagueoflegends
+, team: , id: Patoy, name: Jordan Blackburn, wiki: leagueoflegends
+, team: , id: PawN, name: Heo Won-seok, wiki: leagueoflegends
+, team: , id: PekiDo, name: Evgeniy Moskalenko, wiki: leagueoflegends
+, team: , id: Penguin, name: Oisu00edn Molloy, wiki: leagueoflegends
+, team: , id: Petland, name: Vu00f5 Huu1ef3nh Quang Huy, wiki: leagueoflegends
+, team: , id: Phantoml0rd, name: James Varga, wiki: leagueoflegends
+, team: , id: Phoenix, name: Maarten Van Dyck, wiki: leagueoflegends
+, team: , id: Phreak, name: David Turley, wiki: leagueoflegends
+, team: , id: Phrenic, name: Gerrit Stukemeier, wiki: leagueoflegends
+, team: , id: Piccaboo, name: Lee Jong-beom, wiki: leagueoflegends
+, team: , id: Pierre, name: Misael Di Ciancia, wiki: leagueoflegends
+, team: , id: Pilot, name: Na Woo-hyung, wiki: leagueoflegends
+, team: , id: Pink, name: Soya Koizumi, wiki: leagueoflegends
+, team: , id: Pink Bean, name: Keiya Kato, wiki: leagueoflegends
+, team: , id: Pirean, name: Choi Jun-sik, wiki: leagueoflegends
+, team: , id: Pjush, name: Anette Holm, wiki: leagueoflegends
+, team: , id: Plox, name: Miljan Mandiu0107, wiki: leagueoflegends
+, team: , id: Pooh, name: Norimitsu Hosogai, wiki: leagueoflegends
+, team: , id: Potluck, name: Nicholas James Joseph Pollock, wiki: leagueoflegends
+, team: , id: Poulsen, name: Nicklas Poulsen, wiki: leagueoflegends
+, team: , id: Pr1me, name: Mustafa Bilici, wiki: leagueoflegends
+, team: , id: PraY, name: Kim Jong-in, wiki: leagueoflegends
+, team: , id: Practice, name: u00d6mer Tu00fcrgu00fct, wiki: leagueoflegends
+, team: , id: Prelude, name: Matthew Wong Sang, wiki: leagueoflegends
+, team: , id: Pride, name: Franco Jesu00fas Sanzana Villarroel, wiki: leagueoflegends
+, team: , id: Prime, name: Yoon Du-sik, wiki: leagueoflegends
+, team: , id: Professor, name: Matheus Leiriu00e3o, wiki: leagueoflegends
+, team: , id: Proud, name: Lee Jeong-jae, wiki: leagueoflegends
+, team: , id: Puki Style, name: u0141ukasz Zygmunciak, wiki: leagueoflegends
+, team: , id: Pulsas, name: Aurimas Morozovas, wiki: leagueoflegends
+, team: , id: Punch, name: Son Min-hyuk, wiki: leagueoflegends
+, team: , id: PvPStejos, name: Aleksandr Glazkov, wiki: leagueoflegends
+, team: , id: Pyl, name: Chen Bo, wiki: leagueoflegends
+, team: , id: QaspieL, name: Eric Sia Sze Pin, wiki: leagueoflegends
+, team: , id: Quickshot, name: Trevor Henry, wiki: leagueoflegends
+, team: , id: Quinncidence, name: Markus Tobin, wiki: leagueoflegends
+, team: , id: RD, name: Liang Teng-Li, wiki: leagueoflegends
+, team: , id: REMIND, name: Kim Hong-ju, wiki: leagueoflegends
+, team: , id: Raheen, name: Sami Raheen, wiki: leagueoflegends
+, team: , id: Raid, name: Julian Skordos, wiki: leagueoflegends
+, team: , id: Rainbrain, name: Shin Iwasaki, wiki: leagueoflegends
+, team: , id: Raise, name: Oh Ji-hwan, wiki: leagueoflegends
+, team: , id: Raizins, name: Neyas Guruswamy, wiki: leagueoflegends
+, team: , id: RapidStar, name: Jung Min-sung, wiki: leagueoflegends
+, team: , id: Ravea, name: Joanna Janeczek, wiki: leagueoflegends
+, team: , id: Raven, name: Kenneth Goh, wiki: leagueoflegends
+, team: , id: Raven, name: Kim Ae-jun, wiki: leagueoflegends
+, team: , id: Raxhy, name: Oliver Hovstadius, wiki: leagueoflegends
+, team: , id: Raz, name: Barento Mohammed, wiki: leagueoflegends
+, team: , id: Redentor, name: Lucas Ferreira Melo, wiki: leagueoflegends
+, team: , id: Reedfoo, name: Dominik Kitler, wiki: leagueoflegends
+, team: , id: Rein, name: Artem Zenyan, wiki: leagueoflegends
+, team: , id: Reiya, name: Reiya Sakamoto, wiki: leagueoflegends
+, team: , id: Relic, name: Josu00e9 Pombo Ribeiro, wiki: leagueoflegends
+, team: , id: Remilia, name: Maria Creveling, wiki: leagueoflegends
+, team: , id: Reven, name: Seong Sang-hyeon, wiki: leagueoflegends
+, team: , id: Revol, name: Ryosuke Kakizaki, wiki: leagueoflegends
+, team: , id: Rex, name: Kim Tae-yeon, wiki: leagueoflegends
+, team: , id: Rhino, name: Douglas Reynolds, wiki: leagueoflegends
+, team: , id: Rich, name: Warich Kittiwattanawong, wiki: leagueoflegends
+, team: , id: Rifty, name: Ashley Mayes, wiki: leagueoflegends
+, team: , id: Rikara, name: Richard Samuel Oh, wiki: leagueoflegends
+, team: , id: Rikka, name: Zhang Jue, wiki: leagueoflegends
+, team: , id: Ripi, name: Calvin Law, wiki: leagueoflegends
+, team: , id: Ritix, name: Rytis Lekstutis, wiki: leagueoflegends
+, team: , id: Riv, name: Rivington Bruce Bisland III, wiki: leagueoflegends
+, team: , id: Riyev, name: Marcelo Carrara, wiki: leagueoflegends
+, team: , id: Road, name: Yun Han-gil, wiki: leagueoflegends
+, team: , id: Rocklho, name: Felix Bao Duy Ho, wiki: leagueoflegends
+, team: , id: Rodov, name: Tom Rodov, wiki: leagueoflegends
+, team: , id: Roison, name: Michau0142 Dubiel, wiki: leagueoflegends
+, team: , id: RoseThorn, name: Kim Tae-ho, wiki: leagueoflegends
+, team: , id: Rosey, name: Andrew Rose, wiki: leagueoflegends
+, team: , id: Route, name: Moon Geom-su, wiki: leagueoflegends
+, team: , id: Rowelly, name: Billy Rowell, wiki: leagueoflegends
+, team: , id: Rusty, name: Zack Pye, wiki: leagueoflegends
+, team: , id: Rybson, name: Artur Gu0119bicz, wiki: leagueoflegends
+, team: , id: Ryu, name: Yoo Sang-wook, wiki: leagueoflegends
+, team: , id: Ryuzaki, name: Duu0161an Petkoviu0107, wiki: leagueoflegends
+, team: , id: S0NSTAR, name: Son Seung-ik, wiki: leagueoflegends
+, team: , id: SaNTaS, name: Aleksandr Lifashin, wiki: leagueoflegends
+, team: , id: Sacre, name: Toni Sabaliu0107, wiki: leagueoflegends
+, team: , id: Saddy, name: Pierpaolo Oliva, wiki: leagueoflegends
+, team: , id: Safir, name: Mohammad Karim Tokhi, wiki: leagueoflegends
+, team: , id: Saintvicious, name: Brandon DiMarco, wiki: leagueoflegends
+, team: , id: Sairusq, name: Kristian Husso, wiki: leagueoflegends
+, team: , id: Saizo, name: Richard Pascoletti, wiki: leagueoflegends
+, team: , id: Samux, name: Samuel Fernu00e1ndez Fort, wiki: leagueoflegends
+, team: , id: Sangyoon, name: Gwon Sang-yun, wiki: leagueoflegends
+, team: , id: Sardoche, name: Andru00e9as Honnet, wiki: leagueoflegends
+, team: , id: Saroo, name: Lee Jong-won, wiki: leagueoflegends
+, team: , id: Savage, name: Jang Seung-gyu, wiki: leagueoflegends
+, team: , id: Save, name: Baek Young-jin, wiki: leagueoflegends
+, team: , id: Saviour, name: Vladen Dvoretskiy, wiki: leagueoflegends
+, team: , id: Sawyor, name: Jiu0159u00ed Libu00e1nsku00fd, wiki: leagueoflegends
+, team: , id: Score, name: Go Dong-bin, wiki: leagueoflegends
+, team: , id: Sebekx, name: Sebastian Smejkal, wiki: leagueoflegends
+, team: , id: Sebs, name: Sebastiaan Veldkamp, wiki: leagueoflegends
+, team: , id: Secr3t, name: u00d4ng Gia Nguyu00ean, wiki: leagueoflegends
+, team: , id: Sedrion, name: Tarik Holz, wiki: leagueoflegends
+, team: , id: Seffe, name: Sebastian Tenn, wiki: leagueoflegends
+, team: , id: Seigimitsu, name: Evgeny Podlobnikov, wiki: leagueoflegends
+, team: , id: Selfie, name: Marcin Wolski, wiki: leagueoflegends
+, team: , id: Selfway, name: Jere Oikarinen, wiki: leagueoflegends
+, team: , id: Send0o, name: Rosendo Fuentes, wiki: leagueoflegends
+, team: , id: Seraph, name: Shin Woo-yeong, wiki: leagueoflegends
+, team: , id: Sericus, name: Yuxuan Xia, wiki: leagueoflegends
+, team: , id: ShLaYa, name: Tony Carmona, wiki: leagueoflegends
+, team: , id: Shacker, name: Mojtaba Aflaton, wiki: leagueoflegends
+, team: , id: Shade, name: Rodrigo Sandoval, wiki: leagueoflegends
+, team: , id: ShadowmaRe, name: Finn Lau00dfe Fries, wiki: leagueoflegends
+, team: , id: Shaoran, name: Tru1ea7n Hou00e0ng Phu00fac, wiki: leagueoflegends
+, team: , id: Sheep, name: Jamie Gallagher, wiki: leagueoflegends
+, team: , id: Shellkunchik, name: Nikita Sangriy, wiki: leagueoflegends
+, team: , id: Shemek, name: Damien Soulagnet, wiki: leagueoflegends
+, team: , id: Shera, name: Winston Tai Yi Sheng, wiki: leagueoflegends
+, team: , id: Shiganari, name: Artyom Pervushin, wiki: leagueoflegends
+, team: , id: Shini, name: Diogo Rogu00ea, wiki: leagueoflegends
+, team: , id: Shinsekai, name: Alex Tan, wiki: leagueoflegends
+, team: , id: Shiphtur, name: Danny Le, wiki: leagueoflegends
+, team: , id: Shogun, name: Jonathan Guy, wiki: leagueoflegends
+, team: , id: Shook, name: Ilyas Hartsema, wiki: leagueoflegends
+, team: , id: Shrimp, name: Lee Byeong-hoon, wiki: leagueoflegends
+, team: , id: Shushei, name: Maciej Ratuszniak, wiki: leagueoflegends
+, team: , id: Siler, name: Ernesto Castau00f1eda, wiki: leagueoflegends
+, team: , id: Sim, name: Sim Sung-soo, wiki: leagueoflegends
+, team: , id: SirT, name: Thu00falio Carlos, wiki: leagueoflegends
+, team: , id: Sirinox, name: Michal Veit, wiki: leagueoflegends
+, team: , id: Sjokz, name: Eefje Depoortere, wiki: leagueoflegends
+, team: , id: Skain, name: David Carbu00f3 Ferrer, wiki: leagueoflegends
+, team: , id: Skash, name: Arthur Ermolaev, wiki: leagueoflegends
+, team: , id: Skeden, name: Theodor Nagelkerke, wiki: leagueoflegends
+, team: , id: Sks, name: Yang Dai-Zhi, wiki: leagueoflegends
+, team: , id: SkuLL, name: Ng Gary Kwok Man, wiki: leagueoflegends
+, team: , id: Sky, name: Kim Ha-neul, wiki: leagueoflegends
+, team: , id: SkyTec, name: Daniel Soetikno, wiki: leagueoflegends
+, team: , id: Skyyart, name: Willy Dias, wiki: leagueoflegends
+, team: , id: Sloth, name: Lee Tae-yeong, wiki: leagueoflegends
+, team: , id: Slow, name: Eduardo Franco Garcu00e9s Cerda, wiki: leagueoflegends
+, team: , id: Slugger, name: Lee Geon-woo, wiki: leagueoflegends
+, team: , id: Smeb, name: Song Kyung-ho, wiki: leagueoflegends
+, team: , id: Smurf, name: Dmitri Ivanov, wiki: leagueoflegends
+, team: , id: Snoopeh, name: Stephen Ellis, wiki: leagueoflegends
+, team: , id: SnowFlower, name: No Hoi-jong, wiki: leagueoflegends
+, team: , id: Snuggli, name: Rich Farmery, wiki: leagueoflegends
+, team: , id: Snurmi, name: Rami Nurmi, wiki: leagueoflegends
+, team: , id: SoaR, name: Lee Gang-pyo, wiki: leagueoflegends
+, team: , id: Sookie, name: Martina Marcaccio, wiki: leagueoflegends
+, team: , id: Soren, name: Su00f8ren Holdt Frederiksen, wiki: leagueoflegends
+, team: , id: Soul, name: Victor Martinez, wiki: leagueoflegends
+, team: , id: Soulah, name: David van Buuren, wiki: leagueoflegends
+, team: , id: Space, name: Seon Ho-san, wiki: leagueoflegends
+, team: , id: Spectral, name: Domantas Gedvilas, wiki: leagueoflegends
+, team: , id: Speedy, name: George Daniel Savu, wiki: leagueoflegends
+, team: , id: Spontexx, name: Eric Peugeot, wiki: leagueoflegends
+, team: , id: Srtty, name: Jett Joye, wiki: leagueoflegends
+, team: , id: St1ng, name: Luis Gustavo Dirami Martins, wiki: leagueoflegends
+, team: , id: Stanley, name: Wang June-Tsan, wiki: leagueoflegends
+, team: , id: StarLast, name: Han Jin-hui, wiki: leagueoflegends
+, team: , id: StarSpring, name: Shin Seung-min, wiki: leagueoflegends
+, team: , id: Stardust, name: Son Seok-hee, wiki: leagueoflegends
+, team: , id: Starky, name: Artem Starkov, wiki: leagueoflegends
+, team: , id: Stefan, name: Stefan Nikoliu0107, wiki: leagueoflegends
+, team: , id: Stitch, name: Lee Seung-ju, wiki: leagueoflegends
+, team: , id: Stomaged, name: Furkan Gu00fcngu00f6r, wiki: leagueoflegends
+, team: , id: Storm, name: Lee Jae-dong, wiki: leagueoflegends
+, team: , id: SuNo, name: , wiki: leagueoflegends
+, team: , id: Sun, name: Josh Cook, wiki: leagueoflegends
+, team: , id: SunSieu, name: Tru1ea7n Nhu1edb Thu01b0u01a1ng, wiki: leagueoflegends
+, team: , id: SunSunSun, name: Ronnakrit Jaideecharoen, wiki: leagueoflegends
+, team: , id: Svensson, name: Simon Svensson, wiki: leagueoflegends
+, team: , id: Swift, name: Baek Da-hoon, wiki: leagueoflegends
+, team: , id: Sword, name: Choi Seong-won, wiki: leagueoflegends
+, team: , id: SwordArT, name: Hu Shuo-Chieh, wiki: leagueoflegends
+, team: , id: Swordd, name: Rico Chen, wiki: leagueoflegends
+, team: , id: Symphony, name: Aleksey Tyunin, wiki: leagueoflegends
+, team: , id: TF Blade, name: Ashkan Homayouni, wiki: leagueoflegends
+, team: , id: TH, name: Tru1ea7n Lu00ea Trung Hu1eadu, wiki: leagueoflegends
+, team: , id: TR1GGERED, name: Diana Roman, wiki: leagueoflegends
+, team: , id: Tabasko, name: Wojciech Kruza, wiki: leagueoflegends
+, team: , id: Tabzz, name: Erik van Helvert, wiki: leagueoflegends
+, team: , id: Taikki, name: Arttu Sirkka, wiki: leagueoflegends
+, team: , id: Tak, name: Vong Tak Seng, wiki: leagueoflegends
+, team: , id: Tank, name: Park Dan-won, wiki: leagueoflegends
+, team: , id: Taurus, name: u0110u1eb7ng Vu0103n Tu00e0i, wiki: leagueoflegends
+, team: , id: Taxer, name: Christian Vendelbo Bylling Jensen, wiki: leagueoflegends
+, team: , id: Telas, name: Luis Gustavo de Lima Drumond, wiki: leagueoflegends
+, team: , id: Thal, name: Park Kwon-hyuk, wiki: leagueoflegends
+, team: , id: TheRainMan, name: Christian Kahmann, wiki: leagueoflegends
+, team: , id: TheTess, name: Kasper Poulsen, wiki: leagueoflegends
+, team: , id: Thebausffs, name: Simon Hofverberg, wiki: leagueoflegends
+, team: , id: Thien, name: Romeo Tran, wiki: leagueoflegends
+, team: , id: Thinkcard, name: Thomas Slotkin, wiki: leagueoflegends
+, team: , id: Thurizao, name: Cu00e9lio Oliveira, wiki: leagueoflegends
+, team: , id: Tiara, name: Ilmo Osmo Antero Rapeli, wiki: leagueoflegends
+, team: , id: Tibor, name: Tibor Trou0161elj, wiki: leagueoflegends
+, team: , id: Tiger, name: Alan Roger, wiki: leagueoflegends
+, team: , id: Toaster, name: Augustas Ruplys, wiki: leagueoflegends
+, team: , id: Tom, name: Im Jae-hyeon, wiki: leagueoflegends
+, team: , id: Tonello, name: Felipe Tonello Calesco de Souza, wiki: leagueoflegends
+, team: , id: Topoon, name: Kim Ji-hoon, wiki: leagueoflegends
+, team: , id: Totoro, name: Eun Jong-seop, wiki: leagueoflegends
+, team: , id: TraYtoN, name: Jean Medzadourian, wiki: leagueoflegends
+, team: , id: Trianna, name: Kseniya Mescheryakova, wiki: leagueoflegends
+, team: , id: Trick, name: Kim Gang-yun, wiki: leagueoflegends
+, team: , id: Tuesday, name: Jean-Su00e9bastien Thery, wiki: leagueoflegends
+, team: , id: Turanaga, name: Borislav Botev, wiki: leagueoflegends
+, team: , id: TusiN, name: Park Jong-ik, wiki: leagueoflegends
+, team: , id: U, name: Zeng Long, wiki: leagueoflegends
+, team: , id: UDYSOF, name: Toby Horne, wiki: leagueoflegends
+, team: , id: Uinyan, name: Takashi Inoue, wiki: leagueoflegends
+, team: , id: Unho1y, name: Alexander Sevostianov, wiki: leagueoflegends
+, team: , id: Unknown, name: Marcin Kubicki, wiki: leagueoflegends
+, team: , id: Untara, name: Park Ui-jin, wiki: leagueoflegends
+, team: , id: Uzi, name: Jian Zi-Hao, wiki: leagueoflegends
+, team: , id: Valdes, name: Brendan Valdes, wiki: leagueoflegends
+, team: , id: Value, name: Ross Luppino, wiki: leagueoflegends
+, team: , id: Vamir, name: Floris Tuijn, wiki: leagueoflegends
+, team: , id: Vardags, name: Pontus Dahlblom, wiki: leagueoflegends
+, team: , id: Vasilii, name: Li Wei-Jun, wiki: leagueoflegends
+, team: , id: Vaunted, name: Valentin Gradow, wiki: leagueoflegends
+, team: , id: Vayu, name: Anders Hassager Beyer, wiki: leagueoflegends
+, team: , id: Vecet, name: Arthur Nogueira, wiki: leagueoflegends
+, team: , id: Vedius, name: Andrew Day, wiki: leagueoflegends
+, team: , id: Venus, name: Bu00f9i Nguyu1ec5n Quu1ed1c Hou00e0ng, wiki: leagueoflegends
+, team: , id: Veritas, name: Kim Kyoung-min, wiki: leagueoflegends
+, team: , id: Victory, name: Nguyu1ec5n Quu1ed1c Thu1eafng, wiki: leagueoflegends
+, team: , id: VincentVega, name: Egor Medvedev, wiki: leagueoflegends
+, team: , id: VioletFairy, name: Elena Koval, wiki: leagueoflegends
+, team: , id: Vital, name: Ha In-seong, wiki: leagueoflegends
+, team: , id: Vizility, name: Jeffrey de Vries, wiki: leagueoflegends
+, team: , id: Voidle, name: Erih Sommermann, wiki: leagueoflegends
+, team: , id: Von, name: Dimitris Bakiris, wiki: leagueoflegends
+, team: , id: WADID, name: Kim Bae-in, wiki: leagueoflegends
+, team: , id: Wardain, name: Adrian Nou00ebl Mu00fcry, wiki: leagueoflegends
+, team: , id: Warden, name: Lukas Lenikas, wiki: leagueoflegends
+, team: , id: Warhunter, name: Roman Irzaev, wiki: leagueoflegends
+, team: , id: Warzone, name: u0110ou00e0n Vu0103n Ngu1ecdc Su01a1n, wiki: leagueoflegends
+, team: , id: Wasteee, name: Serkan Dou011fan, wiki: leagueoflegends
+, team: , id: Watch, name: Cho Jae-geol, wiki: leagueoflegends
+, team: , id: Wei, name: Fu Chien-Wei, wiki: leagueoflegends
+, team: , id: WeiLun, name: Tsai Wei-Lun, wiki: leagueoflegends
+, team: , id: WeiXiao, name: Gao Xue-Cheng, wiki: leagueoflegends
+, team: , id: WeiZor, name: Andreas Svanholm, wiki: leagueoflegends
+, team: , id: Wenbo, name: Marc Ostner, wiki: leagueoflegends
+, team: , id: Wendelbo, name: Daniel Ernst Wendelbo, wiki: leagueoflegends
+, team: , id: Werlyb, name: Jorge Casanovas Moreno-Torres, wiki: leagueoflegends
+, team: , id: Westdoor, name: Liu Shu-Wei, wiki: leagueoflegends
+, team: , id: Wh1t3zZ, name: Lo Pun Wai, wiki: leagueoflegends
+, team: , id: Wickd, name: Mike Petersen, wiki: leagueoflegends
+, team: , id: WildHeart, name: Roman Maksimchuk, wiki: leagueoflegends
+, team: , id: WildStars, name: Christian Riis, wiki: leagueoflegends
+, team: , id: Wilder, name: Jeong Jin-woo, wiki: leagueoflegends
+, team: , id: Winds, name: Chen Peng-Nien, wiki: leagueoflegends
+, team: , id: Wings, name: Wang Shu-Kai, wiki: leagueoflegends
+, team: , id: Winston, name: Winston Herold, wiki: leagueoflegends
+, team: , id: Winter, name: Olivier Lapointe, wiki: leagueoflegends
+, team: , id: Wisdom, name: Kim Tae-wan, wiki: leagueoflegends
+, team: , id: Witsyy, name: Tom Witsenburg, wiki: leagueoflegends
+, team: , id: Wojtuu015b, name: Wojciech u015awider, wiki: leagueoflegends
+, team: , id: Wolf, name: Nicole Su00f8lvmose, wiki: leagueoflegends
+, team: , id: Wolf, name: Wolf Schru00f6der, wiki: leagueoflegends
+, team: , id: Wolfe, name: Micheal Taylor, wiki: leagueoflegends
+, team: , id: Wolvyz, name: Ville Vartiainen, wiki: leagueoflegends
+, team: , id: WooFe, name: Jeong Woo-cheol, wiki: leagueoflegends
+, team: , id: Woong, name: Jang Gun-woong, wiki: leagueoflegends
+, team: , id: Woong, name: Omar Van Vynckt, wiki: leagueoflegends
+, team: , id: World6, name: Chen Yu-Tian, wiki: leagueoflegends
+, team: , id: Wraith, name: Kwon Ji-min, wiki: leagueoflegends
+, team: , id: WyverN, name: Lee Jong-gyun, wiki: leagueoflegends
+, team: , id: Xeno, name: Joshua Kim, wiki: leagueoflegends
+, team: , id: Xeonerr, name: Karol Kowalski, wiki: leagueoflegends
+, team: , id: XiaoWeiXiao, name: Yu Xian, wiki: leagueoflegends
+, team: , id: XiaoXiao, name: Sun Ya-Long, wiki: leagueoflegends
+, team: , id: Xmithie, name: Jake Kevin Puchero, wiki: leagueoflegends
+, team: , id: XuanXuanPi, name: Pi Xiao-Xuan, wiki: leagueoflegends
+, team: , id: Xuhao, name: Bu00f9i Hou00e0ng Su01a1n Vu01b0u01a1ng, wiki: leagueoflegends
+, team: , id: Xx, name: Xiong Yu-Long, wiki: leagueoflegends
+, team: , id: Xypherz, name: Santiago de Leu00f3n, wiki: leagueoflegends
+, team: , id: Xyraz, name: Gustav Blomkvist, wiki: leagueoflegends
+, team: , id: YallaSafSaf, name: Safiu00e8n Godthelp, wiki: leagueoflegends
+, team: , id: Yang, name: Felipe Zhao, wiki: leagueoflegends
+, team: , id: Yellowpete, name: Peter Wu00fcppen, wiki: leagueoflegends
+, team: , id: YiJin, name: Nguyu1ec5n Lu00ea Hu1ea3i u0110u0103ng, wiki: leagueoflegends
+, team: , id: YoDa, name: Felipe Noronha, wiki: leagueoflegends
+, team: , id: Yoon, name: Kim Byung-yoon, wiki: leagueoflegends
+, team: , id: YourRiver, name: Li De-He, wiki: leagueoflegends
+, team: , id: Ysera, name: Wang Tsung-Chih, wiki: leagueoflegends
+, team: , id: Yuki, name: Yuki Takahashi, wiki: leagueoflegends
+, team: , id: Yunbee, name: Choi Jong-yun, wiki: leagueoflegends
+, team: , id: Yuuki60, name: Florent Soler, wiki: leagueoflegends
+, team: , id: Zaboutine, name: Thomas Si-Hassen, wiki: leagueoflegends
+, team: , id: ZachQ, name: Dmitriy Kulkin, wiki: leagueoflegends
+, team: , id: Zantins, name: Luccas Zanquetta, wiki: leagueoflegends
+, team: , id: Zappy, name: Lim Zhi Ping, wiki: leagueoflegends
+, team: , id: Zealot, name: Rodrigo Guerrero, wiki: leagueoflegends
+, team: , id: Zefa, name: Lee Jae-min, wiki: leagueoflegends
+, team: , id: Zeros, name: Phu1ea1m Minh Lu1ed9c, wiki: leagueoflegends
+, team: , id: Zerost, name: Shotaro Ikeda, wiki: leagueoflegends
+, team: , id: Zeypher, name: Jhon Esteban Guzmu00e1n Cano, wiki: leagueoflegends
+, team: , id: Zeyzal, name: Tristan Stidam, wiki: leagueoflegends
+, team: , id: Zihan, name: Shan Zi-Qi, wiki: leagueoflegends
+, team: , id: Zikz, name: Tony Gray, wiki: leagueoflegends
+, team: , id: Zin, name: Nguyu1ec5n Tuu1ea5n Thu1ecd, wiki: leagueoflegends
+, team: , id: Zirene, name: Aidan Zukas Moon, wiki: leagueoflegends
+, team: , id: Ziv, name: Chen Yi, wiki: leagueoflegends
+, team: , id: ZombieKungen, name: Erik Arvidsson, wiki: leagueoflegends
+, team: , id: Zorozero, name: Morten Rosenquist, wiki: leagueoflegends
+, team: , id: Zuao, name: Jou00e3o Vitor Morais, wiki: leagueoflegends
+, team: , id: Zuna, name: Christopher Buechter, wiki: leagueoflegends
+, team: , id: Zytan, name: Niklas Lakaniemi, wiki: leagueoflegends
+, team: , id: Zz1tai, name: Liu Zhi-Hao, wiki: leagueoflegends
+, team: , id: aMiracle, name: Vladislav Scherbyna, wiki: leagueoflegends
+, team: , id: alleycat, name: Masaaki Yamaguchi, wiki: leagueoflegends
+, team: , id: bit1, name: Bruno Lima, wiki: leagueoflegends
+, team: , id: bobqin, name: Boyuan Qin, wiki: leagueoflegends
+, team: , id: bohe, name: Wang Tian-Nuo, wiki: leagueoflegends
+, team: , id: cowTard, name: Viktor Stymne, wiki: leagueoflegends
+, team: , id: dade, name: Bae Eo-jin, wiki: leagueoflegends
+, team: , id: dexter, name: Marcel Feldkamp, wiki: leagueoflegends
+, team: , id: esA, name: Andru00e9 Eidi Yanagimachi Pavezi, wiki: leagueoflegends
+, team: , id: euna, name: Elmeri Mahlamu00e4ki, wiki: leagueoflegends
+, team: , id: extinkt, name: Vytautas Mu0117linauskas, wiki: leagueoflegends
+, team: , id: eyes, name: Koji Mitarai, wiki: leagueoflegends
+, team: , id: hammann, name: Nils Hammann, wiki: leagueoflegends
+, team: , id: hyrqBot, name: John Velly, wiki: leagueoflegends
+, team: , id: ikssu, name: Jeon Ik-soo, wiki: leagueoflegends
+, team: , id: illuSioN, name: Chen Xin-Lin, wiki: leagueoflegends
+, team: , id: k0u, name: Tinh Tri Lam, wiki: leagueoflegends
+, team: , id: kev1n, name: Kevin Rubiszewski, wiki: leagueoflegends
+, team: , id: l3est16, name: Zhou Zhi-Li, wiki: leagueoflegends
+, team: , id: loulex, name: Jean-Victor Burgevin, wiki: leagueoflegends
+, team: , id: mancloud, name: Zachary Allan Hoschar, wiki: leagueoflegends
+, team: , id: mumus100, name: Szu00e9pvu00f6lgyi Mu00e1riu00f3, wiki: leagueoflegends
+, team: , id: neny, name: Zhao Zhi-Hao, wiki: leagueoflegends
+, team: , id: niQ, name: Sebastian Robak, wiki: leagueoflegends
+, team: , id: ping, name: Chang Ping, wiki: leagueoflegends
+, team: , id: pr0lly, name: Neil Hammad, wiki: leagueoflegends
+, team: , id: puszu, name: Johannes Uibos, wiki: leagueoflegends
+, team: , id: sLiM5h4dY, name: Pascal Bu00f6hm, wiki: leagueoflegends
+, team: , id: san, name: Guo Junliang, wiki: leagueoflegends
+, team: , id: scarra, name: William Li, wiki: leagueoflegends
+, team: , id: t4nky, name: Karol Su0142omka, wiki: leagueoflegends
+, team: , id: takeshi, name: Murilo Alves, wiki: leagueoflegends
+, team: , id: tockers, name: Gabriel Claumann, wiki: leagueoflegends
+, team: , id: viNylCat, name: Chae Woo-cheol, wiki: leagueoflegends
+, team: , id: viviD, name: Han Gi-hun, wiki: leagueoflegends
+, team: , id: vvarion, name: Mateusz Pieu0144kosz, wiki: leagueoflegends
+, team: , id: wingsofdeathx, name: Daryl Hennegan, wiki: leagueoflegends
+, team: , id: wowowo, name: Wu Hong-Tao, wiki: leagueoflegends
+, team: , id: wrekt, name: Jesse Mikic, wiki: leagueoflegends
+, team: , id: wuji, name: Yang Chia-Yu, wiki: leagueoflegends
+, team: , id: xSojin, name: Mathew Alexander Perez, wiki: leagueoflegends
+, team: , id: xiaohan, name: Pan Han, wiki: leagueoflegends
+, team: , id: y4, name: Wang Nong-Mo, wiki: leagueoflegends
+, team: , id: yT, name: Bu00f9i Thu1ebf Vinh, wiki: leagueoflegends
+, team: , id: yijie, name: Khor Yih Jiet, wiki: leagueoflegends
+, team: , id: yws, name: Zeng Jun, wiki: leagueoflegends
+, team: , id: zeetwo, name: Park Jee-sun, wiki: leagueoflegends
+, team: , id: zig, name: Derek Shao, wiki: leagueoflegends
+, team: 00 Nation, id: Chrisberg, name: Lars Christiansen, wiki: leagueoflegends
+, team: 00 Nation, id: Erixen, name: u00d8yvind Saltru00f8 Eriksen, wiki: leagueoflegends
+, team: 00 Nation, id: Kerberos, name: Kallon Ram, wiki: leagueoflegends
+, team: 00 Nation, id: Sharp, name: Anders Lilleengen, wiki: leagueoflegends
+, team: 00 Nation, id: Touch, name: Omid Rosander, wiki: leagueoflegends
+, team: 100 Thieves, id: Abbedagge, name: Felix Braun, wiki: leagueoflegends
+, team: 100 Thieves, id: Closer, name: Can u00c7elik, wiki: leagueoflegends
+, team: 100 Thieves, id: FBI, name: Victor Huang, wiki: leagueoflegends
+, team: 100 Thieves, id: Freeze, name: Aleu0161 Knu011bu017eu00ednek, wiki: leagueoflegends
+, team: 100 Thieves, id: Lustboy, name: Ham Jang-sik, wiki: leagueoflegends
+, team: 100 Thieves, id: PapaSmithy, name: Christopher Smith, wiki: leagueoflegends
+, team: 100 Thieves, id: Reapered, name: Bok Han-gyu, wiki: leagueoflegends
+, team: 100 Thieves, id: Ryoma, name: Tommy Le, wiki: leagueoflegends
+, team: 100 Thieves, id: Ssumday, name: Kim Chan-ho, wiki: leagueoflegends
+, team: 100 Thieves, id: huhi, name: Choi Jae-hyun, wiki: leagueoflegends
+, team: 100 Thieves Academy, id: Busio, name: Alan Cwalina, wiki: leagueoflegends
+, team: 100 Thieves Academy, id: Goldenglue, name: Greyson Gilmer, wiki: leagueoflegends
+, team: 100 Thieves Academy, id: Kenvi, name: Shane Espinoza, wiki: leagueoflegends
+, team: 100 Thieves Academy, id: Luger, name: Fatih Gu00fcven, wiki: leagueoflegends
+, team: 100 Thieves Academy, id: Tenacity, name: Milan Oleksij, wiki: leagueoflegends
+, team: 100 Thieves Academy, id: poome, name: Philippe Lavoie-Giguere, wiki: leagueoflegends
+, team: 100 Thieves Next, id: FallenBandit, name: Kevin Wu, wiki: leagueoflegends
+, team: 100 Thieves Next, id: Young, name: Young Choi, wiki: leagueoflegends
+, team: 1907 Fenerbahu00e7e Esports, id: Neramin, name: Hasan Samarsu0131n, wiki: leagueoflegends
+, team: 1907 Fenerbahu00e7e Esports, id: Rey, name: Jeon Ji-won, wiki: leagueoflegends
+, team: 1907 Fenerbahu00e7e Esports, id: SeongHwan, name: Yoon Seong-hwan, wiki: leagueoflegends
+, team: 1907 Fenerbahu00e7e Esports, id: Sparz, name: Ozan Samican u00d6zbay, wiki: leagueoflegends
+, team: 1907 Fenerbahu00e7e Esports, id: stillnumb, name: Onurcan Bau015fkurt, wiki: leagueoflegends
+, team: 1907 Fenerbahu00e7e Esports Academy, id: Lenom, name: Yiu011fit Kantar, wiki: leagueoflegends
+, team: 404 Multigaming, id: Bravado, name: Love Rapp, wiki: leagueoflegends
+, team: 404 Multigaming, id: Dehaste, name: Sven Vidoviu0107, wiki: leagueoflegends
+, team: 404 Multigaming, id: Gabbo, name: Gabriel Olivieri, wiki: leagueoflegends
+, team: 5 Ronin, id: BroCColi, name: Kim Yoon-jae, wiki: leagueoflegends
+, team: 5 Ronin, id: Brolia, name: Murat Mert u0130lgu00fcn, wiki: leagueoflegends
+, team: 5 Ronin, id: Hoon, name: Lee Jang-hoon, wiki: leagueoflegends
+, team: 5 Ronin, id: Husky Rider, name: u015eaban Ku00f6seou011flu, wiki: leagueoflegends
+, team: 5 Ronin, id: Pilter, name: Hakan Yu00fcksel, wiki: leagueoflegends
+, team: 5 Ronin, id: Umut, name: Umut Atlu0131, wiki: leagueoflegends
+, team: 5 Ronin Academy, id: Andariel, name: Mert Ku0131lu0131u00e7, wiki: leagueoflegends
+, team: 5 Ronin Academy, id: Steve Murphy, name: Iu015fu0131n Solak, wiki: leagueoflegends
+, team: 9z Team, id: Rakyz, name: Vicente Trautmann, wiki: leagueoflegends
+, team: AGO ROGUE, id: Chres, name: Chres Laursen, wiki: leagueoflegends
+, team: AGO ROGUE, id: Klaj, name: Johan Olsson, wiki: leagueoflegends
+, team: AGO ROGUE, id: Lucker, name: Damian Konefau0142, wiki: leagueoflegends
+, team: AGO ROGUE, id: Lurox, name: Lukas Thoma, wiki: leagueoflegends
+, team: AGO ROGUE, id: Pyrka, name: u0141ukasz Grzeu015bkowiak, wiki: leagueoflegends
+, team: AGO ROGUE, id: Sinmivak, name: Jakub Rucki, wiki: leagueoflegends
+, team: AOE Dinka LFGF, id: DarkWings, name: Isaac Chou, wiki: leagueoflegends
+, team: AOE Dinka LFGF, id: SketchDreams, name: Braday Holmich, wiki: leagueoflegends
+, team: AOE Randoms, id: Fizzi, name: Cristopher Savino, wiki: leagueoflegends
+, team: AXIZ, id: Ino, name: Fumiya Aino, wiki: leagueoflegends
+, team: Absolved, id: Jaeger, name: Lennart Warkus, wiki: leagueoflegends
+, team: Absolved, id: Khantos, name: Cosmin Du0103nilu0103, wiki: leagueoflegends
+, team: Absolved, id: Rames, name: Mustafa Korkmaz, wiki: leagueoflegends
+, team: Absolved, id: Reje, name: Victor Etlar Eriksen, wiki: leagueoflegends
+, team: Afreeca Freecs, id: Bang, name: Bae Jun-sik, wiki: leagueoflegends
+, team: Afreeca Freecs, id: Cain, name: Jang Nu-ri, wiki: leagueoflegends
+, team: Afreeca Freecs, id: Dread, name: Lee Jin-hyeok, wiki: leagueoflegends
+, team: Afreeca Freecs, id: Fly, name: Song Yong-jun, wiki: leagueoflegends
+, team: Afreeca Freecs, id: Kiin, name: Kim Gi-in, wiki: leagueoflegends
+, team: Afreeca Freecs, id: Lehends, name: Son Si-woo, wiki: leagueoflegends
+, team: Afreeca Freecs, id: Leo, name: Han Gyeo-re, wiki: leagueoflegends
+, team: Afreeca Freecs, id: LirA, name: Ban Tae-yoo, wiki: leagueoflegends
+, team: Afreeca Freecs, id: MapSSi, name: Kim Do-yeong, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: BuLLDoG, name: Lee Tae-yeong, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: Citrus, name: Byeon Ji-woong, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: IlllIma, name: Ma Tae-seok, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: Keine, name: Kim Joon-cheol, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: KronG, name: Shin Beom-seok, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: Minit, name: Yang Hyun-min, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: Spirit, name: Lee Da-yoon, wiki: leagueoflegends
+, team: Afreeca Freecs Challengers, id: Valkyrie, name: Ko Jun-young, wiki: leagueoflegends
+, team: All Knights, id: Kiefer, name: Nicolu00e1s Rivero, wiki: leagueoflegends
+, team: All Knights, id: Pancake, name: Manuel Scala, wiki: leagueoflegends
+, team: All Knights, id: Ruin, name: Kim Hyeong-min, wiki: leagueoflegends
+, team: All Knights, id: Zeicro, name: Juan Mauricio Fierro Quiroz, wiki: leagueoflegends
+, team: Alpha Esports, id: An, name: Chou Chun-An, wiki: leagueoflegends
+, team: Alpha Esports, id: Kiy1n9, name: Dai Yi-Peng, wiki: leagueoflegends
+, team: Anorthosis Famagusta Esports, id: Dom1nant, name: Giannis Vorgazlis, wiki: leagueoflegends
+, team: Anorthosis Famagusta Esports, id: J0J0C, name: Nikos Terzoglou, wiki: leagueoflegends
+, team: Anorthosis Famagusta Esports, id: Jaxplank, name: Panagiotis Tantis, wiki: leagueoflegends
+, team: Anorthosis Famagusta Esports, id: LOCKIE, name: Anastasios Koltsidis, wiki: leagueoflegends
+, team: Anorthosis Famagusta Esports, id: Marlon, name: Igor Tomczyk, wiki: leagueoflegends
+, team: Anorthosis Famagusta Esports, id: Piwek, name: Kamil Starou0144, wiki: leagueoflegends
+, team: Arctic Gaming Mexico, id: CantorGames, name: Alejandro Cantor Rivera, wiki: leagueoflegends
+, team: Arctic Gaming Mexico, id: Mayhem, name: Samuel Barrera, wiki: leagueoflegends
+, team: ArkAngel, id: Mirmoooo, name: Neil Harold H. Gabriel, wiki: leagueoflegends
+, team: ArkAngel, id: Rebengga, name: Kurt Cristobal, wiki: leagueoflegends
+, team: Astralis, id: WhiteKnight, name: Matti Sormunen, wiki: leagueoflegends
+, team: Astralis, id: Zanzarah, name: Nikolay Akatov, wiki: leagueoflegends
+, team: Astralis, id: promisq, name: Hampus Mikael Abrahamsson, wiki: leagueoflegends
+, team: Astralis, id: xPeke, name: Enrique Cedeu00f1o Martu00ednez, wiki: leagueoflegends
+, team: Astralis Talent, id: Carlsen, name: Carl Carlsen, wiki: leagueoflegends
+, team: Astralis Talent, id: Kadaver, name: Kasper Mu00fcller Nielsen, wiki: leagueoflegends
+, team: Astralis Talent, id: Kronos, name: Anders Schultz, wiki: leagueoflegends
+, team: Astralis Talent, id: Mixsi, name: Mikkel Bay-Schmidt, wiki: leagueoflegends
+, team: Astralis Talent, id: RotteBengi, name: Benjamin Mahler Ju00f8rgensen, wiki: leagueoflegends
+, team: Astralis Talent, id: Rylle, name: Mikkel Rylander Christiansen, wiki: leagueoflegends
+, team: Atlantic Puffins, id: Follen, name: Vlad Botsan, wiki: leagueoflegends
+, team: Atleta Esport, id: DREAMPYLLA, name: Mark Leksin, wiki: leagueoflegends
+, team: Atleta Esport, id: Endz, name: Lauri Tarkus, wiki: leagueoflegends
+, team: Atleta Esport, id: Griffon, name: Nikita Gudkov, wiki: leagueoflegends
+, team: Atletec, id: Lingwi, name: Raphau00ebl Claudu00e9, wiki: leagueoflegends
+, team: Austrian Force, id: Harpoon, name: Franciszek Gryszkiewicz, wiki: leagueoflegends
+, team: Axolotl, id: Afm, name: Andru00e9 Martins, wiki: leagueoflegends
+, team: Axolotl, id: Deidara, name: Silverio Masi, wiki: leagueoflegends
+, team: Axolotl, id: Guubi, name: Frederik Mortensen, wiki: leagueoflegends
+, team: Axolotl, id: Raxxo, name: Oskar Bazydu0142o, wiki: leagueoflegends
+, team: Axolotl, id: SlowQ, name: Seo Ye-bit, wiki: leagueoflegends
+, team: Axolotl, id: TynX, name: Kristian u00d8stergaard Hansen, wiki: leagueoflegends
+, team: BCN Squad, id: Klowny, name: Andrija Jovanoviu0107, wiki: leagueoflegends
+, team: BCN Squad, id: Silk, name: Ivan Gantsyuk, wiki: leagueoflegends
+, team: BCN Squad, id: Vzz, name: Teodor Cholakov, wiki: leagueoflegends
+, team: BCN Squad, id: Xaio, name: u00c1lvaro Hernu00e1ndez Carretero, wiki: leagueoflegends
+, team: BIG, id: Akabane, name: Philippe Le, wiki: leagueoflegends
+, team: BIG, id: Arvindir, name: Danusch Fischer, wiki: leagueoflegends
+, team: BIG, id: Keduii, name: Tim Willers, wiki: leagueoflegends
+, team: BIG, id: Melonik, name: Dawid u015alu0119czka, wiki: leagueoflegends
+, team: BIG, id: Navio, name: Tobias Stephan, wiki: leagueoflegends
+, team: BIG, id: RKR, name: Steven Chen, wiki: leagueoflegends
+, team: BIG, id: seaz, name: Daniel Binderhofer, wiki: leagueoflegends
+, team: BOOM Esports, id: Alex, name: Chen Yu-Ming, wiki: leagueoflegends
+, team: BOOM Esports, id: Hammock, name: Niratai Saenamai, wiki: leagueoflegends
+, team: BOOM Esports, id: Holo, name: Tsang Dek Lam, wiki: leagueoflegends
+, team: BOOM Esports, id: POP, name: Ha Min-wook, wiki: leagueoflegends
+, team: BOOM Esports, id: Rockky, name: Atit Phaomuang, wiki: leagueoflegends
+, team: BOOM Esports, id: Ruby, name: Lee Sol-min, wiki: leagueoflegends
+, team: BOOM Esports, id: Wako, name: Tsou Wei-Yang, wiki: leagueoflegends
+, team: BOOM Esports, id: WarL0cK, name: Pawat Ampaporn, wiki: leagueoflegends
+, team: BOX Gaming, id: Spot, name: Nguyu1ec5n Phan u0110u00ecnh Khu00f4i, wiki: leagueoflegends
+, team: BT Excel, id: Dan, name: Daniel Hockley, wiki: leagueoflegends
+, team: BT Excel, id: Denyk, name: Petr Haramach, wiki: leagueoflegends
+, team: BT Excel, id: Deu00e1dly, name: Matthew Smith, wiki: leagueoflegends
+, team: BT Excel, id: Hatrixx, name: Ju00f8rgen Elgu00e5en, wiki: leagueoflegends
+, team: BT Excel, id: Orome, name: Andrei Popa, wiki: leagueoflegends
+, team: BT Excel, id: Swiffer, name: Simon Papamarkos, wiki: leagueoflegends
+, team: Bay State College, id: Dragonminkim, name: Kim Yong-min, wiki: leagueoflegends
+, team: Belfast Storm, id: Skewer, name: Kamil Ibrahim Alturan, wiki: leagueoflegends
+, team: Berjaya Dragons, id: Arashi, name: Beckham Ang Jing En, wiki: leagueoflegends
+, team: Berjaya Dragons, id: Enso, name: Liang En-Shuo, wiki: leagueoflegends
+, team: Berjaya Dragons, id: K2, name: Law Chi Kit, wiki: leagueoflegends
+, team: Berjaya Dragons, id: Minji, name: Lu Po-Wei, wiki: leagueoflegends
+, team: Beyond Gaming, id: Benny, name: Lien Hsiu-Chi, wiki: leagueoflegends
+, team: Beyond Gaming, id: Doggo, name: Chiu Tzu-Chuan, wiki: leagueoflegends
+, team: Beyond Gaming, id: Husha, name: Huang Zi-Wei, wiki: leagueoflegends
+, team: Beyond Gaming, id: Husky, name: Huang Chin-Cheng, wiki: leagueoflegends
+, team: Beyond Gaming, id: Kino, name: Wu Hsin-Jung, wiki: leagueoflegends
+, team: Beyond Gaming, id: Liang, name: Wu Liang-Te, wiki: leagueoflegends
+, team: Beyond Gaming, id: Maoan, name: Chien Mao-An, wiki: leagueoflegends
+, team: Beyond Gaming, id: PK, name: Hsieh Yu-Ting, wiki: leagueoflegends
+, team: Beu015fiktau015f Esports, id: Juuzou, name: Baru0131u015f Karatop, wiki: leagueoflegends
+, team: Beu015fiktau015f Esports, id: MGX, name: Mert Gu00fcvercin, wiki: leagueoflegends
+, team: Beu015fiktau015f Esports, id: Robin, name: Emray Kurt, wiki: leagueoflegends
+, team: Beu015fiktau015f e-Sports Club Academy, id: Rhemio, name: Burak Kamu0131u015fou011flu, wiki: leagueoflegends
+, team: Beu015fiktau015f e-Sports Club Academy, id: Tumay, name: Recep Tumay Tekin, wiki: leagueoflegends
+, team: Bifrost, id: Benaset, name: Benou00eet Mergny, wiki: leagueoflegends
+, team: Bifrost, id: HHNeverLucky, name: Alexander Hegland Fedde, wiki: leagueoflegends
+, team: Bifrost, id: Tide, name: Mathias Kruse, wiki: leagueoflegends
+, team: Bilibili Gaming, id: Aiming, name: Kim Ha-ram, wiki: leagueoflegends
+, team: Bilibili Gaming, id: Biubiu, name: Yu Lei-Xin, wiki: leagueoflegends
+, team: Bilibili Gaming, id: Jay, name: Li Chieh, wiki: leagueoflegends
+, team: Bilibili Gaming, id: Kim, name: Kim Jung-su, wiki: leagueoflegends
+, team: Bilibili Gaming, id: M1anhua, name: Chen Jia-Hao, wiki: leagueoflegends
+, team: Bilibili Gaming, id: Meteor, name: Zeng Guo-Hao, wiki: leagueoflegends
+, team: Bilibili Gaming, id: Weiwei, name: Wei Bo-Han, wiki: leagueoflegends
+, team: Bilibili Gaming, id: Zeka, name: Kim Geon-woo, wiki: leagueoflegends
+, team: Bilibili Gaming, id: ppgod, name: Guo Peng, wiki: leagueoflegends
+, team: Bilibili Gaming Junior, id: Kine, name: Xie Chao, wiki: leagueoflegends
+, team: Bilibili Gaming Junior, id: Myths, name: Tang Kit Man, wiki: leagueoflegends
+, team: Black Lion, id: KASAPINA, name: Rotislav Shabarkov, wiki: leagueoflegends
+, team: Black Star Gaming, id: Get Lost, name: Keril Rybakov, wiki: leagueoflegends
+, team: Black Star Gaming, id: Kenal, name: Michal Karpenko, wiki: leagueoflegends
+, team: Black Star Gaming, id: Rillyaviel, name: Hled Podvorny, wiki: leagueoflegends
+, team: Black Star Gaming, id: SadJesteRRR, name: Yevgeny Starosvetskiy, wiki: leagueoflegends
+, team: Boavista FC, id: DRIFTER, name: Oleg Ralchenko, wiki: leagueoflegends
+, team: Bombers Academy, id: Frae, name: Leon Lee, wiki: leagueoflegends
+, team: Brion Esports, id: Chieftain, name: Lee Jae-yub, wiki: leagueoflegends
+, team: Brion Esports, id: Delight, name: Yoo Hwan-joong, wiki: leagueoflegends
+, team: Brion Esports, id: Edgar, name: Choi Woo-beom, wiki: leagueoflegends
+, team: Brion Esports, id: Hena, name: Park Jeung-hwan, wiki: leagueoflegends
+, team: Brion Esports, id: Hoya, name: Yoon Yong-ho, wiki: leagueoflegends
+, team: Brion Esports, id: Lava, name: Kim Tae-hoon, wiki: leagueoflegends
+, team: Brion Esports, id: UmTi, name: Eom Seong-hyeon, wiki: leagueoflegends
+, team: Brion Esports, id: Yaharong, name: Lee Chan-ju, wiki: leagueoflegends
+, team: Brion Esports Academy, id: listo, name: Kang Woo-seok, wiki: leagueoflegends
+, team: Brion Esports Challengers, id: Bini, name: Hong Geon-bin, wiki: leagueoflegends
+, team: Brion Esports Challengers, id: JeongHoon, name: Lee Jeong-hoon, wiki: leagueoflegends
+, team: Brion Esports Challengers, id: JinO, name: Seo Jin-yeong, wiki: leagueoflegends
+, team: Brion Esports Challengers, id: LukaLux, name: Jang Yoo-chan, wiki: leagueoflegends
+, team: Brion Esports Challengers, id: Roamer, name: Cho Woo-jin, wiki: leagueoflegends
+, team: Bulldog Esports, id: TheKat, name: Rayan Karout, wiki: leagueoflegends
+, team: Burning Core, id: Broooock, name: Akihiro Hosogoe, wiki: leagueoflegends
+, team: Burning Core, id: Gariaru, name: Yoshimasa Sato, wiki: leagueoflegends
+, team: Burning Core, id: RayFarky, name: Minato Shinohara, wiki: leagueoflegends
+, team: Burning Core, id: Yuhi, name: Yuhi Nakanishi, wiki: leagueoflegends
+, team: Burning Core Academy, id: Akabuff, name: Ryouta Sakura, wiki: leagueoflegends
+, team: Burning Core Academy, id: Roki, name: Hiroki Yokoo, wiki: leagueoflegends
+, team: Burst The Sky Esports, id: Aomine, name: Huu1ef3nh Thiu1ebfc Tuu1ea5n, wiki: leagueoflegends
+, team: Burst The Sky Esports, id: Draktharr, name: Lu00ea Ngu1ecdc Tou00e0n, wiki: leagueoflegends
+, team: Burst The Sky Esports, id: Elio, name: Phu1ea1m Thu1ea1ch Nhu00e2n Bu0103ng, wiki: leagueoflegends
+, team: Burst The Sky Esports, id: Glory, name: Lu00ea Ngu1ecdc Vinh, wiki: leagueoflegends
+, team: Burst The Sky Esports, id: Kuroko, name: Tru1ea7n Tuu1ea5n Anh, wiki: leagueoflegends
+, team: CERBERUS Esports, id: Archie, name: Tru1ea7n Minh Nhu1ef1t, wiki: leagueoflegends
+, team: CERBERUS Esports, id: Artemis, name: Tru1ea7n Quu1ed1c Hu01b0ng, wiki: leagueoflegends
+, team: CERBERUS Esports, id: EGO, name: Nguyu1ec5n Khu00e1nh Hu00f2a, wiki: leagueoflegends
+, team: CERBERUS Esports, id: Kit, name: Phu1ea1m Tuu1ea5n Vu0129, wiki: leagueoflegends
+, team: CERBERUS Esports, id: Poss, name: Kim Min-cheol, wiki: leagueoflegends
+, team: CERBERUS Esports, id: Ronop, name: Lu00ea Thiu00ean Hu00e0n, wiki: leagueoflegends
+, team: CERBERUS Esports, id: Yado, name: u0110ou00e0n Minh Trung, wiki: leagueoflegends
+, team: CTRL PLAY, id: Moo, name: Dmitry Sukhanov, wiki: leagueoflegends
+, team: CTRL PLAY, id: Valhalla, name: Ilya Atnazhev, wiki: leagueoflegends
+, team: Campus Party Sparks, id: Brizz, name: Luca Brizzante, wiki: leagueoflegends
+, team: Celestial Gaming, id: BoffeN, name: Sebastian Gsell, wiki: leagueoflegends
+, team: Cherry Esports, id: Cacon, name: Lu00ea Hu00e0 Bu1ea3o Anh, wiki: leagueoflegends
+, team: Cherry Esports, id: Calm, name: u0110inh Tru1ecdng Quyu1ebft, wiki: leagueoflegends
+, team: Chiefs Academy, id: Omni, name: Thomas Trinh Dung, wiki: leagueoflegends
+, team: Chiefs Esports Club, id: Cuden, name: Mike Le, wiki: leagueoflegends
+, team: Chiefs Esports Club, id: Dragku, name: Dragon Guo, wiki: leagueoflegends
+, team: Chiefs Esports Club, id: Swathe, name: Ryan Gibbons, wiki: leagueoflegends
+, team: Cloud9, id: Blaber, name: Robert Huang, wiki: leagueoflegends
+, team: Cloud9, id: Fudge, name: Ibrahim Allami, wiki: leagueoflegends
+, team: Cloud9, id: IWillDominate, name: Christian Rivera, wiki: leagueoflegends
+, team: Cloud9, id: Perkz, name: Luka Perkoviu0107, wiki: leagueoflegends
+, team: Cloud9, id: Reignover, name: Kim Yeu-jin, wiki: leagueoflegends
+, team: Cloud9, id: Sneaky, name: Zachary Scuderi, wiki: leagueoflegends
+, team: Cloud9, id: Vulcan, name: Philippe Laflamme, wiki: leagueoflegends
+, team: Cloud9, id: Zven, name: Jesper Svenningsen, wiki: leagueoflegends
+, team: Cloud9, id: mithy, name: Alfonso Aguirre Rodru00edguez, wiki: leagueoflegends
+, team: Cloud9 Academy, id: Copy, name: Jouhan Pathmanathan, wiki: leagueoflegends
+, team: Cloud9 Academy, id: Isles, name: Jonah Rosario, wiki: leagueoflegends
+, team: Cloud9 Academy, id: K1ng, name: Calvin Truong, wiki: leagueoflegends
+, team: Cloud9 Academy, id: Shernfire, name: Shern Cherng Tai, wiki: leagueoflegends
+, team: Cloud9 Academy, id: ZionSpartan, name: Darshan Upadhyaya, wiki: leagueoflegends
+, team: Cloud9 Amateur, id: CptShrimps, name: Daniel Yang, wiki: leagueoflegends
+, team: Cloud9 Amateur, id: Exyu, name: Lawrence Xu, wiki: leagueoflegends
+, team: Cloud9 Amateur, id: Speedo, name: Lawrence Yap, wiki: leagueoflegends
+, team: Cloud9 Amateur, id: Wixxi, name: Micheal Fernandez, wiki: leagueoflegends
+, team: Cloud9 Amateur, id: breezyyy, name: Brindon Keesey, wiki: leagueoflegends
+, team: Conus, id: Decky, name: Hong Dong-hyeok, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: Broxah, name: Mads Brock-Pedersen, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: Damonte, name: Tanner Damonte, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: Finn, name: Finn Wiestu00e5l, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: HotshotGG, name: George Georgallidis, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: Pobelter, name: Eugene Park, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: Rush, name: Lee Yoon-jae, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: Smoothie, name: Andy Ta, wiki: leagueoflegends
+, team: Counter Logic Gaming, id: WildTurtle, name: Jason Tran, wiki: leagueoflegends
+, team: Counter Logic Gaming Academy, id: Benji, name: Benjamin deMunck, wiki: leagueoflegends
+, team: Counter Logic Gaming Academy, id: Keel, name: Ryan Keel, wiki: leagueoflegends
+, team: Counter Logic Gaming Academy, id: rjs, name: Alexey Zatorski, wiki: leagueoflegends
+, team: Cowana Gaming, id: Hoiz, name: Aron Gabru00edel Guu00f0mundsson, wiki: leagueoflegends
+, team: Cowboysquad Imperials Esports, id: Sidnik, name: Aleksandr Sidorov, wiki: leagueoflegends
+, team: Cream Real Betis, id: Jackspektra, name: Jakob Kepple, wiki: leagueoflegends
+, team: Cream Real Betis, id: Lebron, name: Dimitar Kostadinov, wiki: leagueoflegends
+, team: Cream Real Betis, id: Motroco, name: Mario Martu00ednez Garcu00eda, wiki: leagueoflegends
+, team: Cream Real Betis, id: Phlaty, name: Alexey Lemeshchuk, wiki: leagueoflegends
+, team: Cream Real Betis, id: Rubi0o, name: Antonio Cruz Clavel, wiki: leagueoflegends
+, team: Cream Real Betis, id: whiteinn, name: Alexandru Kolozsvari, wiki: leagueoflegends
+, team: Crest Gaming Act, id: Alchemy, name: Shintaro Kaneko, wiki: leagueoflegends
+, team: Crest Gaming Act, id: Alps, name: Tatsumi Suzuki, wiki: leagueoflegends
+, team: Crest Gaming Act, id: Cassin, name: Kim Dae-hee, wiki: leagueoflegends
+, team: Crest Gaming Act, id: NaeHyun, name: Yoo Nae-hyun, wiki: leagueoflegends
+, team: Crest Gaming Act, id: Nap, name: Akihito Ohno, wiki: leagueoflegends
+, team: Crest Gaming Act Academy, id: Chico, name: Hibiki Yamane, wiki: leagueoflegends
+, team: Crest Gaming Act Academy, id: Funahwi, name: Shou Oomura, wiki: leagueoflegends
+, team: Crest Gaming Act Academy, id: Kaito, name: Kaito Mitsufuji, wiki: leagueoflegends
+, team: Crest Gaming Act Academy, id: Momo, name: Sora Tobita, wiki: leagueoflegends
+, team: Crest Gaming Act Academy, id: Primo, name: Shion Tsunasawa, wiki: leagueoflegends
+, team: CrowCrowd, id: Jestkui Max, name: Maksim Filipenko, wiki: leagueoflegends
+, team: CrowCrowd, id: Likkrit, name: Kirill Malofeyev, wiki: leagueoflegends
+, team: CrowCrowd, id: MightyDragon, name: Yaroslav Svistun, wiki: leagueoflegends
+, team: CrowCrowd, id: Mytant, name: Evgeny Zavalny, wiki: leagueoflegends
+, team: CrowCrowd, id: NoNHoly, name: Aleksandr Ovchinikov, wiki: leagueoflegends
+, team: CrowCrowd, id: Selfdestruct, name: Denis Merkulov, wiki: leagueoflegends
+, team: Cruzados Esports, id: LukasNegro, name: Lukas Vega, wiki: leagueoflegends
+, team: Crvena zvezda Esports, id: Kanna, name: Szymon Kawu0119cki, wiki: leagueoflegends
+, team: Crvena zvezda Esports, id: Nazgul, name: Aleksa Majstoroviu0107, wiki: leagueoflegends
+, team: Crvena zvezda Esports, id: TasteLess, name: Igor Radusinoviu0107, wiki: leagueoflegends
+, team: Cyberground Gaming, id: Gotzy, name: Pedro Rego, wiki: leagueoflegends
+, team: DAMWON Gaming, id: Ares, name: Kim Min-kwon, wiki: leagueoflegends
+, team: DAMWON Gaming, id: BeryL, name: Cho Geon-hee, wiki: leagueoflegends
+, team: DAMWON Gaming, id: Canyon, name: Kim Geon-bu, wiki: leagueoflegends
+, team: DAMWON Gaming, id: Ghost, name: Jang Yong-jun, wiki: leagueoflegends
+, team: DAMWON Gaming, id: Khan, name: Kim Dong-ha, wiki: leagueoflegends
+, team: DAMWON Gaming, id: Malrang, name: Kim Geun-seong, wiki: leagueoflegends
+, team: DAMWON Gaming, id: Nuclear, name: Sin Jeong-hyeon, wiki: leagueoflegends
+, team: DAMWON Gaming, id: PoohManDu, name: Lee Jeong-hyeon, wiki: leagueoflegends
+, team: DAMWON Gaming, id: Rahel, name: Cho Min-seong, wiki: leagueoflegends
+, team: DAMWON Gaming, id: RangJun, name: Kim Sang-jun, wiki: leagueoflegends
+, team: DAMWON Gaming, id: ShowMaker, name: Heo Su, wiki: leagueoflegends
+, team: DAMWON Gaming, id: kkOma, name: Kim Jeong-gyun, wiki: leagueoflegends
+, team: DAMWON Gaming Academy, id: Shark, name: Kim Joo-hyeong, wiki: leagueoflegends
+, team: DAMWON Gaming Challengers, id: Bible, name: Yoon Seol, wiki: leagueoflegends
+, team: DAMWON Gaming Challengers, id: Chasy, name: Kim Dong-hyeon, wiki: leagueoflegends
+, team: DAMWON Gaming Challengers, id: Jool, name: Kang Dong-soo, wiki: leagueoflegends
+, team: DAMWON Gaming Challengers, id: Junmin, name: Lee Joon-min, wiki: leagueoflegends
+, team: DAMWON Gaming Challengers, id: Lucid, name: Choi Yong-hyeok, wiki: leagueoflegends
+, team: DRX, id: Caedrel, name: Marc Robert Lamont, wiki: leagueoflegends
+, team: DRX, id: Jett, name: Bae Ho-young, wiki: leagueoflegends
+, team: DRX, id: Kingen, name: Hwang Seong-hoon, wiki: leagueoflegends
+, team: DRX, id: Pyosik, name: Hong Chang-hyeon, wiki: leagueoflegends
+, team: DRX, id: SSONG, name: Kim Sang-soo, wiki: leagueoflegends
+, team: DRX, id: Taeyoon, name: Kim Tae-yoon, wiki: leagueoflegends
+, team: DRX, id: cvMax, name: Kim Dae-ho, wiki: leagueoflegends
+, team: DRX Challengers, id: BAO, name: Jeong Hyeon-woo, wiki: leagueoflegends
+, team: DRX Challengers, id: Becca, name: Son Min-woo, wiki: leagueoflegends
+, team: DRX Challengers, id: Clear, name: Song Hyeon-min, wiki: leagueoflegends
+, team: DRX Challengers, id: Dracxar, name: Mok Jeong-gyu, wiki: leagueoflegends
+, team: DRX Challengers, id: Eign, name: Jeong Hee-joon, wiki: leagueoflegends
+, team: DRX Challengers, id: Expession, name: Koo Bon-taek, wiki: leagueoflegends
+, team: DRX Challengers, id: Merit, name: Jang Jae-yeong, wiki: leagueoflegends
+, team: DRX Challengers, id: Peach, name: Lee Min-gyu, wiki: leagueoflegends
+, team: DRX Challengers, id: Ruel, name: Han Min-woo, wiki: leagueoflegends
+, team: DRX Challengers, id: SOLKA, name: Song Su-hyeong, wiki: leagueoflegends
+, team: DRX Challengers, id: Zzanggu, name: Kim Yeong-ung, wiki: leagueoflegends
+, team: Dark Passage, id: Coldraa, name: Samet Safran, wiki: leagueoflegends
+, team: Dark Passage, id: Kofte, name: Emre Aku00e7a, wiki: leagueoflegends
+, team: Dark Passage, id: Pbd, name: Alihan Ocaklu0131, wiki: leagueoflegends
+, team: Dark Passage, id: Ruvelius, name: Mustafa Berk Baraklu0131, wiki: leagueoflegends
+, team: Dark Passage, id: Typhoon, name: Tayfun Gu00fcmu00fcu015f, wiki: leagueoflegends
+, team: Dark Passage, id: fabFabulous, name: Asu0131m Cihat Karakaya, wiki: leagueoflegends
+, team: Demise, id: Tatuy, name: Tatu Jauhiainen, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Aria, name: Lee Ga-eul, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Ceros, name: Kyohei Yoshida, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Evi, name: Shunsuke Murase, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Gaeng, name: Yang Gwang-yu, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Kazu, name: Kazuta Suzuki, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Steal, name: Mun Geon-yeong, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Yang, name: Yang Gwang-pyo, wiki: leagueoflegends
+, team: DetonatioN FocusMe, id: Yutapon, name: Yuta Sugiura, wiki: leagueoflegends
+, team: Dignitas, id: Akaadian, name: Matthew Higginbotham, wiki: leagueoflegends
+, team: Dignitas, id: FakeGod, name: Aaron Lee, wiki: leagueoflegends
+, team: Dignitas, id: Neo, name: Tou00e0n Tru1ea7n, wiki: leagueoflegends
+, team: Dignitas, id: Soligo, name: Max Soong, wiki: leagueoflegends
+, team: Dignitas, id: aphromoo, name: Zaqueri Black, wiki: leagueoflegends
+, team: Dignitas Academy, id: JayJ, name: Juan Guibert, wiki: leagueoflegends
+, team: Dignitas Academy, id: Lourlo, name: Samson Jackson, wiki: leagueoflegends
+, team: Dignitas Academy, id: Spawn, name: Trevor Kerr-Taylor, wiki: leagueoflegends
+, team: Dignitas Academy, id: Will, name: William Cummins, wiki: leagueoflegends
+, team: Dignitas Academy, id: Yusui, name: David Bloomquist, wiki: leagueoflegends
+, team: Dignitas Mirage, id: Cao, name: Johnson Cao, wiki: leagueoflegends
+, team: Dignitas Mirage, id: DNA, name: Cu00e9dric Beaulieu, wiki: leagueoflegends
+, team: Dignitas Mirage, id: Sybr, name: Daniel Lou, wiki: leagueoflegends
+, team: Dire Wolves, id: Claire, name: Brandon Nguyen, wiki: leagueoflegends
+, team: Dire Wolves, id: Cupcake, name: Andy van der Vyver, wiki: leagueoflegends
+, team: Dire Wolves, id: Gunkrab, name: Vincent Lin, wiki: leagueoflegends
+, team: Dire Wolves, id: Only, name: Jordan Middleton, wiki: leagueoflegends
+, team: Dire Wolves, id: Praelus, name: Jordan Fernandes, wiki: leagueoflegends
+, team: Dire Wolves, id: Rippii, name: Nathan Mott, wiki: leagueoflegends
+, team: Dire Wolves, id: Shok, name: Ari Greene-Young, wiki: leagueoflegends
+, team: Divine Vendetta, id: Gaaloul, name: Ali Gaaloul, wiki: leagueoflegends
+, team: Dolphins, id: Piter Pokir, name: Victor Pachkunov, wiki: leagueoflegends
+, team: Dominus Esports.Y, id: Helper, name: Wang Huan-Wei, wiki: leagueoflegends
+, team: Dragon Army, id: Balkane, name: Kristian Lendel, wiki: leagueoflegends
+, team: Dragon Army, id: CyraXx, name: Vadim Averin, wiki: leagueoflegends
+, team: Dragon Army, id: Dimonko, name: Dmitrii Korovushkin, wiki: leagueoflegends
+, team: Dragon Army, id: ItsCortez, name: Ilya Pigulev, wiki: leagueoflegends
+, team: Dragon Army, id: Laynel, name: Laynel Feldshtein, wiki: leagueoflegends
+, team: Dragon Army, id: Maynter, name: Vladimir Sorokin, wiki: leagueoflegends
+, team: Dragon Army, id: Punisher, name: Nikita Lavrinov, wiki: leagueoflegends
+, team: Dragon Army, id: Stepan, name: Stepan Hrabik, wiki: leagueoflegends
+, team: Dragon Gate Team, id: PaSa, name: Lo Hung Sing, wiki: leagueoflegends
+, team: Dusty, id: Dambaj, name: Damian Bajor, wiki: leagueoflegends
+, team: Dusty, id: Warszi, name: Marcin Surau0142a, wiki: leagueoflegends
+, team: Dusty, id: Wylenz, name: Bilal Ait Ouabbas, wiki: leagueoflegends
+, team: Dynamo Eclot, id: Hiro, name: Nguyu00ean u0110u1ea1i Hu1ea3i, wiki: leagueoflegends
+, team: Dynasty, id: Dainank, name: Benjamin Whelan, wiki: leagueoflegends
+, team: Dynasty, id: Stanniez, name: Stan Wulms, wiki: leagueoflegends
+, team: E WIE EINFACH E-SPORTS, id: D4nKa, name: Daniel Golzmann, wiki: leagueoflegends
+, team: E WIE EINFACH E-SPORTS, id: Kxng, name: Lothar Schadrin, wiki: leagueoflegends
+, team: EDward Gaming, id: Clearlove, name: Ming Kai, wiki: leagueoflegends
+, team: EDward Gaming, id: Flandre, name: Li Xuan-Jun, wiki: leagueoflegends
+, team: EDward Gaming, id: Hope, name: Wang Jie, wiki: leagueoflegends
+, team: EDward Gaming, id: Jiejie, name: Zhao Li-Jie, wiki: leagueoflegends
+, team: EDward Gaming, id: JunJia, name: Yu Chun-Chia, wiki: leagueoflegends
+, team: EDward Gaming, id: Meiko, name: Tian Ye, wiki: leagueoflegends
+, team: EDward Gaming, id: Scout, name: Lee Ye-chan, wiki: leagueoflegends
+, team: EDward Gaming, id: Viper, name: Park Do-hyeon, wiki: leagueoflegends
+, team: EPHEC eSport, id: Saitam, name: Mathias Gassmann, wiki: leagueoflegends
+, team: ESuba, id: Dany, name: Daniel Novu00e1k, wiki: leagueoflegends
+, team: ESuba, id: Sacrifice, name: Alex Zach, wiki: leagueoflegends
+, team: ESuba, id: Sajator, name: Jan Zu00edtek, wiki: leagueoflegends
+, team: ESuba, id: Vasked, name: Vu00e1clav Benda, wiki: leagueoflegends
+, team: ESuba, id: Welcom, name: Hoang Quan Nguyen, wiki: leagueoflegends
+, team: EURONICS Gaming, id: Lamabear, name: Leon Kru00fcger, wiki: leagueoflegends
+, team: EURONICS Gaming, id: Nukes, name: Risto Luuri, wiki: leagueoflegends
+, team: EURONICS Gaming, id: Pandar, name: Yannick Greff, wiki: leagueoflegends
+, team: EURONICS Gaming, id: StormFury, name: Maximilian Schaller, wiki: leagueoflegends
+, team: EURONICS Gaming, id: Ventair, name: Simon Tschammer, wiki: leagueoflegends
+, team: EVOS Esports, id: Beyond, name: Tru01b0u01a1ng Vu0129nh Than, wiki: leagueoflegends
+, team: Eintracht Frankfurt, id: Sevenarmy, name: Jan Christoph Fragstein, wiki: leagueoflegends
+, team: Eintracht Frankfurt, id: Xioh, name: Julian Dumler, wiki: leagueoflegends
+, team: Electronik Generation, id: Frozen, name: Tiago Tavares, wiki: leagueoflegends
+, team: Elyandra Esport, id: Aku, name: Steeve Bernard, wiki: leagueoflegends
+, team: Enix Esports, id: Maxim, name: Maxim Tarasov, wiki: leagueoflegends
+, team: Estral Esports, id: Acce, name: Emmanuel Juu00e1rez, wiki: leagueoflegends
+, team: Estral Esports, id: Grell, name: Jesu00fas Loya, wiki: leagueoflegends
+, team: Estral Esports, id: Leza, name: Francisco Rubu00e9n Jara Barragu00e1n, wiki: leagueoflegends
+, team: Euronics Gaming, id: Matislaw, name: Mateusz Zagu00f3rski, wiki: leagueoflegends
+, team: Evil Geniuses, id: Danny, name: Kyle Sakamaki, wiki: leagueoflegends
+, team: Evil Geniuses, id: IgNar, name: Lee Dong-geun, wiki: leagueoflegends
+, team: Evil Geniuses, id: Impact, name: Jung Eon-yeong, wiki: leagueoflegends
+, team: Evil Geniuses, id: Jiizuke, name: Daniele di Mauro, wiki: leagueoflegends
+, team: Evil Geniuses, id: Kelsey Moser, name: Kelsey Moser, wiki: leagueoflegends
+, team: Evil Geniuses, id: Mash, name: Brandon Phan, wiki: leagueoflegends
+, team: Evil Geniuses, id: Svenskeren, name: Dennis Johnsen, wiki: leagueoflegends
+, team: Evil Geniuses, id: Turtle, name: Gabriel Peixoto, wiki: leagueoflegends
+, team: Evil Geniuses Academy, id: Contractz, name: Juan Arturo Garcia, wiki: leagueoflegends
+, team: Evil Geniuses Academy, id: Jojopyun, name: Joseph Pyun, wiki: leagueoflegends
+, team: Evil Geniuses Academy, id: Matt, name: Matthew Elento, wiki: leagueoflegends
+, team: Evil Geniuses Academy, id: Mystiques, name: Patryk Piu00f3rkowski, wiki: leagueoflegends
+, team: Evil Geniuses Academy, id: TeamLuke, name: Luke Wasikowski, wiki: leagueoflegends
+, team: Evil Geniuses Academy, id: Tomio, name: Tomio Chan, wiki: leagueoflegends
+, team: Evil Geniuses Academy, id: Tony Top, name: Zheng Fen, wiki: leagueoflegends
+, team: Evil Geniuses Prodigies, id: Aspect, name: Joshua Lee, wiki: leagueoflegends
+, team: Evil Geniuses Prodigies, id: Shoryu, name: Quentin Pereira, wiki: leagueoflegends
+, team: Excel Esports, id: Advienne, name: Henk Reijenga, wiki: leagueoflegends
+, team: Excel Esports, id: Kryze, name: Felix Hellstru00f6m, wiki: leagueoflegends
+, team: Excel Esports, id: Markoon, name: Mark van Woensel, wiki: leagueoflegends
+, team: Excel Esports, id: Patrik, name: Patrik Ju00edru016f, wiki: leagueoflegends
+, team: Excel Esports, id: Unlimited, name: Petar Georgiev, wiki: leagueoflegends
+, team: Excel Esports, id: YoungBuck, name: Joey Steltenpool, wiki: leagueoflegends
+, team: Excel Esports, id: nukeduck, name: Erlend Vu00e5tevik Holm, wiki: leagueoflegends
+, team: Exilium Hunters, id: Athyz, name: Alejandro Nu00fau00f1ez, wiki: leagueoflegends
+, team: FC Schalke 04 Esports, id: BrokenBlade, name: Sergen u00c7elik, wiki: leagueoflegends
+, team: FC Schalke 04 Esports, id: Dylan Falco, name: Dylan Falco, wiki: leagueoflegends
+, team: FC Schalke 04 Esports, id: Gilius, name: Erberk Demir, wiki: leagueoflegends
+, team: FC Schalke 04 Esports, id: Kirei, name: Thomas Yuen, wiki: leagueoflegends
+, team: FC Schalke 04 Esports, id: LIMIT, name: Dino Tot, wiki: leagueoflegends
+, team: FC Schalke 04 Esports, id: NUCLEARINT, name: Ilias Bizriken, wiki: leagueoflegends
+, team: FC Schalke 04 Esports, id: Neon, name: Matu00fau0161 Jakubu010du00edk, wiki: leagueoflegends
+, team: FC Schalke 04 Evolution, id: Kynetic, name: Leander Sydekum, wiki: leagueoflegends
+, team: FC Schalke 04 Evolution, id: Obsess, name: Patrick Engelmann, wiki: leagueoflegends
+, team: FC Schalke 04 Evolution, id: Tolerant, name: Baru0131u015f u00c7epniou011flu, wiki: leagueoflegends
+, team: FC Schalke 04 Evolution, id: Yoppa, name: Pavle Kostiu0107, wiki: leagueoflegends
+, team: FC Schalke 04 Evolution, id: Zwyroo, name: Artur Trojan, wiki: leagueoflegends
+, team: FC Schalke 04 Evolution, id: nRated, name: Christoph Seitz, wiki: leagueoflegends
+, team: FTV Esports, id: Sya, name: Phan Trung Tou00e0n, wiki: leagueoflegends
+, team: FURIA Esports, id: Anyyy, name: Ruan Silva, wiki: leagueoflegends
+, team: FURIA Esports, id: Beenie, name: Pedro Lucas, wiki: leagueoflegends
+, team: FURIA Esports, id: Diamondprox, name: Danil Reshetnikov, wiki: leagueoflegends
+, team: FURIA Esports, id: Maestro, name: Lucas Pierre, wiki: leagueoflegends
+, team: FURIA Esports, id: ST3PZ, name: Miguel Rezek, wiki: leagueoflegends
+, team: FURIA Esports, id: Tyrin, name: William Portugal, wiki: leagueoflegends
+, team: FURIA Esports Academy, id: Goot, name: Gabriel Goot, wiki: leagueoflegends
+, team: FURIA Esports Academy, id: Kick, name: Jou00e3o Rosas, wiki: leagueoflegends
+, team: FURIA Esports Academy, id: Snaker, name: Brian Alejo, wiki: leagueoflegends
+, team: Flamengo Esports, id: Absolut, name: Luis Felipe Carvalho, wiki: leagueoflegends
+, team: Flamengo Esports, id: Pades, name: Serdar Padeu015f, wiki: leagueoflegends
+, team: Flamengo Esports, id: Parang, name: Lee Sang-won, wiki: leagueoflegends
+, team: Flamengo Esports, id: Ranger, name: Filipe Brombilla, wiki: leagueoflegends
+, team: Flamengo Esports, id: RedBert, name: Ygor Freitas, wiki: leagueoflegends
+, team: Flamengo Esports, id: Tutsz, name: Arthur Peixoto Machado, wiki: leagueoflegends
+, team: Flamengo Esports Academy, id: Bounty, name: Gabriel Vieira Donner, wiki: leagueoflegends
+, team: Flamengo Esports Academy, id: Goku, name: Bruno Miyaguchi, wiki: leagueoflegends
+, team: Flamengo Esports Academy, id: Jean Mago, name: Jean Carlo Dias, wiki: leagueoflegends
+, team: Flamengo Esports Academy, id: Sorry, name: Felipe Boal, wiki: leagueoflegends
+, team: Flamengo Esports Academy, id: flare, name: Luiz Felipe Lobo, wiki: leagueoflegends
+, team: Flash Wolves, id: MMD, name: Yu Li-Hong, wiki: leagueoflegends
+, team: Flayn eSports, id: Calmsky, name: Diogo Sousa, wiki: leagueoflegends
+, team: FlyQuest, id: Diamond, name: David Bu00e9rubu00e9, wiki: leagueoflegends
+, team: FlyQuest, id: Josedeodo, name: Brandon Joel Villegas, wiki: leagueoflegends
+, team: FlyQuest, id: Kumo, name: Colin Zhao, wiki: leagueoflegends
+, team: FlyQuest, id: Palafox, name: Cristian Palafox, wiki: leagueoflegends
+, team: FlyQuest, id: Sharkz, name: Alexey Taranda, wiki: leagueoflegends
+, team: FlyQuest, id: Tomo, name: Frank Lam, wiki: leagueoflegends
+, team: FlyQuest, id: Voyboy, name: Joedat Esfahani, wiki: leagueoflegends
+, team: FlyQuest Academy, id: Dreams, name: Han Min-kook, wiki: leagueoflegends
+, team: FlyQuest Academy, id: Johnsun, name: Johnson Nguyen, wiki: leagueoflegends
+, team: FlyQuest Academy, id: Nxi, name: Hoangan Xin Dinh, wiki: leagueoflegends
+, team: FlyQuest Academy, id: Philip, name: Philip Zeng, wiki: leagueoflegends
+, team: FlyQuest Academy, id: Triple, name: Stephen Li, wiki: leagueoflegends
+, team: Fnatic, id: Adam, name: Adam Maanane, wiki: leagueoflegends
+, team: Fnatic, id: Bwipo, name: Gabriu00ebl Rau, wiki: leagueoflegends
+, team: Fnatic, id: Hylissang, name: Zdravets Iliev Galabov, wiki: leagueoflegends
+, team: Fnatic, id: Nisqy, name: Yasin Dinu00e7er, wiki: leagueoflegends
+, team: Fnatic, id: Rhobalas, name: Valentin Ancelin, wiki: leagueoflegends
+, team: Fnatic, id: Upset, name: Elias Lipp, wiki: leagueoflegends
+, team: Fnatic, id: Veteran, name: Michael Archer, wiki: leagueoflegends
+, team: Fnatic, id: YamatoCannon, name: Jakob Mebdi, wiki: leagueoflegends
+, team: Fnatic, id: styllEE, name: Rasmus Nydahl Kristensen, wiki: leagueoflegends
+, team: Fnatic Rising, id: Bean, name: Louis Schmitz, wiki: leagueoflegends
+, team: Fnatic Rising, id: Chibs, name: Tenzin Rigzang Brookes, wiki: leagueoflegends
+, team: Fnatic Rising, id: Dajor, name: Oliver Ryppa, wiki: leagueoflegends
+, team: Fnatic Rising, id: Lindgarde, name: Hugo Lindgu00e4rde, wiki: leagueoflegends
+, team: Fnatic Rising, id: Maxi, name: Magnus Kristensen, wiki: leagueoflegends
+, team: Fnatic Rising, id: Pride, name: Mahdi Nasserzadeh, wiki: leagueoflegends
+, team: Fnatic Rising, id: delord, name: Paweu0142 Szabla, wiki: leagueoflegends
+, team: Fnatic Rising, id: rhuckz, name: Ru00faben Barbosa, wiki: leagueoflegends
+, team: For The Win Esports, id: Dragon, name: Manuel Cortes, wiki: leagueoflegends
+, team: For The Win Esports, id: Feedarias, name: Nuno Sardinha, wiki: leagueoflegends
+, team: For The Win Esports, id: Noma, name: Paulo Rebocho, wiki: leagueoflegends
+, team: For The Win Esports, id: Own3r, name: Tiago Mendes, wiki: leagueoflegends
+, team: For The Win Esports, id: Sl4shD, name: Bernardo Carvalho, wiki: leagueoflegends
+, team: Fuego, id: Rapid, name: Jeff Macolonie, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS Academy, id: Charley, name: Ryugo Nishimura, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS Academy, id: HowLa, name: Yuki Ishizuka, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS Academy, id: Ricky, name: Riki Sameshima, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS Academy, id: Wasteland, name: Taiki Shimazaki, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS Academy, id: ankochan, name: Masaki Kawashima, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS gaming, id: Corporal, name: Ian Pearse, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS gaming, id: Dasher, name: Kim Deok-beom, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS gaming, id: Tussle, name: Lee Moon-yong, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS gaming, id: Zenit, name: Jeon Tae-gwon, wiki: leagueoflegends
+, team: Fukuoka SoftBank HAWKS gaming, id: apaMEN, name: Ryo Odagiri, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Bo, name: Zhou Yang-Bo, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Crisp, name: Liu Qing-Song, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Doinb, name: Kim Tae-sang, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Lwx, name: Lin Wei-Xiang, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Mingjing, name: Xie Ming-Jing, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Nuguri, name: Jang Ha-gwon, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: REFRA1N, name: Chen Kuan-Ting, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Steak, name: Chou Lu-Hsi, wiki: leagueoflegends
+, team: FunPlus Phoenix, id: Tian, name: Gao Tian-Liang, wiki: leagueoflegends
+, team: FunPlus Phoenix Blaze, id: Beichuan, name: Yang Ling, wiki: leagueoflegends
+, team: FunPlus Phoenix Blaze, id: Shenyi, name: Wei Zi-Jie, wiki: leagueoflegends
+, team: FunPlus Phoenix Blaze, id: bingqing, name: Zhu Hai-Qing, wiki: leagueoflegends
+, team: Funny Yellow Dogs, id: Powder, name: Andrey Fedorov, wiki: leagueoflegends
+, team: Furious Gaming, id: Baula, name: Alejandro Serrano, wiki: leagueoflegends
+, team: Furious Gaming, id: Bugi, name: Lee Seong-yeop, wiki: leagueoflegends
+, team: Furious Gaming, id: Erry, name: Park Sang-joon, wiki: leagueoflegends
+, team: Furious Gaming, id: Jauny, name: Jauny Vargas Altamirano, wiki: leagueoflegends
+, team: Furious Gaming, id: TopLop, name: Nicolu00e1s Marinoni, wiki: leagueoflegends
+, team: Furious Gaming Chile, id: Emp, name: Benjamu00edn Ramu00edrez, wiki: leagueoflegends
+, team: G-Rex, id: baybay, name: Wang You-Chun, wiki: leagueoflegends
+, team: G2 Arctic, id: Efias, name: Oleksandr Yankovich, wiki: leagueoflegends
+, team: G2 Arctic, id: Fresskowy, name: Bartu0142omiej Przewou017anik, wiki: leagueoflegends
+, team: G2 Arctic, id: Koldo, name: Luis Pu00e9rez, wiki: leagueoflegends
+, team: G2 Arctic, id: Melzhet, name: Tomu00e1s Campelos, wiki: leagueoflegends
+, team: G2 Arctic, id: Oscarinin, name: u00d3scar Muu00f1oz, wiki: leagueoflegends
+, team: G2 Arctic, id: Supa, name: David Martinez Garcia, wiki: leagueoflegends
+, team: G2 Esports, id: Caps, name: Rasmus Borregaard Winther, wiki: leagueoflegends
+, team: G2 Esports, id: GrabbZ, name: Fabian Lohmann, wiki: leagueoflegends
+, team: G2 Esports, id: Jankos, name: Marcin Jankowski, wiki: leagueoflegends
+, team: G2 Esports, id: Mikyx, name: Mihael Mehle, wiki: leagueoflegends
+, team: G2 Esports, id: P1noy, name: Kristoffer Albao Lund Pedersen, wiki: leagueoflegends
+, team: G2 Esports, id: Rekkles, name: Martin Larsson, wiki: leagueoflegends
+, team: G2 Esports, id: Wunder, name: Martin Nordahl Hansen, wiki: leagueoflegends
+, team: G2 Esports, id: ocelote, name: Carlos Rodru00edguez Santiago, wiki: leagueoflegends
+, team: GAM Esports, id: Bie, name: Tru1ea7n u0110u1ee9c Hiu1ebfu, wiki: leagueoflegends
+, team: GAM Esports, id: Divkid, name: Vu00f5 Thanh Tu00f9ng, wiki: leagueoflegends
+, team: GAM Esports, id: Kati, name: u0110u1eb7ng Thanh Phu00ea, wiki: leagueoflegends
+, team: GAM Esports, id: Kiaya, name: Tru1ea7n Duy Sang, wiki: leagueoflegends
+, team: GAM Esports, id: Levi, name: u0110u1ed7 Duy Khu00e1nh, wiki: leagueoflegends
+, team: GAM Esports, id: Style, name: Nguyu1ec5n Hou00e0ng Su01a1n, wiki: leagueoflegends
+, team: GAM Esports, id: Tinikun, name: Du01b0u01a1ng Nguyu1ec5n Duy Thanh, wiki: leagueoflegends
+, team: GODSENT, id: Munckizz, name: Christian Munck, wiki: leagueoflegends
+, team: GOEXANIMO, id: Facen, name: Ju0101nis Lauskis, wiki: leagueoflegends
+, team: GOEXANIMO, id: Klydex, name: Mu0101rtiu0146u0161 Zu0101lu012btis, wiki: leagueoflegends
+, team: GOEXANIMO, id: Ruf, name: Rolf Hein, wiki: leagueoflegends
+, team: Gaia Esports, id: Chapapi, name: Randy van den Bemt, wiki: leagueoflegends
+, team: Gaia Esports, id: Rawbin, name: Robin Eggenberger, wiki: leagueoflegends
+, team: Galakticos, id: EMENES, name: Jang Min-soo, wiki: leagueoflegends
+, team: Galakticos, id: Elramir, name: Taha Yurdagu00fcven, wiki: leagueoflegends
+, team: Galakticos, id: Jeyrus, name: Tunahan Durmaz, wiki: leagueoflegends
+, team: Galakticos, id: Oncan, name: Onurcan Atak, wiki: leagueoflegends
+, team: Galakticos, id: ShawiKatami, name: Mehmet Efe, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Alive, name: Noh Jin-wook, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Appen, name: Necati Saru0131gu00fcl, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Bolulu, name: Onur Can Demirol, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Crazy, name: Kim Jae-hee, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Luana, name: Berkant Kayhan, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Mojito, name: Berk Kocaman, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Padden, name: Ege Acar Koparal, wiki: leagueoflegends
+, team: Galatasaray Esports, id: Zergsting, name: Onur u00dcnalan, wiki: leagueoflegends
+, team: Galaxy Racer, id: Shiny, name: Laure Delaroche, wiki: leagueoflegends
+, team: GameWard, id: Ellam, name: Volkan Dinu00e7er, wiki: leagueoflegends
+, team: GameWard, id: Memento, name: Jonas Elmarghichi, wiki: leagueoflegends
+, team: GameWard, id: Prime, name: Olivier Payet, wiki: leagueoflegends
+, team: GameWard, id: toucouille, name: Lou00efc Dubois, wiki: leagueoflegends
+, team: GameWard Academy, id: Chreak, name: Corentin Moreau, wiki: leagueoflegends
+, team: GameWard Academy, id: Dreamsu, name: Joffrey Livet, wiki: leagueoflegends
+, team: GameWard Academy, id: Octomalus, name: Tu00e9o Bertiau, wiki: leagueoflegends
+, team: GamersOrigin, id: Innaxe, name: Nihat Dzhelal Aliev, wiki: leagueoflegends
+, team: GamersOrigin, id: Karim kt, name: Karim Aubineau, wiki: leagueoflegends
+, team: GamersOrigin, id: Mersa, name: Mertai Sari, wiki: leagueoflegends
+, team: GamersOrigin, id: Ronaldo, name: Ronaldo Betea, wiki: leagueoflegends
+, team: GamersOrigin, id: beansu, name: Mauno Tu00e4lli, wiki: leagueoflegends
+, team: GamersOrigin Academy, id: Melon, name: Alexis Barrachin, wiki: leagueoflegends
+, team: Gamespace E-Sports, id: Delitto, name: Alexandros Karalis, wiki: leagueoflegends
+, team: Gamespace E-Sports, id: Fallen, name: Viktor Kordanovski, wiki: leagueoflegends
+, team: Gamespace E-Sports, id: Kabamarru, name: Kostis Georgantas, wiki: leagueoflegends
+, team: Gamespace E-Sports, id: Mikkel, name: Michael Nguyen, wiki: leagueoflegends
+, team: Gamespace E-Sports, id: bucu, name: Marcin u015awiech, wiki: leagueoflegends
+, team: Gen.G Academy, id: Lospa, name: Park Joon-hyeong, wiki: leagueoflegends
+, team: Gen.G Academy, id: Quid, name: Lim Hyeon-seung, wiki: leagueoflegends
+, team: Gen.G Academy, id: Winner, name: Woo Joo-sung, wiki: leagueoflegends
+, team: Gen.G Academy, id: nyx, name: Kim Min-su, wiki: leagueoflegends
+, team: Gen.G Challengers, id: Dice, name: Hong Do-hyeon, wiki: leagueoflegends
+, team: Gen.G Challengers, id: Envyy, name: Lee Myeong-joon, wiki: leagueoflegends
+, team: Gen.G Challengers, id: Flawless, name: Sung Yeon-jun, wiki: leagueoflegends
+, team: Gen.G Challengers, id: Karis, name: Kim Hong-jo, wiki: leagueoflegends
+, team: Gen.G Challengers, id: Khael, name: Kim Jin-hong, wiki: leagueoflegends
+, team: Gen.G Challengers, id: Lonely, name: Han Gyu-joon, wiki: leagueoflegends
+, team: Gen.G Challengers, id: Ophelia, name: Baek Jin-seong, wiki: leagueoflegends
+, team: Gen.G Esports, id: Ambition, name: Kang Chan-yong, wiki: leagueoflegends
+, team: Gen.G Esports, id: Bdd, name: Gwak Bo-seong, wiki: leagueoflegends
+, team: Gen.G Esports, id: Burdol, name: Noh Tae-yoon, wiki: leagueoflegends
+, team: Gen.G Esports, id: Clid, name: Kim Tae-min, wiki: leagueoflegends
+, team: Gen.G Esports, id: CuVee, name: Lee Seong-jin, wiki: leagueoflegends
+, team: Gen.G Esports, id: Ggoong, name: Yu Byeong-jun, wiki: leagueoflegends
+, team: Gen.G Esports, id: Life, name: Kim Jeong-min, wiki: leagueoflegends
+, team: Gen.G Esports, id: Nemesis, name: Tim Lipovu0161ek, wiki: leagueoflegends
+, team: Gen.G Esports, id: Rascal, name: Kim Kwang-hee, wiki: leagueoflegends
+, team: Gen.G Esports, id: Ruler, name: Park Jae-hyuk, wiki: leagueoflegends
+, team: Gen.G Esports, id: Youngjae, name: Ko Yeong-jae, wiki: leagueoflegends
+, team: Gentlemen's Gaming, id: Yashiro, name: Eimantas u0160niukas, wiki: leagueoflegends
+, team: Globant Emerald Team, id: Fix, name: Nicolu00e1s Sayago, wiki: leagueoflegends
+, team: Globant Emerald Team, id: Nate, name: Damiu00e1n Rea, wiki: leagueoflegends
+, team: Globant Emerald Team, id: Plugo, name: Joaquu00edn Josu00e9 Pu00e9rez, wiki: leagueoflegends
+, team: Golden Guardians, id: Ablazeolive, name: Nicholas Antonio Abbott, wiki: leagueoflegends
+, team: Golden Guardians, id: Apollo, name: Apollo Price, wiki: leagueoflegends
+, team: Golden Guardians, id: Chime, name: Johnathan Pomponio, wiki: leagueoflegends
+, team: Golden Guardians, id: Ic0nic, name: Ethan Wilkinson, wiki: leagueoflegends
+, team: Golden Guardians, id: Licorice, name: Eric Ritchie, wiki: leagueoflegends
+, team: Golden Guardians, id: Solo, name: Colin Earnest, wiki: leagueoflegends
+, team: Golden Guardians, id: Stixxay, name: Trevor Hayes, wiki: leagueoflegends
+, team: Golden Guardians, id: Swip3rR, name: Brandon Holland, wiki: leagueoflegends
+, team: Golden Guardians Academy, id: Niles, name: Aiden Tidwell, wiki: leagueoflegends
+, team: Golden Guardians Academy, id: Prismal, name: Jacob Feinstein, wiki: leagueoflegends
+, team: Goskilla, id: Silas, name: Silas de Jong, wiki: leagueoflegends
+, team: Granit Gaming, id: Saju, name: Eduard Dinkelberg, wiki: leagueoflegends
+, team: Gravitas, id: Azus, name: Blake Schlage, wiki: leagueoflegends
+, team: Gravitas, id: Kyose, name: Nathan Bacha, wiki: leagueoflegends
+, team: Gravitas, id: Nobody, name: Lachlan Keene-O'Keefe, wiki: leagueoflegends
+, team: Gravitas, id: Safa, name: Mahmoud Safa, wiki: leagueoflegends
+, team: Grow uP eSports, id: Kyanna, name: Eva Murn, wiki: leagueoflegends
+, team: Grow uP eSports, id: Tifa, name: Alena Maurer, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: Arthur, name: Park Mi-reu, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: Chovy, name: Jeong Ji-hoon, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: Deft, name: Kim Hyuk-kyu, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: DuDu, name: Lee Dong-ju, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: Morgan, name: Park Gi-Tae, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: Shy, name: Park Sang-myeon, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: Vsta, name: Oh Hyo-seong, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: Willer, name: Kim Jeong-hyeon, wiki: leagueoflegends
+, team: Hanwha Life Esports, id: yoHan, name: Kim Yo-han, wiki: leagueoflegends
+, team: Hanwha Life Esports Challengers, id: Baut, name: Lee Jeong-hoon, wiki: leagueoflegends
+, team: Hanwha Life Esports Challengers, id: Cheoni, name: Cho Seung-mo, wiki: leagueoflegends
+, team: Hanwha Life Esports Challengers, id: Key, name: Kim Han-gi, wiki: leagueoflegends
+, team: Hanwha Life Esports Challengers, id: Mask, name: Lee Sang-hoon, wiki: leagueoflegends
+, team: Hanwha Life Esports Challengers, id: Riss, name: Kang Hyeon, wiki: leagueoflegends
+, team: Harrisburg University, id: Xpecial, name: Alex Chu, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: B1ven, name: Wu Hao-Wei, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: Chawy, name: Wong Xing Lei, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: K, name: Ke Kai-Sheng, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: Kongyue, name: Hsiao Jen-Tso, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: MnM, name: Wong Ka Chun, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: Patience, name: Liu Hsuan, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: Rock, name: Tsai Chung-Ting, wiki: leagueoflegends
+, team: Hong Kong Attitude, id: Wing, name: Lam Wing Chun, wiki: leagueoflegends
+, team: Hybrid Esports, id: MeLikePanda, name: Rasmus Christiernin, wiki: leagueoflegends
+, team: Hybrid Esports, id: Meager, name: Kamil Pu0119kacki, wiki: leagueoflegends
+, team: INTZ, id: Aoshi, name: Franklin Coutinho, wiki: leagueoflegends
+, team: INTZ, id: Envy, name: Bruno Farias, wiki: leagueoflegends
+, team: INTZ, id: LynX, name: Pedro Quintavalle, wiki: leagueoflegends
+, team: INTZ, id: Revolta, name: Gabriel Henud Cresci, wiki: leagueoflegends
+, team: INTZ, id: VISu00c3O, name: Kaique de Lima Teixeira, wiki: leagueoflegends
+, team: INTZ, id: micaO, name: Micael Rodrigues, wiki: leagueoflegends
+, team: INTZ Academy, id: Cacah, name: Cauu00e3 Arau00fajo, wiki: leagueoflegends
+, team: INTZ Academy, id: Hanor, name: Gustavo Carrilo, wiki: leagueoflegends
+, team: INTZ Academy, id: Taara, name: Leandro Dias Monteiro, wiki: leagueoflegends
+, team: INTZ Academy, id: Yatsu, name: Tainu00e1 Santos, wiki: leagueoflegends
+, team: IWC Academy, id: Midkid, name: Tufan Deniz, wiki: leagueoflegends
+, team: Illinois State University, id: Nausicaa, name: Cameron Maine, wiki: leagueoflegends
+, team: Illinois State University, id: Tempos, name: Spenser White, wiki: leagueoflegends
+, team: Illuminar Gaming, id: Chris, name: Krystian Dobrzau0144ski, wiki: leagueoflegends
+, team: Illuminar Gaming, id: Eu015bcik, name: Tomasz Skwarczynski, wiki: leagueoflegends
+, team: Illuminar Gaming, id: LeQu, name: Kamil Rosik, wiki: leagueoflegends
+, team: Illuminar Gaming, id: Zamulek, name: Dominik Biela, wiki: leagueoflegends
+, team: Illuminar Gaming, id: xCharm, name: Kamil Linchard, wiki: leagueoflegends
+, team: Immortals, id: Destiny, name: Mitchell Shaw, wiki: leagueoflegends
+, team: Immortals, id: Guilhoto, name: Andru00e9 Guilhoto, wiki: leagueoflegends
+, team: Immortals, id: Insanity, name: David Challe, wiki: leagueoflegends
+, team: Immortals, id: Raes, name: Quin Korebrits, wiki: leagueoflegends
+, team: Immortals, id: Revenge, name: Mohamed Kaddoura, wiki: leagueoflegends
+, team: Immortals, id: Xerxe, name: Andrei Dragomir, wiki: leagueoflegends
+, team: Immortals Academy, id: AnDa, name: Andy Hoang, wiki: leagueoflegends
+, team: Immortals Academy, id: Joey, name: Joseph Haslemann, wiki: leagueoflegends
+, team: Immortals Academy, id: Keith, name: Yuri Jew, wiki: leagueoflegends
+, team: Immortals Academy, id: Pretty, name: Prodromos Kevezitidis, wiki: leagueoflegends
+, team: Immortals Academy, id: V1per, name: Omran Shoura, wiki: leagueoflegends
+, team: Impunity, id: Blaze, name: Teo Jia Xiang, wiki: leagueoflegends
+, team: Impunity, id: MoonBlack, name: Leung Chung Hong, wiki: leagueoflegends
+, team: Impunity, id: TOPKING, name: Kim Yeon-su, wiki: leagueoflegends
+, team: Infinity, id: Ackerman, name: Gabriel Aparicio, wiki: leagueoflegends
+, team: Infinity, id: Buggax, name: Mateo Alejandro Aroztegui Zamora, wiki: leagueoflegends
+, team: Infinity, id: SolidSnake, name: Diego Vallejo Trujillo, wiki: leagueoflegends
+, team: Infinity, id: Whitelotus, name: Matu00edas Musso, wiki: leagueoflegends
+, team: Infinity, id: cody, name: Cristian Sebastiu00e1n Quispe Yampara, wiki: leagueoflegends
+, team: Infinity Esports, id: Renyu, name: Renato Gallegos Muu00f1oz, wiki: leagueoflegends
+, team: Infinity Esports, id: Soren, name: Carlos Ibarra, wiki: leagueoflegends
+, team: Inside Games, id: Defflok, name: Michal Kratochvu00edla, wiki: leagueoflegends
+, team: Inside Games, id: Kio, name: Simon Kru00e1lik, wiki: leagueoflegends
+, team: Inside Games, id: Mazurr, name: Matu00fau0161 Mazur, wiki: leagueoflegends
+, team: Inside Games, id: MjrDee, name: Ondu0159ej Hrneu010dek, wiki: leagueoflegends
+, team: Intrepid Fox Gaming, id: Pun1sher, name: Konstantinos Katsikadakos, wiki: leagueoflegends
+, team: Invictus Gaming, id: Baolan, name: Wang Liu-Yi, wiki: leagueoflegends
+, team: Invictus Gaming, id: Lucas, name: Li Tan-Pan-Ao, wiki: leagueoflegends
+, team: Invictus Gaming, id: Ning, name: Gao Zhen-Ning, wiki: leagueoflegends
+, team: Invictus Gaming, id: Puff, name: Ding Wang, wiki: leagueoflegends
+, team: Invictus Gaming, id: Rookie, name: Song Eui-jin, wiki: leagueoflegends
+, team: Invictus Gaming, id: Southwind, name: Su Zhi-Lin, wiki: leagueoflegends
+, team: Invictus Gaming, id: TheShy, name: Kang Seung-lok, wiki: leagueoflegends
+, team: Invictus Gaming, id: West, name: Chen Long, wiki: leagueoflegends
+, team: Invictus Gaming, id: Wink, name: Zhang Rui, wiki: leagueoflegends
+, team: Invictus Gaming, id: XUN, name: Peng Li-Xun, wiki: leagueoflegends
+, team: Invictus Gaming, id: fly, name: Kim Sang-chul, wiki: leagueoflegends
+, team: Invictus Gaming Young, id: Mitsuki, name: Lu Jia-Lun, wiki: leagueoflegends
+, team: Invictus Gaming Young, id: Snow, name: Wu Hao-Shun, wiki: leagueoflegends
+, team: Invictus Gaming Young, id: Xzz, name: Liu Zhu, wiki: leagueoflegends
+, team: Invictus Gaming Young, id: Youdang, name: Zeng Xian-Xin, wiki: leagueoflegends
+, team: Invictus Gaming Young, id: xiaoyueji, name: Luo Shi-Hao, wiki: leagueoflegends
+, team: Invictus Gaming Young, id: xzy, name: Lu Tian-Run, wiki: leagueoflegends
+, team: Ion Squad, id: wewillfailer, name: Bram de Winter, wiki: leagueoflegends
+, team: Iron Wolves, id: ChosenOne, name: Algirdas Gricius, wiki: leagueoflegends
+, team: Iron Wolves, id: Saulius, name: Saulius Lukou0161ius, wiki: leagueoflegends
+, team: Iron Wolves, id: Xavieles, name: Vilius Baltuu0161is, wiki: leagueoflegends
+, team: Iron Wolves, id: zty, name: Julius Kursys, wiki: leagueoflegends
+, team: Isurus, id: Archer, name: Lee Keun-hee, wiki: leagueoflegends
+, team: Isurus, id: Jelly, name: Son Ho-gyeong, wiki: leagueoflegends
+, team: Isurus, id: Seiya, name: u00c9dgar Ali Bracamontes Munguu00eda, wiki: leagueoflegends
+, team: Isurus, id: Warangelus, name: Fabiu00e1n Esteban Llanos Bernal, wiki: leagueoflegends
+, team: Isurus, id: Yeti, name: Rodrigo del Castillo, wiki: leagueoflegends
+, team: Isurus, id: Zerito, name: Tomas Colangelo, wiki: leagueoflegends
+, team: IziDream, id: Nolan, name: Quoc Hung Tran, wiki: leagueoflegends
+, team: IziDream, id: Rogue, name: Jake Sharwood, wiki: leagueoflegends
+, team: IziDream, id: Seelame, name: Manuel Guillou-Delair, wiki: leagueoflegends
+, team: IziDream, id: Shikari, name: Jordan Pointon, wiki: leagueoflegends
+, team: IziDream, id: Special, name: Joran Scheffer, wiki: leagueoflegends
+, team: IziDream, id: Viking, name: Anton Andersson, wiki: leagueoflegends
+, team: IziDream, id: Vince, name: Vincent Descaves, wiki: leagueoflegends
+, team: J Team, id: BeBe, name: Chang Bo-Wei, wiki: leagueoflegends
+, team: J Team, id: Breaker, name: Shih Yueh-Ting, wiki: leagueoflegends
+, team: J Team, id: Driver, name: Shen Zong-Hua, wiki: leagueoflegends
+, team: J Team, id: Lilv, name: Chen Chin-Han, wiki: leagueoflegends
+, team: J Team, id: M1ssion, name: Chen Hsiao-Hsien, wiki: leagueoflegends
+, team: J Team, id: Nestea, name: Hsu Bao-Yuan, wiki: leagueoflegends
+, team: J Team, id: Rest, name: Hsu Shih-Chieh, wiki: leagueoflegends
+, team: J Team, id: Woody, name: Lin Hung-Yu, wiki: leagueoflegends
+, team: JD Gaming, id: Chashao, name: Shih Yi-Hao, wiki: leagueoflegends
+, team: JD Gaming, id: Kanavi, name: Seo Jin-hyeok, wiki: leagueoflegends
+, team: JD Gaming, id: LvMao, name: Zuo Ming-Hao, wiki: leagueoflegends
+, team: JD Gaming, id: Yagao, name: Zeng Qi, wiki: leagueoflegends
+, team: JD Gaming, id: Zoom, name: Zhang Xing-Ran, wiki: leagueoflegends
+, team: Joy Dream, id: 1250, name: Ye Guo-Wei, wiki: leagueoflegends
+, team: Joy Dream, id: Alu, name: Wang Zhi-Yi, wiki: leagueoflegends
+, team: Joy Dream, id: GYX, name: Gong Yi-Xiong, wiki: leagueoflegends
+, team: Joy Dream, id: Xiao17, name: Dai Ying-Jie, wiki: leagueoflegends
+, team: KAOS E-sport, id: Dipzey, name: Adrian Kjellesvik, wiki: leagueoflegends
+, team: KAOS E-sport, id: KOOLBERG, name: Hu00e5kon Solberg, wiki: leagueoflegends
+, team: KRC Genk Esports, id: Guertas, name: Romain Polo, wiki: leagueoflegends
+, team: KRC Genk Esports, id: Lunar, name: Ramazan Tokmak, wiki: leagueoflegends
+, team: KRC Genk Esports, id: Numandiel, name: Corentin Rostand, wiki: leagueoflegends
+, team: KRC Genk Esports, id: Seal, name: Fabian de Lint, wiki: leagueoflegends
+, team: KT Rolster, id: Acorn, name: Choi Cheon-ju, wiki: leagueoflegends
+, team: KT Rolster, id: Blank, name: Kang Sun-gu, wiki: leagueoflegends
+, team: KT Rolster, id: Doran, name: Choi Hyeon-joon, wiki: leagueoflegends
+, team: KT Rolster, id: Dove, name: Kim Jae-yeon, wiki: leagueoflegends
+, team: KT Rolster, id: Harp, name: Lee Ji-yoong, wiki: leagueoflegends
+, team: KT Rolster, id: Noah, name: Oh Hyeon-taek, wiki: leagueoflegends
+, team: KT Rolster, id: Ucal, name: Son Woo-hyeon, wiki: leagueoflegends
+, team: KT Rolster Challengers, id: 5Kid, name: Park Jeong-hyeon, wiki: leagueoflegends
+, team: KT Rolster Challengers, id: Bonnie, name: Lee Gwang-su, wiki: leagueoflegends
+, team: KT Rolster Challengers, id: Castle, name: Cho Hyeon-seong, wiki: leagueoflegends
+, team: KT Rolster Challengers, id: HyBriD, name: Lee Woo-jin, wiki: leagueoflegends
+, team: KT Rolster Challengers, id: Rebel, name: Park Geun-woo, wiki: leagueoflegends
+, team: KT Rolster Challengers, id: Vicla, name: Lee Dae-gwang, wiki: leagueoflegends
+, team: KV Mechelen Esports, id: Bardo, name: Mick op den Akker, wiki: leagueoflegends
+, team: KV Mechelen Esports, id: Dragflick, name: Peter Dekker, wiki: leagueoflegends
+, team: KV Mechelen Esports, id: Slyv3r, name: Job Goossens, wiki: leagueoflegends
+, team: KV Mechelen Esports, id: Tuomari, name: Jan-Willem van Wingerden, wiki: leagueoflegends
+, team: KV Mechelen Esports, id: Urban, name: Marcus Urban Christensen, wiki: leagueoflegends
+, team: KaBuM! e-Sports, id: Disave, name: David Chaves, wiki: leagueoflegends
+, team: KaBuM! e-Sports, id: Evrot, name: Danniel Franco, wiki: leagueoflegends
+, team: KaBuM! e-Sports, id: Hiro, name: Lee Woo-suk, wiki: leagueoflegends
+, team: KaBuM! e-Sports, id: Ryan, name: Lee Jun-seok, wiki: leagueoflegends
+, team: KaBuM! e-Sports, id: Scuro, name: Gabriel Scuro, wiki: leagueoflegends
+, team: KaBuM! e-Sports, id: Wizer, name: Choi Ui-seok, wiki: leagueoflegends
+, team: KaBuM! e-Sports Academy, id: Bankai, name: Renan Pirone, wiki: leagueoflegends
+, team: KaBuM! e-Sports Academy, id: Guigs, name: Guilherme Soares, wiki: leagueoflegends
+, team: KaBuM! e-Sports Academy, id: Mousty, name: Roger Wiegand, wiki: leagueoflegends
+, team: KaBuM! e-Sports Academy, id: Stankie, name: Gabriel Fernandes, wiki: leagueoflegends
+, team: KaBuM! e-Sports Academy, id: Titeito, name: Jou00e3o Pedro Couto, wiki: leagueoflegends
+, team: Kaisa Gaming, id: Ben4, name: Tu Xin-Cheng, wiki: leagueoflegends
+, team: Kaos Latin Gamers, id: Baltica, name: Bastiu00e1n Osvaldo Segura Zambrano, wiki: leagueoflegends
+, team: Kaos Latin Gamers, id: Nipphu, name: Franco Daniel Funes Cabezas, wiki: leagueoflegends
+, team: Karma Clan Esports, id: Beat, name: Josu00e9 Mesquita, wiki: leagueoflegends
+, team: Karma Clan Esports, id: Heroic, name: Francisco Ribeiro, wiki: leagueoflegends
+, team: Karma Clan Esports, id: PapiTeero, name: Antero Baldaia, wiki: leagueoflegends
+, team: Karmine Corp, id: Cabochard, name: Lucas Simon-Meslet, wiki: leagueoflegends
+, team: Karmine Corp, id: Cinkrof, name: Jakub Rokicki, wiki: leagueoflegends
+, team: Karmine Corp, id: Saken, name: Lucas Fayard, wiki: leagueoflegends
+, team: Karmine Corp, id: Targamas, name: Raphau00ebl Crabbu00e9, wiki: leagueoflegends
+, team: Karmine Corp, id: xMatty, name: Matthew Coombs, wiki: leagueoflegends
+, team: Komil&Friends, id: svns, name: Damian Klejc, wiki: leagueoflegends
+, team: Kuala Lumpur Hunters, id: SOUPerior, name: Calvin Yang Quok Vern, wiki: leagueoflegends
+, team: Kuala Lumpur Hunters, id: Shiro, name: Adrian Lee Meng Xuan, wiki: leagueoflegends
+, team: LDLC OL, id: Dan Dan, name: Danny Le Comte, wiki: leagueoflegends
+, team: LDLC OL, id: Eika, name: Ju00e9ru00e9my Valdenaire, wiki: leagueoflegends
+, team: LDLC OL, id: Exakick, name: Thomas Foucou, wiki: leagueoflegends
+, team: LDLC OL, id: Manaty, name: Stu00e9phane Dimier, wiki: leagueoflegends
+, team: LDLC OL, id: YellOwStaR, name: Bora Kim, wiki: leagueoflegends
+, team: LDLC OL, id: sOAZ, name: Paul Boyer, wiki: leagueoflegends
+, team: LDM Esports, id: Prodigy, name: Agustu00edn Juu00e1rez, wiki: leagueoflegends
+, team: LEC, id: Ashley Kang, name: , wiki: leagueoflegends
+, team: LGD Gaming, id: Eimy, name: Xie Dan, wiki: leagueoflegends
+, team: LGD Gaming, id: Garvey, name: Fang Jia-Wei, wiki: leagueoflegends
+, team: LGD Gaming, id: Kramer, name: Ha Jong-hun, wiki: leagueoflegends
+, team: LGD Gaming, id: Mark, name: Ling Xu, wiki: leagueoflegends
+, team: LGD Gaming, id: Shadow, name: Zhiqiang Zhao, wiki: leagueoflegends
+, team: LGD Gaming, id: Yuuki, name: Hu Hao-Ming, wiki: leagueoflegends
+, team: LGD Gaming, id: fearness, name: Chen Guo-Ji, wiki: leagueoflegends
+, team: LGD Gaming, id: xiye, name: Su Han-Wei, wiki: leagueoflegends
+, team: LNG Academy, id: Xuan, name: Wu Zheng-Hang, wiki: leagueoflegends
+, team: LNG Esports, id: Ale, name: Hu Jia-Le, wiki: leagueoflegends
+, team: LNG Esports, id: Iwandy, name: Liao Ding-Yang, wiki: leagueoflegends
+, team: LNG Esports, id: Light, name: Wang Guang-Yu, wiki: leagueoflegends
+, team: LNG Esports, id: M1kuya, name: Chang Xiao, wiki: leagueoflegends
+, team: LNG Esports, id: Martin, name: Tan Qi, wiki: leagueoflegends
+, team: LNG Esports, id: Rather, name: Shin Hyeong-seop, wiki: leagueoflegends
+, team: LNG Esports, id: Tarzan, name: Lee Seung-yong, wiki: leagueoflegends
+, team: LNG Esports, id: icon, name: Xie Tian-Yu, wiki: leagueoflegends
+, team: LOUD, id: Ceos, name: Denilson Oliveira Gonu00e7alves, wiki: leagueoflegends
+, team: LOUD, id: DudsTheBoy, name: Igor Lima Homem, wiki: leagueoflegends
+, team: LOUD, id: Tay, name: Rodrigo Panisa, wiki: leagueoflegends
+, team: LOUD, id: dyNquedo, name: Matheus Rossini, wiki: leagueoflegends
+, team: LOUD Academy, id: Aithusa, name: Lucas Mantese, wiki: leagueoflegends
+, team: LOUD Academy, id: Brance, name: Diego Amaral, wiki: leagueoflegends
+, team: LOUD Academy, id: Enel, name: Gustavo Hayashi, wiki: leagueoflegends
+, team: LOUD Academy, id: Hidan, name: Leonardo Borru00e9 dos Santos, wiki: leagueoflegends
+, team: LOUD Academy, id: Mewkyo, name: Matheus Ferraz, wiki: leagueoflegends
+, team: LOUD Academy, id: Vahvel, name: Victor Vieira, wiki: leagueoflegends
+, team: LVP, id: Mellado, name: Jaime Mellado Fernu00e1ndez, wiki: leagueoflegends
+, team: Lazarus, id: BurntSanctuary, name: Joshua Keller, wiki: leagueoflegends
+, team: Legacy Esports, id: Guts, name: Eldin Skenderoviu0107, wiki: leagueoflegends
+, team: Legacy Esports, id: Incursio, name: Daniel Brkic, wiki: leagueoflegends
+, team: Legacy Esports, id: Sybol, name: Lachlan Civil, wiki: leagueoflegends
+, team: Legacy Esports, id: Winterer, name: Kim Dong-geun, wiki: leagueoflegends
+, team: Legacy Esports, id: Yuzuki, name: Damian Tu, wiki: leagueoflegends
+, team: Legacy Esports, id: emelg, name: Andy Chen, wiki: leagueoflegends
+, team: Legacy Esports, id: styled, name: Gian Leon, wiki: leagueoflegends
+, team: Legend Esport Gaming, id: Assqssin, name: Zhou Yi-Xiang, wiki: leagueoflegends
+, team: Legend Esport Gaming, id: Catjug, name: Chen Yi-Jie, wiki: leagueoflegends
+, team: Legend Esport Gaming, id: Viod, name: Lu Fan, wiki: leagueoflegends
+, team: Legion Gaming, id: Dinoricar, name: Ricardino Vulto, wiki: leagueoflegends
+, team: Les Fru00e8res du Purgatoire, id: Kaze, name: Quentin Gourbeix, wiki: leagueoflegends
+, team: Les Fru00e8res du Purgatoire, id: Myw, name: Beverly Bioli, wiki: leagueoflegends
+, team: Liga de Videojuegos Profesional, id: Ibai, name: Ibai Llanos, wiki: leagueoflegends
+, team: Liyab Esports, id: Dawn, name: Kyle Somera, wiki: leagueoflegends
+, team: Liyab Esports, id: DoeDoii, name: Edrian Brancia, wiki: leagueoflegends
+, team: Liyab Esports, id: Kanji, name: Ren Motomitsu, wiki: leagueoflegends
+, team: Liyab Esports, id: Tgee, name: Gerald Gianne Gelacio, wiki: leagueoflegends
+, team: London Esports, id: Four, name: Stanimir Penchev, wiki: leagueoflegends
+, team: LowLandLions, id: Anthrax, name: Robbe Dobbeleers, wiki: leagueoflegends
+, team: LowLandLions, id: Naerea, name: Roshan Visser, wiki: leagueoflegends
+, team: LowLandLions, id: dibu, name: Janne Heikkonen, wiki: leagueoflegends
+, team: LowLandLions, id: xTyLk, name: Jordi Buvalets, wiki: leagueoflegends
+, team: Luminosity Gaming, id: Froggen, name: Henrik Hansen, wiki: leagueoflegends
+, team: Lunary, id: Krakmo, name: Mathias Laborde, wiki: leagueoflegends
+, team: Lunary, id: Le Roi Bisou, name: Sakor Ros, wiki: leagueoflegends
+, team: Lunary, id: Narkuss, name: Alexandre Mege, wiki: leagueoflegends
+, team: Lunary, id: Rx Dye, name: Kevin Goulven, wiki: leagueoflegends
+, team: Lundqvist Lightside, id: Zvene, name: Simon Svensson, wiki: leagueoflegends
+, team: Luxury Esports, id: Bisbo, name: Nguyu1ec5n Lu00e2m Viu1ec7t Sinh, wiki: leagueoflegends
+, team: Luxury Esports, id: Blazes, name: u0110u1ed7 u0110u00ecnh Sang, wiki: leagueoflegends
+, team: Luxury Esports, id: KemKen, name: Huu1ef3nh Tu1ea5n Danh, wiki: leagueoflegends
+, team: Luxury Esports, id: Shine, name: Tu00f4n Nguyu1ec5n Phi Long, wiki: leagueoflegends
+, team: Luxury Esports, id: Sorn, name: Nguyu1ec5n Minh Hu00e0o, wiki: leagueoflegends
+, team: Luxury Esports, id: Tear, name: Nguyu1ec5n Chiu1ebfn Thu1eafng, wiki: leagueoflegends
+, team: MAD Lions, id: Armut, name: u0130rfan Berk Tu00fckek, wiki: leagueoflegends
+, team: MAD Lions, id: Carzzy, name: Matyu00e1u0161 Orsu00e1g, wiki: leagueoflegends
+, team: MAD Lions, id: Elyoya, name: Javier Prades, wiki: leagueoflegends
+, team: MAD Lions, id: Humanoid, name: Marek Bru00e1zda, wiki: leagueoflegends
+, team: MAD Lions, id: Kaas, name: Christophe van Oudheusden, wiki: leagueoflegends
+, team: MAD Lions, id: Kaiser, name: Norman Kaiser, wiki: leagueoflegends
+, team: MAD Lions, id: Mac, name: James MacCormack, wiki: leagueoflegends
+, team: MAD Lions Madrid, id: Alexx, name: Alexander u00d6sterlind, wiki: leagueoflegends
+, team: MAD Lions Madrid, id: Eren, name: Nguyu1ec5n u0110u1ee9c Anh, wiki: leagueoflegends
+, team: MAD Lions Madrid, id: Falco, name: Jesu00fas Pu00e9rez Rubio, wiki: leagueoflegends
+, team: MAD Lions Madrid, id: Flakked, name: Victor Lirola, wiki: leagueoflegends
+, team: MAD Lions Madrid, id: Kackos, name: Krzysztof Kubziakowski, wiki: leagueoflegends
+, team: MAD Lions Madrid, id: Knighter, name: Jonas Bryder Jensen, wiki: leagueoflegends
+, team: MAD Lions Madrid, id: Tore, name: Tore Hoel Eilertsen, wiki: leagueoflegends
+, team: MCon esports Rotterdam, id: Michlit, name: Michau0142 Litwin, wiki: leagueoflegends
+, team: MCon esports Rotterdam, id: Mindrago, name: Antonio-Cosmin Dragomir, wiki: leagueoflegends
+, team: MCon esports Rotterdam, id: Noodle, name: Kim Kroon, wiki: leagueoflegends
+, team: MCon esports Rotterdam, id: Robba, name: Rob Zoon, wiki: leagueoflegends
+, team: MCon esports Rotterdam, id: SozPurefect, name: Hicham Tazrhini, wiki: leagueoflegends
+, team: MOUZ, id: Czekolad, name: Paweu0142 Szczepanik, wiki: leagueoflegends
+, team: MOUZ, id: Enjawve, name: Solal Accary, wiki: leagueoflegends
+, team: MOUZ, id: Gadget, name: Ilya Makavchuk, wiki: leagueoflegends
+, team: MOUZ, id: Kamilius, name: Kamil Kou0161u0165u00e1l, wiki: leagueoflegends
+, team: MOUZ, id: Pridestalkr, name: Milo Wehnes, wiki: leagueoflegends
+, team: MOUZ, id: Rueven, name: Trong Nghia Hoang, wiki: leagueoflegends
+, team: MOUZ, id: Satorius, name: Max Gu00fcnther, wiki: leagueoflegends
+, team: MYinsanity, id: Conse, name: David Schreiner, wiki: leagueoflegends
+, team: MYinsanity, id: Czypsy, name: Kacper Zaparucha, wiki: leagueoflegends
+, team: MYinsanity, id: KonDziSan, name: Konrad Andrzej Sopata, wiki: leagueoflegends
+, team: MYinsanity, id: Praevius, name: Joshua Elliott-James, wiki: leagueoflegends
+, team: MYinsanity, id: RoyalKanin, name: Linus Gru00f6nlund, wiki: leagueoflegends
+, team: MYinsanity, id: Souli, name: Paris Sitzoukis, wiki: leagueoflegends
+, team: Machi Esports, id: Atlen, name: Sung Ya-Lun, wiki: leagueoflegends
+, team: Machi Esports, id: Gemini, name: Huang Chu-Xuan, wiki: leagueoflegends
+, team: Machi Esports, id: Koala, name: Lin Chih-Chiang, wiki: leagueoflegends
+, team: Machi Esports, id: Likai, name: Liao Li-Kai, wiki: leagueoflegends
+, team: Machi Esports, id: SivHD, name: Robbert van Eijndhoven, wiki: leagueoflegends
+, team: Macko Esports, id: Rharesh, name: Riccardo Tata, wiki: leagueoflegends
+, team: Macko Esports, id: StenBosse, name: Stass Skopin, wiki: leagueoflegends
+, team: Maryville University, id: EvanRL, name: Evan Lawson, wiki: leagueoflegends
+, team: Maryville University, id: Getback, name: Jarod Tucker, wiki: leagueoflegends
+, team: Maryville University, id: Julien, name: Julien Gelinas, wiki: leagueoflegends
+, team: Maryville University, id: Kind, name: Nathan Mosby, wiki: leagueoflegends
+, team: Maryville University, id: OddOrange, name: Nathan Ryan, wiki: leagueoflegends
+, team: Maryville University, id: Shady, name: Jordan Robison, wiki: leagueoflegends
+, team: Maryville University, id: Spirax, name: Djalar Djiar, wiki: leagueoflegends
+, team: Masonic, id: Raxon, name: Christoffer Bjerg, wiki: leagueoflegends
+, team: Method2Madness, id: Arnax, name: Arnas Stepanauskas, wiki: leagueoflegends
+, team: Method2Madness, id: Divider, name: Aleksas Bogdeviu010dius, wiki: leagueoflegends
+, team: Method2Madness, id: Phaxi, name: Ambrou017e Hren, wiki: leagueoflegends
+, team: Michigan State University, id: RBM, name: Peyton Demarest, wiki: leagueoflegends
+, team: Miners.gg Academy, id: Hugato, name: Hugo Dias, wiki: leagueoflegends
+, team: Miners.gg Academy, id: Lawi, name: Larissa Santos, wiki: leagueoflegends
+, team: Miners.gg Academy, id: pbO, name: Pablo Yuri, wiki: leagueoflegends
+, team: Misfits, id: Crazycaps, name: Andy Walda, wiki: leagueoflegends
+, team: Misfits, id: Deficio, name: Martin Lynge, wiki: leagueoflegends
+, team: Misfits Gaming, id: Amazing, name: Maurice Stu00fcckenschneider, wiki: leagueoflegends
+, team: Misfits Gaming, id: Candyfloss, name: Alexander Cartwright, wiki: leagueoflegends
+, team: Misfits Gaming, id: HiRit, name: Shin Tae-min, wiki: leagueoflegends
+, team: Misfits Gaming, id: Kobbe, name: Kasper Kobberup, wiki: leagueoflegends
+, team: Misfits Gaming, id: Razork, name: Ivu00e1n Martu00edn Du00edaz, wiki: leagueoflegends
+, team: Misfits Gaming, id: Vander, name: Oskar Bogdan, wiki: leagueoflegends
+, team: Misfits Gaming, id: Vetheo, name: Vincent Berriu00e9, wiki: leagueoflegends
+, team: Misfits Gaming, id: xani, name: Nikola Zrinjski, wiki: leagueoflegends
+, team: Misfits Premier, id: Agresivoo, name: Tobiasz Ciba, wiki: leagueoflegends
+, team: Misfits Premier, id: Hiiva, name: Aleksi Kaikkonen, wiki: leagueoflegends
+, team: Misfits Premier, id: Jactroll, name: Jakub Skurzyu0144ski, wiki: leagueoflegends
+, team: Misfits Premier, id: Sertuss, name: Daniel Gamani, wiki: leagueoflegends
+, team: Misfits Premier, id: Shlatan, name: Lucjan Ahmad, wiki: leagueoflegends
+, team: Misfits Premier, id: Woolite, name: Paweu0142 Pruski, wiki: leagueoflegends
+, team: MnM Gaming, id: Barcode, name: Sander Laidre, wiki: leagueoflegends
+, team: MnM Gaming, id: Cl0x, name: Mladen Mitiu0107, wiki: leagueoflegends
+, team: Mocs Esports, id: Gate, name: Jiajun Austin Yu, wiki: leagueoflegends
+, team: Movistar Optix, id: Tierwulf, name: Sebastiu00e1n Andru00e9s Mateluna Cibrario, wiki: leagueoflegends
+, team: Movistar Riders, id: Deilor, name: Luis Sevilla Petit, wiki: leagueoflegends
+, team: Movistar Riders, id: DuaLL, name: u00c1ngel Fernu00e1ndez, wiki: leagueoflegends
+, team: Movistar Riders, id: Marky, name: Pedro Josu00e9 Serrano, wiki: leagueoflegends
+, team: Movistar Riders, id: Maxlore, name: Nubar Sarafian, wiki: leagueoflegends
+, team: Movistar Riders, id: Venzer, name: Alexander Kostadinov, wiki: leagueoflegends
+, team: Movistar Riders, id: xKenzuke, name: Serkan Atu0131lgan, wiki: leagueoflegends
+, team: Munster Rugby Academy, id: Bartiono, name: Bart Wessels, wiki: leagueoflegends
+, team: Munster Rugby Gaming, id: Jenxas, name: Liutauras Macius, wiki: leagueoflegends
+, team: Mythus Esports, id: Potter, name: Thananon Thirawat, wiki: leagueoflegends
+, team: NASR eSports, id: Black, name: Murat Ulukan Ayaz, wiki: leagueoflegends
+, team: NASR eSports, id: Bono, name: Kim Gi-beom, wiki: leagueoflegends
+, team: NASR eSports, id: Enatron, name: Ilias Theodorou, wiki: leagueoflegends
+, team: NASR eSports, id: Giyuu, name: Ahmad Charif, wiki: leagueoflegends
+, team: NASR eSports, id: Japone, name: Bahadu0131r u00c7olak, wiki: leagueoflegends
+, team: NASR eSports, id: SoHwan, name: Kim Jun-yeong, wiki: leagueoflegends
+, team: NASR eSports Academy, id: Kituruken, name: Umut Ceylan, wiki: leagueoflegends
+, team: NVision Esports, id: Jaunatis, name: Tomas Janaudis, wiki: leagueoflegends
+, team: NYYRIKKI, id: Artum, name: Arttu Mattila, wiki: leagueoflegends
+, team: NYYRIKKI, id: Azitor, name: Alex Kanerva, wiki: leagueoflegends
+, team: NYYRIKKI, id: Flipper, name: Sebastian Torpe Blatch, wiki: leagueoflegends
+, team: NYYRIKKI, id: Yameru, name: Elias Jalonen, wiki: leagueoflegends
+, team: NYYRIKKI, id: Yazmat, name: Kalle Ollila, wiki: leagueoflegends
+, team: Netshoes Miners, id: Drop, name: Matheus Herdy, wiki: leagueoflegends
+, team: Netshoes Miners, id: Hawk, name: Gabriel Gomes de Araujo, wiki: leagueoflegends
+, team: Netshoes Miners, id: NOsFerus, name: Ju00falio Cu00e9sar Cruz, wiki: leagueoflegends
+, team: Netshoes Miners, id: Sephis, name: Diego Alejandro de Alencar Jara, wiki: leagueoflegends
+, team: Netshoes Miners, id: Truklax, name: Alexandre Rodrigues do Nascimento, wiki: leagueoflegends
+, team: Netshoes Miners Academy, id: Ari, name: Ariel Lino, wiki: leagueoflegends
+, team: Netshoes Miners Academy, id: Piloto, name: Elvis Vergara, wiki: leagueoflegends
+, team: Netshoes Miners Academy, id: Reversed, name: Carlos Jayme, wiki: leagueoflegends
+, team: Netshoes Miners Academy, id: Small, name: Vitor Le, wiki: leagueoflegends
+, team: New Pampas, id: Kindless, name: Benjamu00edn Fuenzalida Barrera, wiki: leagueoflegends
+, team: New Pampas, id: Tulz, name: Marco Villani, wiki: leagueoflegends
+, team: No Need Orga, id: Agurin, name: Muhammed Kocak, wiki: leagueoflegends
+, team: No Need Orga, id: Broeki, name: Daniel Broekmann, wiki: leagueoflegends
+, team: No Need Orga, id: NoWay, name: Frederik Hinteregger, wiki: leagueoflegends
+, team: No Need Orga, id: Tolkin, name: Niklot Stu00fcber, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Bay, name: Park Jun-byeong, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Catch, name: Yun Sang-ho, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Comet, name: Lim Hye-sung, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Deokdam, name: Seo Dae-gil, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Gori, name: Kim Tae-woo, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Juhan, name: Lee Ju-han, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Kellin, name: Kim Hyeong-gyu, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Peanut, name: Han Wang-ho, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Rich, name: Jae Won Lee, wiki: leagueoflegends
+, team: Nongshim RedForce, id: Wayne, name: Hwang Seo-hyeon, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: Beyond, name: Kim Kyu-seok, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: Blessing, name: Lee Jang-won, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: Bull, name: Song Seon-gyu, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: DnDn, name: Park Geun-woo, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: FIESTA, name: An Hyeon-seo, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: HongA, name: Lee Seon-hong, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: Sylvie, name: Lee Seung-bok, wiki: leagueoflegends
+, team: Nongshim RedForce Challengers, id: Yusin, name: Kwak Yu-sin, wiki: leagueoflegends
+, team: Nordic Fox Esports, id: King Loko, name: Daniel Manousian, wiki: leagueoflegends
+, team: OFFSET Esports, id: Blizz, name: Guilherme Rodrigues, wiki: leagueoflegends
+, team: OFFSET Esports, id: F4rg, name: Ru00faben Fernandes, wiki: leagueoflegends
+, team: OFFSET Esports, id: Kortini, name: Francisco Morgado, wiki: leagueoflegends
+, team: OFFSET Esports, id: ThomasFate, name: Tomislav Nanjara, wiki: leagueoflegends
+, team: ORDER, id: Beats, name: David Nguyen-Dang, wiki: leagueoflegends
+, team: ORDER, id: Chungy, name: Jerome Chung, wiki: leagueoflegends
+, team: ORDER, id: Jayke, name: Jayke Paulsen, wiki: leagueoflegends
+, team: ORDER, id: Spookz, name: Samuel Broadley, wiki: leagueoflegends
+, team: OTP LoL, id: Bulii, name: Laure Valu00e9e, wiki: leagueoflegends
+, team: OZ Gaming, id: MaHa, name: Oh Hyun-sik, wiki: leagueoflegends
+, team: Oh My God, id: AKi, name: Mao An, wiki: leagueoflegends
+, team: Oh My God, id: COLD, name: Liu Shi-Yu, wiki: leagueoflegends
+, team: Oh My God, id: Creme, name: Lin Jian, wiki: leagueoflegends
+, team: Oh My God, id: New, name: Tian Zhi-Peng, wiki: leagueoflegends
+, team: Oh My God, id: Penguin, name: Zhao Shuai, wiki: leagueoflegends
+, team: Oh My God, id: Xiyang, name: Hu Bin, wiki: leagueoflegends
+, team: Oh My God, id: Y1han, name: Hu Zhi-Wei, wiki: leagueoflegends
+, team: Oh My God, id: kRYST4L, name: Yang Fan, wiki: leagueoflegends
+, team: Olympiacos Alimou, id: Tsiperakos, name: Vassilis Lalas, wiki: leagueoflegends
+, team: Olympiacos Alimou, id: WouLou, name: Christoforos Kliotis, wiki: leagueoflegends
+, team: Out of the Blue Team, id: Steve, name: Etienne Michels, wiki: leagueoflegends
+, team: Outplayed, id: Demon, name: Lorenzo Marzi, wiki: leagueoflegends
+, team: Outplayed, id: Quixeth, name: August Skarsfjord Nyheim, wiki: leagueoflegends
+, team: OverPower Esports, id: Optimus, name: Tru1ea7n Vu0103n Cu01b0u1eddng, wiki: leagueoflegends
+, team: PDW, id: Color, name: Sebastian Czyu017cyk, wiki: leagueoflegends
+, team: PDW, id: Czajek, name: Mateusz Czajka, wiki: leagueoflegends
+, team: PDW, id: Odi11, name: Adrian Kruk, wiki: leagueoflegends
+, team: PDW, id: Zetural, name: Adrian Dziadkowiec, wiki: leagueoflegends
+, team: PDW, id: komedyja, name: Olimpia Cichosz, wiki: leagueoflegends
+, team: PDW, id: kubYD, name: Jakub Grobelny, wiki: leagueoflegends
+, team: PEACE, id: Aladoric, name: Ryan Gregory Richardson, wiki: leagueoflegends
+, team: PEACE, id: Apii, name: Yao Jian-Jing, wiki: leagueoflegends
+, team: PEACE, id: Babip, name: Leo Romer, wiki: leagueoflegends
+, team: PEACE, id: Halo, name: James Giacoumakis, wiki: leagueoflegends
+, team: PEACE, id: Tally, name: James Shute, wiki: leagueoflegends
+, team: PEACE, id: Violet, name: Vincent Wong, wiki: leagueoflegends
+, team: PEACE, id: Vizicsacsi, name: Tamu00e1s Kiss, wiki: leagueoflegends
+, team: PENTA 1860, id: FUN k3y, name: Johannes Werner, wiki: leagueoflegends
+, team: PENTA 1860, id: Leon, name: Leon Anton, wiki: leagueoflegends
+, team: PENTA 1860, id: Phantomles, name: Kim Storm, wiki: leagueoflegends
+, team: PENTA 1860, id: Rulfchen, name: Tom Ruckh, wiki: leagueoflegends
+, team: PENTA 1860, id: Scarface, name: Daniel Aitbelkacem, wiki: leagueoflegends
+, team: PRIDE, id: ItzRenifer, name: Konrad Potu0119pa, wiki: leagueoflegends
+, team: PSG Talon, id: Hanabi, name: Su Chia-Hsiang, wiki: leagueoflegends
+, team: PSG Talon, id: Kaiwing, name: Ling Kai Wing, wiki: leagueoflegends
+, team: PSG Talon, id: Kartis, name: Wong Ka Lok, wiki: leagueoflegends
+, team: PSG Talon, id: Maple, name: Huang Yi-Tang, wiki: leagueoflegends
+, team: PSG Talon, id: River, name: Kim Dong-woo, wiki: leagueoflegends
+, team: PSG Talon, id: TL, name: Yang Po-Jen, wiki: leagueoflegends
+, team: PSG Talon, id: Unified, name: Wong Chun Kit, wiki: leagueoflegends
+, team: PSV Esports, id: Goose, name: Lucca Schouten, wiki: leagueoflegends
+, team: PaiN Gaming, id: Cariok, name: Marcos Santos de Oliveira Junior, wiki: leagueoflegends
+, team: PaiN Gaming, id: Dioud, name: Hugo Padioleau, wiki: leagueoflegends
+, team: PaiN Gaming, id: Jukes, name: Flu00e1vio Fernandes, wiki: leagueoflegends
+, team: PaiN Gaming, id: Luci, name: Han Chang-hoon, wiki: leagueoflegends
+, team: PaiN Gaming, id: Robo, name: Leonardo Souza, wiki: leagueoflegends
+, team: PaiN Gaming, id: TinOwns, name: Thiago Sartori, wiki: leagueoflegends
+, team: PaiN Gaming, id: brTT, name: Felipe Gonu00e7alves, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: AcceZ, name: Lucas Miranda dos Santos, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: Accez, name: Lucas Miranda, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: Blacky, name: Matheus Lessa, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: Mido, name: Giuliano Inazawa, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: ProDelta, name: Fu00e1bio Marques, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: Sarkis, name: Matheus Guimaru00e3es Sarquis, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: SkyBart, name: Mateus Neves, wiki: leagueoflegends
+, team: PaiN Gaming Academy, id: griff, name: Marcelo Quidiguino, wiki: leagueoflegends
+, team: Pentanet.GG, id: BioPanther, name: Brandon Alexander, wiki: leagueoflegends
+, team: Pentanet.GG, id: Praedyth, name: Mark Lewis, wiki: leagueoflegends
+, team: Pentanet.GG Rise, id: Seb, name: Sebastian de Ceglie, wiki: leagueoflegends
+, team: Prodigy Esports, id: Garo, name: Humberto Peixoto, wiki: leagueoflegends
+, team: RED Academy, id: Neephesto, name: Andrew Correa, wiki: leagueoflegends
+, team: RED Academy, id: Promise, name: Leonardo Braga, wiki: leagueoflegends
+, team: RED Academy, id: Woodboy, name: Vinu00edcius Hartmann, wiki: leagueoflegends
+, team: RED Academy, id: sorahed, name: Thalis Andru00e9 de Araujo, wiki: leagueoflegends
+, team: RED Canids, id: Aegis, name: Gabriel Vinicius Saes de Lemos, wiki: leagueoflegends
+, team: RED Canids, id: Avenger, name: Adriano Perassoli, wiki: leagueoflegends
+, team: RED Canids, id: Grevthar, name: Daniel Xavier, wiki: leagueoflegends
+, team: RED Canids, id: Guigo, name: Guilherme Ruiz, wiki: leagueoflegends
+, team: RED Canids, id: Jojo, name: Gabriel Dzelme de Oliveira, wiki: leagueoflegends
+, team: RED Canids, id: TitaN, name: Alexandre Lima, wiki: leagueoflegends
+, team: Radiance, id: Hai, name: Hai Du Lam, wiki: leagueoflegends
+, team: Rainbow7, id: Aloned, name: Tomu00e1s Du00edaz Valiente, wiki: leagueoflegends
+, team: Rainbow7, id: Careta, name: Stephanie Huartamendu00eda, wiki: leagueoflegends
+, team: Rainbow7, id: Ceo, name: Lorenzo Tu00e9vez, wiki: leagueoflegends
+, team: Rainbow7, id: Khynm, name: Cristian Gabriel Alonso Roussy, wiki: leagueoflegends
+, team: Rainbow7, id: MarioMe, name: Mario Reyes, wiki: leagueoflegends
+, team: Rainbow7, id: Nobody, name: Nicolu00e1s Ale, wiki: leagueoflegends
+, team: Rainbow7, id: Oddie, name: Sebastiu00e1n Alonso Niu00f1o Zavaleta, wiki: leagueoflegends
+, team: Rainbow7, id: Shadow, name: Facundo Cuello, wiki: leagueoflegends
+, team: Rainbow7, id: Straight, name: Roberto Guallichico, wiki: leagueoflegends
+, team: Rare Atom, id: Aix, name: Li Yang, wiki: leagueoflegends
+, team: Rare Atom, id: Cube, name: Dai Yi, wiki: leagueoflegends
+, team: Rare Atom, id: FoFo, name: Chu Chun-Lan, wiki: leagueoflegends
+, team: Rare Atom, id: Leyan, name: Lu Jue, wiki: leagueoflegends
+, team: Rare Atom, id: Maestro, name: Hu Jian-Xin, wiki: leagueoflegends
+, team: Rare Atom, id: iBoy, name: Hu Xian-Zhao, wiki: leagueoflegends
+, team: Rascal Jester, id: Kinatu, name: Yuto Enomoto, wiki: leagueoflegends
+, team: Rascal Jester, id: Recap, name: Norifumi Yamazaki, wiki: leagueoflegends
+, team: Rascal Jester, id: SSol, name: Seo Jin-sol, wiki: leagueoflegends
+, team: Rascal Jester, id: Secret, name: Park Ki-sun, wiki: leagueoflegends
+, team: Rascal Jester, id: hachamecha, name: Dai Takai, wiki: leagueoflegends
+, team: Rascal Jester Academy, id: Rando, name: Saeki Tada, wiki: leagueoflegends
+, team: Redemption eSports Porto Alegre, id: Nyu, name: Renan Augusto Silva, wiki: leagueoflegends
+, team: Rensga eSports, id: Damage, name: Yan Sales Neves, wiki: leagueoflegends
+, team: Rensga eSports, id: Kiari, name: Thiago Luiz, wiki: leagueoflegends
+, team: Rensga eSports, id: Trigo, name: Matheus Trigo, wiki: leagueoflegends
+, team: Rensga eSports, id: Yuri, name: Cha Hee-min, wiki: leagueoflegends
+, team: Rensga eSports Academy, id: Erasus, name: Leonardo Faria, wiki: leagueoflegends
+, team: Rensga eSports Academy, id: Harumi, name: Gabriela Silvu00e9rio, wiki: leagueoflegends
+, team: Rensga eSports Academy, id: Kennedys, name: Bruno Goularte Garcia, wiki: leagueoflegends
+, team: Rensga eSports Academy, id: Marfz, name: Jou00e3o Luu00eds, wiki: leagueoflegends
+, team: Rensga eSports Academy, id: bydeki, name: Vinu00edcius Hideki, wiki: leagueoflegends
+, team: Resolve, id: Achuu, name: Nicolaj Ellesgaard, wiki: leagueoflegends
+, team: Resolve, id: Chemera, name: Ronan Stewart, wiki: leagueoflegends
+, team: Resolve, id: Kaylem, name: Melik Erdogan, wiki: leagueoflegends
+, team: Resolve, id: Sof, name: Sofiane Saibi, wiki: leagueoflegends
+, team: Resolve NA, id: PCL, name: Kostyantyn Dudarchuk, wiki: leagueoflegends
+, team: Resurgence, id: Kusuo, name: Jordan Lum, wiki: leagueoflegends
+, team: Resurgence, id: Mexi, name: Law Martin, wiki: leagueoflegends
+, team: Riddle Esports, id: Afflict, name: Mohammed Chinoune, wiki: leagueoflegends
+, team: Riddle Esports, id: FlayStation, name: August Posselt Sandberg, wiki: leagueoflegends
+, team: Riddle Esports, id: Kektz, name: Bor Jeru0161an, wiki: leagueoflegends
+, team: Riddle Esports, id: Nomi, name: Noman Ahmad, wiki: leagueoflegends
+, team: Riddle Esports, id: Ploxy, name: Ole-Martin Glomsaas, wiki: leagueoflegends
+, team: Riot Games, id: Atlus, name: Max Anderson, wiki: leagueoflegends
+, team: Riot Games, id: CaptainFlowers, name: Clayton Raines, wiki: leagueoflegends
+, team: Riot Games, id: Medic, name: Aaron Chamberlain, wiki: leagueoflegends
+, team: RoX, id: Anechek, name: Dmitriy Anenko, wiki: leagueoflegends
+, team: RoX, id: Dizzy, name: Ilya Mikhaylenko, wiki: leagueoflegends
+, team: RoX, id: Imperial, name: Evgeny Sorokin, wiki: leagueoflegends
+, team: RoX, id: Madrid1st, name: Daniil Nemchenko, wiki: leagueoflegends
+, team: RoX, id: Miracle, name: Ruslan Zainulin, wiki: leagueoflegends
+, team: RoX, id: ORION, name: Alexander Iskrich, wiki: leagueoflegends
+, team: RoX, id: Pooh, name: Emil Aliev, wiki: leagueoflegends
+, team: Rogue, id: Blumigan, name: Marcus Blom, wiki: leagueoflegends
+, team: Rogue, id: Hans sama, name: Steven Liv, wiki: leagueoflegends
+, team: Rogue, id: Inspired, name: Kacper Su0142oma, wiki: leagueoflegends
+, team: Rogue, id: Larssen, name: Emil Larsson, wiki: leagueoflegends
+, team: Rogue, id: Odoamne, name: Andrei Pascu, wiki: leagueoflegends
+, team: Rogue, id: Trymbi, name: Adrian Trybus, wiki: leagueoflegends
+, team: Rogue, id: fredy122, name: Simon Payne, wiki: leagueoflegends
+, team: Rogue Warriors, id: 8917, name: Chang Tsu-Chia, wiki: leagueoflegends
+, team: Rogue Warriors, id: Betty, name: Lu Yu-Hung, wiki: leagueoflegends
+, team: Rogue Warriors, id: Forge, name: Deng Jie, wiki: leagueoflegends
+, team: Rogue Warriors, id: Haro, name: Chen Wen-Lin, wiki: leagueoflegends
+, team: Rogue Warriors, id: HuaTian, name: Tian Mai, wiki: leagueoflegends
+, team: Rogue Warriors, id: Jiangqiao, name: Jiang Jia-Feng, wiki: leagueoflegends
+, team: Rogue Warriors, id: KongMing, name: Huang Yi-Jun, wiki: leagueoflegends
+, team: Rogue Warriors, id: QiuQiu, name: Zhang Ming, wiki: leagueoflegends
+, team: Rogue Warriors, id: Xiaohao, name: Peng Hao, wiki: leagueoflegends
+, team: Rogue Warriors, id: Xuzhu, name: Li Yu-Qing, wiki: leagueoflegends
+, team: Rogue Warriors, id: ZWuJi, name: Mei Hong-Hui, wiki: leagueoflegends
+, team: Rogue Warriors, id: Zdz, name: Zhu De-Zhang, wiki: leagueoflegends
+, team: Royal Club, id: S1xu, name: Wang Kang-Can, wiki: leagueoflegends
+, team: Royal Club, id: XLB, name: Li Xiao-Long, wiki: leagueoflegends
+, team: Royal Club, id: Xiaobai, name: Yang Zhong-He, wiki: leagueoflegends
+, team: Royal Never Give Up, id: Cryin, name: Yuan Cheng-Wei, wiki: leagueoflegends
+, team: Royal Never Give Up, id: GALA, name: Chen Wei, wiki: leagueoflegends
+, team: Royal Never Give Up, id: Ming, name: Shi Sen-Ming, wiki: leagueoflegends
+, team: Royal Never Give Up, id: Poppy, name: Chang Po-Hao, wiki: leagueoflegends
+, team: Royal Never Give Up, id: Tabe, name: Wong Pak-Kan, wiki: leagueoflegends
+, team: Royal Never Give Up, id: Wei, name: Yan Yang-Wei, wiki: leagueoflegends
+, team: Royal Never Give Up, id: Xiaohu, name: Li Yuan-Hao, wiki: leagueoflegends
+, team: Royal Never Give Up, id: Yuekai, name: Zhang Yue-Kai, wiki: leagueoflegends
+, team: S2V Esports, id: Naruterador, name: Ramu00f3n Meseguer Fructuoso, wiki: leagueoflegends
+, team: S2V Esports, id: Nixerino, name: Nicolu00e1s Canellas Colocho, wiki: leagueoflegends
+, team: S2V Esports, id: Pepiinero, name: Isaac Flores Alvarado, wiki: leagueoflegends
+, team: S2V Esports, id: Prosfair, name: Tom Willis, wiki: leagueoflegends
+, team: S2V Esports, id: Random, name: Adam Grepl, wiki: leagueoflegends
+, team: S2V Esports, id: Robocop, name: Ondu0159ej Skleniu010dka, wiki: leagueoflegends
+, team: S2V Esports, id: Rufus, name: Radovan Moravec, wiki: leagueoflegends
+, team: S2V Esports, id: behave, name: Marcin Pawlak, wiki: leagueoflegends
+, team: SAMCLAN Esports Club, id: Travanques, name: David Bonjardim, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: Croco, name: Kim Dong-beom, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: Effort, name: Lee Sang-ho, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: FATE, name: Yoo Su-hyeok, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: Howling, name: Jeon Ho-bin, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: Joker, name: Cho Jae-eup, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: KingKong, name: Byeon Jeong-hyeon, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: OnFleek, name: Kim Jang-gyeom, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: Prince, name: Lee Chae-hwan, wiki: leagueoflegends
+, team: SANDBOX Gaming, id: Summit, name: Park Woo-tae, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: Cruiser, name: Jeong Ye-chan, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: Kabbie, name: Jeong Sang-hyeon, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: Nova, name: Park Chan-ho, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: Prove, name: Son Min-hyeong, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: Pump, name: Yoon Sang-hoon, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: Seize, name: Kim Chan-hee, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: Toland, name: Seo Sang-won, wiki: leagueoflegends
+, team: SANDBOX Gaming Challengers, id: gyuvee, name: Kyeong Gyu-tae, wiki: leagueoflegends
+, team: SBTC Esports, id: Artifact, name: Nguyu1ec5n Vu0103n Hu1eadu, wiki: leagueoflegends
+, team: SBTC Esports, id: Celebrity, name: Nguyu1ec5n Phu01b0u1edbc Long Hiu1ec7p, wiki: leagueoflegends
+, team: SBTC Esports, id: Dia1, name: Lu00ea Phu00fa Quu00fd, wiki: leagueoflegends
+, team: SBTC Esports, id: Slay, name: Nguyu1ec5n Ngu1ecdc Hu00f9ng, wiki: leagueoflegends
+, team: SBTC Esports, id: Violet, name: Ngu00f4 Mu1ea1nh Quyu1ec1n, wiki: leagueoflegends
+, team: SEA Serpents, id: Archeny, name: Nutchanon Yailuang, wiki: leagueoflegends
+, team: SINNERS Esports, id: Blue45ty, name: Maciej Zaremba, wiki: leagueoflegends
+, team: SINNERS Esports, id: Garp, name: Jakub Novotnu00fd, wiki: leagueoflegends
+, team: SINNERS Esports, id: Lian, name: Dennis Hong, wiki: leagueoflegends
+, team: SINNERS Esports, id: Ordno, name: Ondu0159ej Prachau0159, wiki: leagueoflegends
+, team: SINNERS Esports, id: PiOk, name: Luku00e1u0161 Lu0151rinc, wiki: leagueoflegends
+, team: SK Gaming, id: Blue, name: Ersin Gu00f6ren, wiki: leagueoflegends
+, team: SK Gaming, id: Brokenshard, name: Ram Djemal, wiki: leagueoflegends
+, team: SK Gaming, id: Jenax, name: Janik Bartels, wiki: leagueoflegends
+, team: SK Gaming, id: Jezu, name: Jean Massol, wiki: leagueoflegends
+, team: SK Gaming, id: Lilipp, name: Philipp Samuel Englert, wiki: leagueoflegends
+, team: SK Gaming, id: Treatz, name: Erik Wessu00e9n, wiki: leagueoflegends
+, team: SK Gaming, id: Troubleinc, name: Georgia Paras, wiki: leagueoflegends
+, team: SK Gaming Prime, id: Alois, name: Alois Nelissen, wiki: leagueoflegends
+, team: SK Gaming Prime, id: Canee, name: Marc Behrend, wiki: leagueoflegends
+, team: SK Gaming Prime, id: Quicktimer, name: Ricardo Schipper, wiki: leagueoflegends
+, team: SK Gaming Prime, id: Raqo, name: Max Temminck, wiki: leagueoflegends
+, team: SK Gaming Prime, id: Sheo, name: Thu00e9o Borile, wiki: leagueoflegends
+, team: SK Gaming Prime, id: UNF0RGIVEN, name: William Nieminen, wiki: leagueoflegends
+, team: SK Gaming Prime, id: twohoyrz, name: Mikhail Petkov, wiki: leagueoflegends
+, team: Saigon Buffalo, id: Arrietty, name: Nguyu1ec5n Phu01b0u1edbc Nghu0129a, wiki: leagueoflegends
+, team: Saigon Buffalo, id: Bean J, name: Tru1ea7n Vu0103n Chu00ednh, wiki: leagueoflegends
+, team: Saigon Buffalo, id: Froggy, name: Bu00f9i Hu1ea3i Minh, wiki: leagueoflegends
+, team: Saigon Buffalo, id: Hasmed, name: Lu00e2m Huu1ef3nh Gia Huy, wiki: leagueoflegends
+, team: Saigon Buffalo, id: Ren, name: Nguyu1ec5n Vu0103n Tru1ecdng, wiki: leagueoflegends
+, team: Saigon Buffalo, id: Taki, name: u0110inh Anh Tu00e0i, wiki: leagueoflegends
+, team: Samsung Morning Stars, id: darkchri, name: Christian Devo, wiki: leagueoflegends
+, team: San Lorenzo Esports, id: Shmebulock, name: Agustu00edn Valetti, wiki: leagueoflegends
+, team: Sangal, id: Nigelf, name: Max Kanerva, wiki: leagueoflegends
+, team: Santos e-Sports, id: Nappon, name: Carlos Henrique Ru00fccker, wiki: leagueoflegends
+, team: Savage Esports, id: QQmore, name: Diego Apablaza Abarzu00faa, wiki: leagueoflegends
+, team: Sector One, id: Albetrayber, name: Phil Qin, wiki: leagueoflegends
+, team: Sector One, id: Night, name: Jeroen Segers, wiki: leagueoflegends
+, team: Sector One, id: Orre, name: Charlie Orre, wiki: leagueoflegends
+, team: Sector One, id: Zhergoth, name: Benjamin Su00e1nchez, wiki: leagueoflegends
+, team: Sector One, id: zhii, name: Mart de Geus, wiki: leagueoflegends
+, team: Sengoku Gaming, id: Crash, name: Lee Dong-woo (uc774ub3d9uc6b0), wiki: leagueoflegends
+, team: Sengoku Gaming, id: Enty, name: Ryosei Tanioka, wiki: leagueoflegends
+, team: Sengoku Gaming, id: Gango, name: Byun Se-hoon, wiki: leagueoflegends
+, team: Sengoku Gaming, id: Paz, name: Shirou Sasaki, wiki: leagueoflegends
+, team: Sengoku Gaming, id: Ramune, name: Osamu Ozawa, wiki: leagueoflegends
+, team: Sengoku Gaming Academy, id: Taka, name: Takahiro Iwata, wiki: leagueoflegends
+, team: Sengoku Gaming Academy, id: YutoriMoyasi, name: Yuta Noguchi, wiki: leagueoflegends
+, team: Shadow Battlica, id: Fisher, name: Lee Jeong-tae, wiki: leagueoflegends
+, team: Shadow Battlica, id: HamBak, name: Ham Yoo-jin, wiki: leagueoflegends
+, team: Shadow Battlica, id: Meaning, name: An Ji-min, wiki: leagueoflegends
+, team: Shadow Battlica, id: ToongE, name: Lim Ho-seon, wiki: leagueoflegends
+, team: Shadow Battlica, id: Winsome, name: Kim Dong-keon, wiki: leagueoflegends
+, team: Singularity Female, id: Tulcas, name: Antonio Lu00f3pez, wiki: leagueoflegends
+, team: Snake Esports, id: Hudie, name: Liu Yan-Zhu, wiki: leagueoflegends
+, team: Solary, id: Djoko, name: Charly Guillard, wiki: leagueoflegends
+, team: Solary, id: Eyliph, name: Cu00e9dric Robert, wiki: leagueoflegends
+, team: Solary, id: Scarlet, name: Marcel Wiederhofer, wiki: leagueoflegends
+, team: Solary, id: Steeelback, name: Pierre Medjaldi, wiki: leagueoflegends
+, team: Spear Gaming, id: BreadMan, name: Lee Chan-hyeok, wiki: leagueoflegends
+, team: Spear Gaming, id: HyoJun, name: Moon Hyo-jun, wiki: leagueoflegends
+, team: Spear Gaming, id: Lodi, name: Kim Sang-woo, wiki: leagueoflegends
+, team: Spear Gaming, id: Moham, name: Moon Hyo-jun, wiki: leagueoflegends
+, team: Spear Gaming, id: Reborn, name: Cho Bo-woong, wiki: leagueoflegends
+, team: Split Raiders, id: Domas, name: Domantas Medonas, wiki: leagueoflegends
+, team: Split Raiders, id: KroMAX, name: Nejc Skok, wiki: leagueoflegends
+, team: Split Raiders, id: Nemky, name: Nemanja Josimov, wiki: leagueoflegends
+, team: Split Raiders, id: zezpez, name: Jovan Blagojeviu0107, wiki: leagueoflegends
+, team: Sprout, id: Frappii, name: Antonio Botezatu, wiki: leagueoflegends
+, team: Sprout, id: Pak, name: Tristan Bourquelot, wiki: leagueoflegends
+, team: Sprout, id: Veignorem, name: u0110ai-vinh Lussiez, wiki: leagueoflegends
+, team: St. Louis University, id: Strompest, name: Lee Seung-min, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Act, name: Adrian Tan, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Aermudilos, name: Joseph Paolo Solidum, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Azure, name: Noel Christopher Cuadra, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Chalice7, name: Rj Saligumba, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Meng, name: Romeo Benedicto, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Mish, name: Mishael John Abella, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Pain, name: Blaise Damasco, wiki: leagueoflegends
+, team: Steelwolves Gaia, id: Sly, name: Lanz Andee Chu, wiki: leagueoflegends
+, team: Stinga, id: Toyz, name: Lau Wai Kin, wiki: leagueoflegends
+, team: Suning, id: Angel, name: Xiang Tao, wiki: leagueoflegends
+, team: Suning, id: Bin, name: Chen Ze-Bin, wiki: leagueoflegends
+, team: Suning, id: Fury, name: Lee Jin-yong, wiki: leagueoflegends
+, team: Suning, id: ON, name: Luo Wen-Jun, wiki: leagueoflegends
+, team: Suning, id: SofM, name: Lu00ea Quang Duy, wiki: leagueoflegends
+, team: Suning, id: huanfeng, name: Tang Huan-Feng, wiki: leagueoflegends
+, team: SuperMassive Blaze, id: Absolute, name: Batuhan Okta, wiki: leagueoflegends
+, team: SuperMassive Blaze, id: Kaori, name: Muhammed Hasan u015eentu00fcrk, wiki: leagueoflegends
+, team: SuperMassive Blaze, id: Ksaez, name: Yunus Emre u015eahin, wiki: leagueoflegends
+, team: SuperMassive Blaze, id: Ragner, name: Onurcan Aslan, wiki: leagueoflegends
+, team: SuperMassive Blaze, id: Zeitnot, name: Berkay Au015fu0131kuzun, wiki: leagueoflegends
+, team: SuperMassive Esports, id: Kireas, name: Tunahan Kevioglu, wiki: leagueoflegends
+, team: SuperMassive Esports, id: Secaf Reis, name: Sercan u00c7evikou011flu, wiki: leagueoflegends
+, team: SuperMassive Esports, id: Thaldrin, name: Berke Demir, wiki: leagueoflegends
+, team: SuperMassive Esports Academy, id: Rhilech, name: Enes Uu00e7an, wiki: leagueoflegends
+, team: SuperMassive Esports Academy, id: Roulette, name: Mesut Baly, wiki: leagueoflegends
+, team: Supernova, id: Cozy, name: Jung Sun-woo, wiki: leagueoflegends
+, team: Supernova, id: Links, name: Mohammad Daud Asif, wiki: leagueoflegends
+, team: Supernova, id: Matty, name: Mathieu Breton, wiki: leagueoflegends
+, team: Supernova, id: Papa Chau, name: John Le, wiki: leagueoflegends
+, team: T1, id: Canna, name: Kim Chang-dong, wiki: leagueoflegends
+, team: T1, id: Clozer, name: Lee Ju-hyeon, wiki: leagueoflegends
+, team: T1, id: Cuzz, name: Moon Woo-chan, wiki: leagueoflegends
+, team: T1, id: Ellim, name: Choi El-lim, wiki: leagueoflegends
+, team: T1, id: Faker, name: Lee Sang-hyeok, wiki: leagueoflegends
+, team: T1, id: GBM, name: Lee Chang-seok, wiki: leagueoflegends
+, team: T1, id: Gumayusi, name: Lee Min-hyeong, wiki: leagueoflegends
+, team: T1, id: Hoit, name: Ryu Ho-seong, wiki: leagueoflegends
+, team: T1, id: Keria, name: Ryu Min-seok, wiki: leagueoflegends
+, team: T1, id: LS, name: Nick De Cesare, wiki: leagueoflegends
+, team: T1, id: Oner, name: Moon Hyeon-joon, wiki: leagueoflegends
+, team: T1, id: Teddy, name: Park Jin-seong, wiki: leagueoflegends
+, team: T1, id: Tyler1, name: Tyler Steinkamp, wiki: leagueoflegends
+, team: T1, id: Wolf, name: Lee Jae-wan, wiki: leagueoflegends
+, team: T1, id: Zeus, name: Choi Woo-je, wiki: leagueoflegends
+, team: T1 Academy, id: Dal, name: Moon Jeong-wan, wiki: leagueoflegends
+, team: T1 Academy, id: Forest, name: Lee Hyeon-seo, wiki: leagueoflegends
+, team: T1 Academy, id: Minous, name: Kang Min-woo, wiki: leagueoflegends
+, team: T1 Academy, id: Poby, name: Yoon Seong-won, wiki: leagueoflegends
+, team: T1 Academy, id: Smash, name: Sin Geum-jae, wiki: leagueoflegends
+, team: T1 Challengers, id: Bengi, name: Bae Seong-woong, wiki: leagueoflegends
+, team: T1 Challengers, id: Berserker, name: Kim Min-cheol, wiki: leagueoflegends
+, team: T1 Challengers, id: Mireu, name: Jeong Jo-bin, wiki: leagueoflegends
+, team: T1 Challengers, id: Mowgli, name: Lee Jae-ha, wiki: leagueoflegends
+, team: T1 Challengers, id: Roach, name: Kim Kang-hui, wiki: leagueoflegends
+, team: T1 Challengers, id: Sayho, name: Park Se-ho, wiki: leagueoflegends
+, team: TNC Predator, id: Haze, name: Arell Hill Nulud, wiki: leagueoflegends
+, team: TSM, id: Doublelift, name: Yiliang Peng, wiki: leagueoflegends
+, team: TSM, id: Huni, name: Heo Seung-hoon, wiki: leagueoflegends
+, team: TSM, id: Lost, name: Lawrence Sze Yuy Hui, wiki: leagueoflegends
+, team: TSM, id: PowerOfEvil, name: Tristan Schrage, wiki: leagueoflegends
+, team: TSM, id: Reginald, name: Andy Dinh, wiki: leagueoflegends
+, team: TSM, id: Spica, name: Mingyi Lu, wiki: leagueoflegends
+, team: TSM, id: TheOddOne, name: Brian Wyllie, wiki: leagueoflegends
+, team: TSM Academy, id: Hyper, name: Young Seo, wiki: leagueoflegends
+, team: TSM Academy, id: Peter Zhang, name: Zhang Yi, wiki: leagueoflegends
+, team: TSM Academy, id: Takeover, name: Ji Cha Hyeun-min, wiki: leagueoflegends
+, team: TSM Academy, id: Yursan, name: Wang Sheng-Yu, wiki: leagueoflegends
+, team: TT Gaming Young, id: Captain, name: Luo Fei-Yang, wiki: leagueoflegends
+, team: TT willhaben, id: Crowno, name: Benjamin Micic, wiki: leagueoflegends
+, team: TT willhaben, id: Zoiren, name: Michal Zu00edka, wiki: leagueoflegends
+, team: TUEURS, id: Haydal, name: Hau00efdar Mezidi, wiki: leagueoflegends
+, team: TWELVE, id: Jay, name: Chen Bo, wiki: leagueoflegends
+, team: Team 7AM, id: Jhinsane, name: Rico Linting, wiki: leagueoflegends
+, team: Team 7AM, id: Psclly, name: Pascal Giling, wiki: leagueoflegends
+, team: Team AURORA, id: Fleck, name: Batuhan Can, wiki: leagueoflegends
+, team: Team AURORA, id: Neos, name: u00d6nder Akbau015fou011flu, wiki: leagueoflegends
+, team: Team AURORA, id: Rhioni, name: Yu00fccel Morgil, wiki: leagueoflegends
+, team: Team AURORA Academy, id: 150IQ, name: Deniz Yu0131lmaz, wiki: leagueoflegends
+, team: Team AURORA Academy, id: SunShine, name: Ali Aslan, wiki: leagueoflegends
+, team: Team Aze, id: ADD, name: Kang Geon-mo, wiki: leagueoflegends
+, team: Team Aze, id: Tempt, name: Kang Myung-gu, wiki: leagueoflegends
+, team: Team Aze, id: ottovaG, name: Omar Andru00e9 Gavotto Fu00e9lix, wiki: leagueoflegends
+, team: Team BDS, id: Bluerzor, name: Subicz Du00e1niel, wiki: leagueoflegends
+, team: Team BDS, id: Erdote, name: Robert Nowak, wiki: leagueoflegends
+, team: Team BDS, id: Jaylink, name: Hicham Malki, wiki: leagueoflegends
+, team: Team BDS, id: Xico, name: Francisco Jose Cruz Antunes, wiki: leagueoflegends
+, team: Team BDS, id: iBo, name: Marcin Lebuda, wiki: leagueoflegends
+, team: Team DeftFox, id: Dragane, name: Calle Dargren, wiki: leagueoflegends
+, team: Team ESCA Gaming, id: Meleks, name: Symeon Smejkal, wiki: leagueoflegends
+, team: Team Echo Zulu, id: Dipsy, name: Brian Diepstraten, wiki: leagueoflegends
+, team: Team Echo Zulu, id: Emiw, name: Emil Irga, wiki: leagueoflegends
+, team: Team Echo Zulu, id: Infoneral, name: Radoslav Georgiev, wiki: leagueoflegends
+, team: Team Echo Zulu, id: Joep, name: Joep van Gastel, wiki: leagueoflegends
+, team: Team Echo Zulu, id: OMON, name: u0160imon u0158u00edhu00e1u010dek, wiki: leagueoflegends
+, team: Team Echo Zulu, id: Poeza, name: Haroen Hassan Ali, wiki: leagueoflegends
+, team: Team Echo Zulu, id: yOFT, name: Robert Martin, wiki: leagueoflegends
+, team: Team Eclypse, id: Chap, name: Alexis Barret, wiki: leagueoflegends
+, team: Team Eclypse, id: Katare, name: Andrea Suchodolski, wiki: leagueoflegends
+, team: Team Eclypse, id: Tioo, name: Thu00e9o Puissant, wiki: leagueoflegends
+, team: Team Eclypse, id: Wakz, name: Cu00e9sar Hugues, wiki: leagueoflegends
+, team: Team Flash, id: Naul, name: Vu00f5 Thu00e0nh Luu00e2n, wiki: leagueoflegends
+, team: Team Flash, id: Palette, name: Nguyu1ec5n Hu1ea3i Trung, wiki: leagueoflegends
+, team: Team Flash, id: Profit, name: Kim Jun-hyung, wiki: leagueoflegends
+, team: Team Flash, id: Stark, name: Phan Cu00f4ng Minh, wiki: leagueoflegends
+, team: Team Flash, id: Yoshino, name: Lu00ea Trung Kiu00ean, wiki: leagueoflegends
+, team: Team GamerLegion, id: Hjarnan, name: Petter Freyschuss, wiki: leagueoflegends
+, team: Team GamerLegion, id: Nite, name: Ardian Spahiu, wiki: leagueoflegends
+, team: Team GamerLegion, id: NoXiAK, name: Lewis Simon Felix, wiki: leagueoflegends
+, team: Team GamerLegion, id: Phones, name: Christian Sieg, wiki: leagueoflegends
+, team: Team GamerLegion, id: Rabble, name: Jochem van Graafeiland, wiki: leagueoflegends
+, team: Team GamerLegion, id: Visdom, name: Benjamin Ruberg Larsen, wiki: leagueoflegends
+, team: Team Horizon Reapers, id: Hybrid, name: Glenn Doornenbal, wiki: leagueoflegends
+, team: Team Liquid, id: Alphari, name: Barney Morris, wiki: leagueoflegends
+, team: Team Liquid, id: CoreJJ, name: Jo Yong-in, wiki: leagueoflegends
+, team: Team Liquid, id: Dodo, name: Kang Jun-hyeok, wiki: leagueoflegends
+, team: Team Liquid, id: Jensen, name: Nicolaj Jensen, wiki: leagueoflegends
+, team: Team Liquid, id: Kold, name: Jonas Andersen, wiki: leagueoflegends
+, team: Team Liquid, id: Midbeast, name: Drew Timbs, wiki: leagueoflegends
+, team: Team Liquid, id: Santorin, name: Lucas Tao Kilmer Larsen, wiki: leagueoflegends
+, team: Team Liquid, id: Tactical, name: Edward Ra, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Armao, name: Jonathan Armao, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Eyla, name: Bill Nguyen, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Haeri, name: Harry Kang, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Inori, name: Rami Charagh, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Jenkins, name: Thomas Tran, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Rakin, name: Rafael Knittel, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Spawn, name: Jake Tiberi, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Yama, name: Elijah Kim, wiki: leagueoflegends
+, team: Team Liquid Academy, id: Yeon, name: Sean Sung, wiki: leagueoflegends
+, team: Team MCES, id: Boukada, name: Mehdi Lahlou, wiki: leagueoflegends
+, team: Team MCES, id: Tonerre, name: Scott Mu00e9nard, wiki: leagueoflegends
+, team: Team MCES Academy, id: Azra, name: Ayoub Chamakhi, wiki: leagueoflegends
+, team: Team MCES Academy, id: Cdric, name: Cu00e9dric Ratier Santini, wiki: leagueoflegends
+, team: Team MCES Academy, id: Fraid, name: Fru00e9du00e9ric Simonet, wiki: leagueoflegends
+, team: Team Oplon, id: Darlik, name: Aymeric Garu00e7on, wiki: leagueoflegends
+, team: Team Oplon, id: LaFleur, name: Dorian Gastaud, wiki: leagueoflegends
+, team: Team Oplon, id: Nerroh, name: Stefan Pereira, wiki: leagueoflegends
+, team: Team Oplon, id: Twiizt, name: Elton Richie Garcia Spetsig, wiki: leagueoflegends
+, team: Team Phantasma, id: Bako, name: Thodoris Bakogiannis, wiki: leagueoflegends
+, team: Team Phantasma, id: Nikolex, name: Nikos Kechris, wiki: leagueoflegends
+, team: Team Phantasma, id: Peppe, name: Petros Berdebes, wiki: leagueoflegends
+, team: Team Phantasma, id: Sanity, name: Argyris Kalathenos, wiki: leagueoflegends
+, team: Team Phantasma, id: Vaynedeta, name: Stavros Giannoulakis, wiki: leagueoflegends
+, team: Team Pinnacle, id: Chelly, name: Li Yu-Zhou, wiki: leagueoflegends
+, team: Team QLASH, id: Gotrek, name: Ettore Barcella, wiki: leagueoflegends
+, team: Team Queso, id: PatkicaA, name: Aleksandar Stefanoviu0107, wiki: leagueoflegends
+, team: Team Queso, id: Rayito, name: Michael Curtet, wiki: leagueoflegends
+, team: Team Refuse, id: Adiss, name: Petr Pavlu00edu010dek, wiki: leagueoflegends
+, team: Team Refuse, id: Kenapil, name: Vu00e1clav Maxa, wiki: leagueoflegends
+, team: Team Riverside, id: ZaZee, name: Dirk Mallner, wiki: leagueoflegends
+, team: Team Secret, id: CBL, name: Nguyu1ec5n Vu00f5 Thu00e0nh Luu00e2n, wiki: leagueoflegends
+, team: Team Secret, id: Coated, name: u0110inh Vu0103n Tru00e1ng, wiki: leagueoflegends
+, team: Team Secret, id: DNK, name: u0110u1ed7 Ngu1ecdc Khu1ea3i, wiki: leagueoflegends
+, team: Team Secret, id: Eddie, name: Nghu0129a Hou00e0ng, wiki: leagueoflegends
+, team: Team Secret, id: KingJ, name: Lu00ea Vu00f5 u0110u0103ng Khu01b0u01a1ng, wiki: leagueoflegends
+, team: Team Secret, id: Slayder, name: Nguyu1ec5n Linh Vu01b0u01a1ng, wiki: leagueoflegends
+, team: Team Secret, id: Zica, name: Vu0169 Tuu1ea5n Mu1ea1nh, wiki: leagueoflegends
+, team: Team THRLL, id: Dummy, name: Rik Haring, wiki: leagueoflegends
+, team: Team THRLL, id: Elusion, name: Simon Bruno, wiki: leagueoflegends
+, team: Team THRLL, id: FatShield, name: Luke Eising, wiki: leagueoflegends
+, team: Team THRLL, id: Gaboesh, name: Gabriel Yacoub, wiki: leagueoflegends
+, team: Team Vitality, id: Comp, name: Markos Stamkopoulos, wiki: leagueoflegends
+, team: Team Vitality, id: Crownshot, name: Juu0161 Maruu0161iu010d, wiki: leagueoflegends
+, team: Team Vitality, id: LIDER, name: Adam Ilyasov, wiki: leagueoflegends
+, team: Team Vitality, id: Labrov, name: Labros Papoutsakis, wiki: leagueoflegends
+, team: Team Vitality, id: Mephisto, name: Louis-Victor Legendre, wiki: leagueoflegends
+, team: Team Vitality, id: Selfmade, name: Oskar Boderek, wiki: leagueoflegends
+, team: Team Vitality, id: Szygenda, name: Mathias Jensen, wiki: leagueoflegends
+, team: Team WE, id: Breathe, name: Chen Chen, wiki: leagueoflegends
+, team: Team WE, id: Conan, name: Ke Yi, wiki: leagueoflegends
+, team: Team WE, id: Elk, name: Zhao Jia-Hao, wiki: leagueoflegends
+, team: Team WE, id: Gentle, name: Yao Xi-Jian, wiki: leagueoflegends
+, team: Team WE, id: Mole, name: Li Hao-Yan, wiki: leagueoflegends
+, team: Team WE, id: Shanks, name: Cui Xiao-Jun, wiki: leagueoflegends
+, team: Team WE, id: Sun, name: Wang Xu-Zhuo, wiki: leagueoflegends
+, team: Team WE, id: Teacherma, name: Jiang Chen, wiki: leagueoflegends
+, team: Team WE, id: Zero, name: Yoon Kyung-sup, wiki: leagueoflegends
+, team: Team WE, id: beishang, name: Jiang Zhi-Peng, wiki: leagueoflegends
+, team: Team WeForge, id: Migab, name: Gabriel Mignon, wiki: leagueoflegends
+, team: TeamOrangeGaming, id: Air, name: Shenghao He, wiki: leagueoflegends
+, team: TeamOrangeGaming, id: Sky, name: David Koppmann, wiki: leagueoflegends
+, team: TeamOrangeGaming, id: goldento4st, name: Valmir Fejzullahu, wiki: leagueoflegends
+, team: The Kings, id: Froststrike, name: Lucas Antonio Espu00edndola Valverde, wiki: leagueoflegends
+, team: The Kings, id: Jirall, name: Daniel del Castillo, wiki: leagueoflegends
+, team: ThunderTalk Gaming, id: Chelizi, name: Xia Han-Xi, wiki: leagueoflegends
+, team: ThunderTalk Gaming, id: LANGX, name: Xie Zhen-Ying, wiki: leagueoflegends
+, team: ThunderTalk Gaming, id: Samd, name: Lee Jae-Hoon, wiki: leagueoflegends
+, team: ThunderTalk Gaming, id: Teeen, name: Wang Yao-Ji, wiki: leagueoflegends
+, team: ThunderTalk Gaming, id: Twila, name: Huang Ting-Wei, wiki: leagueoflegends
+, team: ThunderTalk Gaming, id: bless, name: Xiang Yi-Tong, wiki: leagueoflegends
+, team: Top Esports, id: 369, name: Bai Jia-Hao, wiki: leagueoflegends
+, team: Top Esports, id: Crescent, name: Luo Sheng, wiki: leagueoflegends
+, team: Top Esports, id: JackeyLove, name: Yu Wen-Bo, wiki: leagueoflegends
+, team: Top Esports, id: Karsa, name: Hung Hau-Hsuan, wiki: leagueoflegends
+, team: Top Esports, id: Qingtian, name: Yu Zi-Han, wiki: leagueoflegends
+, team: Top Esports, id: WarHorse, name: Chen Ju-Chih, wiki: leagueoflegends
+, team: Top Esports, id: Zhuo, name: Wang Xu-Zhuo, wiki: leagueoflegends
+, team: Top Esports, id: knight, name: Zhuo Ding, wiki: leagueoflegends
+, team: Top Esports, id: yuyanjia, name: Zhuo Ding, wiki: leagueoflegends
+, team: Tricked Esport Academy, id: Godbro, name: Dan Van Vo, wiki: leagueoflegends
+, team: TyLoo, id: GuYueXin, name: Hu Xin, wiki: leagueoflegends
+, team: TyLoo, id: ZhuangZhou, name: Zhou Yong-Chong, wiki: leagueoflegends
+, team: UCAM Esports Club, id: Baca, name: Jou00e3o Bigas, wiki: leagueoflegends
+, team: UCAM Esports Club, id: Dreedy, name: Jakub Vicenu00edk, wiki: leagueoflegends
+, team: UCAM Esports Club, id: Hadess, name: Maik Jonker, wiki: leagueoflegends
+, team: UCAM Esports Club, id: Hantera, name: Jules Bourgeois, wiki: leagueoflegends
+, team: UCAM Esports Club, id: Plasma, name: Pedro Ribeiro, wiki: leagueoflegends
+, team: UCAM Esports Club, id: Rafitta, name: Rafa Ayllon, wiki: leagueoflegends
+, team: Ultra Prime, id: GreenTea, name: Tsai Shang-Ching, wiki: leagueoflegends
+, team: Ultra Prime, id: H4cker, name: Yang Zhi-Hao, wiki: leagueoflegends
+, team: Ultra Prime, id: ShiauC, name: Liu Chia-Hao, wiki: leagueoflegends
+, team: Ultra Prime, id: Smlz, name: Han Jin, wiki: leagueoflegends
+, team: Ultra Prime, id: Xiaocaobao, name: Lian Jiang, wiki: leagueoflegends
+, team: Umbra Divinus Gaming, id: Kourosh, name: Jude Toutounchian, wiki: leagueoflegends
+, team: Umbra Divinus Gaming, id: Typical, name: Wojciech Maziejuk, wiki: leagueoflegends
+, team: Undead Gaming, id: Aquasonic, name: Tadeo Forestieri, wiki: leagueoflegends
+, team: Undead Gaming, id: Cepted, name: Park Wi-rim, wiki: leagueoflegends
+, team: Undead Gaming, id: Genthix, name: Mariano Polonsky, wiki: leagueoflegends
+, team: Undead Gaming, id: Wiz, name: ub098uc720uc900, wiki: leagueoflegends
+, team: Unicorns Of Love, id: Sheepy, name: Fabian Mallant, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: Decay, name: Nicolas Gawron, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: Dreamer Ace, name: Tobias Schreckeneder, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: Jinjo, name: Ronan Swingler, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: Kadir, name: Kadircan Mumcuou011flu, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: LagsAlot, name: Lucas Pu00f6the, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: Sleeping, name: Christian Tiensuu, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: SoulStrikes, name: Luchio Park, wiki: leagueoflegends
+, team: Unicorns of Love Sexy Edition, id: jinjo, name: Ronan Swingler, wiki: leagueoflegends
+, team: University of Illinois, id: Qwacker, name: Micheal Zou, wiki: leagueoflegends
+, team: University of St Thomas, id: Array, name: Jackson Moldenhauer, wiki: leagueoflegends
+, team: V3 Esports, id: Ace, name: Kotoji Mugita, wiki: leagueoflegends
+, team: V3 Esports, id: Awaker, name: Kentaro Hanaoka, wiki: leagueoflegends
+, team: V3 Esports, id: HW4NG, name: Hwang Young-sik, wiki: leagueoflegends
+, team: V3 Esports, id: Hollow, name: Shin Yong-jin, wiki: leagueoflegends
+, team: V3 Esports, id: Raina, name: Shin Okubo, wiki: leagueoflegends
+, team: V3 Esports, id: cogcog, name: Ryohei Matsuda, wiki: leagueoflegends
+, team: V3 Esports, id: hetel, name: Shuya Koyama, wiki: leagueoflegends
+, team: VC Gaming, id: CaoMei, name: Wei Han-Dong, wiki: leagueoflegends
+, team: Valiance, id: DoubleAiM, name: Aleksa Stankoviu0107, wiki: leagueoflegends
+, team: Valiance, id: Nafkelah, name: Andrija Kovau010deviu0107, wiki: leagueoflegends
+, team: Valiance, id: Nikola, name: Nikola u0110oru0111eviu0107, wiki: leagueoflegends
+, team: Valiance, id: Paladin, name: Ivan Delau010d, wiki: leagueoflegends
+, team: Valiance, id: Wondro, name: Ondrej Kenda, wiki: leagueoflegends
+, team: Vega Squadron, id: Aoi Haru, name: Kirill Kolupaev, wiki: leagueoflegends
+, team: Vega Squadron, id: Dimill, name: Dmitry Timofeev, wiki: leagueoflegends
+, team: Vega Squadron, id: Keysie, name: Nikita Popov, wiki: leagueoflegends
+, team: Vega Squadron, id: Wysek, name: Damian Adamczyk, wiki: leagueoflegends
+, team: Ventus Esports, id: Majd, name: Majd El-Yassir, wiki: leagueoflegends
+, team: Verdant, id: Lunddorf, name: Su00f8ren Lunddorf, wiki: leagueoflegends
+, team: Verdant, id: Yusa, name: Jo Cortez, wiki: leagueoflegends
+, team: Verdant, id: aesthetic, name: Frank Norqvist, wiki: leagueoflegends
+, team: Victorious Gaming, id: Avoidless, name: Fan Jun Wei, wiki: leagueoflegends
+, team: Victorious Gaming, id: Korol, name: Tong Yang, wiki: leagueoflegends
+, team: Victorious Gaming, id: Wuxx, name: Wang Chen, wiki: leagueoflegends
+, team: Victory Five, id: Aliez, name: Huang Hao, wiki: leagueoflegends
+, team: Victory Five, id: Uniboy, name: Chen Chang-Chu, wiki: leagueoflegends
+, team: Vitality.Bee, id: Diplex, name: Dimitri Ponomarev, wiki: leagueoflegends
+, team: Vitality.Bee, id: HustlinbeasT, name: Morgan Granberg, wiki: leagueoflegends
+, team: Vitality.Bee, id: Raven, name: Miu0142osz Domagalski, wiki: leagueoflegends
+, team: Vitality.Bee, id: SLT, name: Enzo Gonzalez, wiki: leagueoflegends
+, team: Vitality.Bee, id: SMILEY, name: Ludvig Erik Hugo Granquist, wiki: leagueoflegends
+, team: Vitality.Bee, id: Skeanz, name: Duncan Marquet, wiki: leagueoflegends
+, team: Vivo Keyd, id: Hyoga, name: Benjamin de Barbi, wiki: leagueoflegends
+, team: Vivo Keyd, id: Klaus, name: Augusto Clauss, wiki: leagueoflegends
+, team: Vivo Keyd, id: Laba, name: Huang Chen-Yang, wiki: leagueoflegends
+, team: Vivo Keyd, id: Minerva, name: Gustavo Queiroz, wiki: leagueoflegends
+, team: Vodafone Giants, id: 113, name: Dou011fukan Balci, wiki: leagueoflegends
+, team: Vodafone Giants, id: Attila, name: Amadeu Carvalho, wiki: leagueoflegends
+, team: Vodafone Giants, id: Miniduke, name: Ismael Martu00ednez Cortu00e9s, wiki: leagueoflegends
+, team: Vodafone Giants, id: Th3Antu00f8nio, name: Antonio Espinosa, wiki: leagueoflegends
+, team: Vodafone Giants, id: kaSing, name: Raymond Tsang, wiki: leagueoflegends
+, team: Vorax Academy, id: Cavalo, name: Alexandre Fernandes, wiki: leagueoflegends
+, team: Vorax Academy, id: Disamis, name: Pedro Gonu00e7alves, wiki: leagueoflegends
+, team: Vorax Academy, id: Lynkez, name: Leonardo Cassuci, wiki: leagueoflegends
+, team: Vorax Academy, id: Ravenzin, name: Raphael Sancio, wiki: leagueoflegends
+, team: Vorax Academy, id: Yupps, name: Yuri G. Petermann, wiki: leagueoflegends
+, team: Vorax Liberty, id: Krastymel, name: Marcos Henrique Ferraz, wiki: leagueoflegends
+, team: Vorax Liberty, id: Matsukaze, name: Pedro Gama, wiki: leagueoflegends
+, team: Vorax Liberty, id: Wos, name: Willyan Bonpam, wiki: leagueoflegends
+, team: Vorax Liberty, id: Yampi, name: Yan Petermann, wiki: leagueoflegends
+, team: Vorax Liberty, id: fNb, name: Francisco Natanael Braz do Espirito Santo Miranda, wiki: leagueoflegends
+, team: Warthox, id: Hyu00f4rai, name: Stu00e9phane Goussu, wiki: leagueoflegends
+, team: Wave Esports, id: Adept, name: Andreas Blikfeldt, wiki: leagueoflegends
+, team: Wave Esports, id: Bung, name: Jakob Gramm, wiki: leagueoflegends
+, team: Wave Esports, id: Irrelevant, name: Joel Miro Scharoll, wiki: leagueoflegends
+, team: Wave Esports, id: Sven, name: Sven Olejnikow, wiki: leagueoflegends
+, team: Wave Esports, id: XoNix, name: Khaled Noman, wiki: leagueoflegends
+, team: We Love Gaming, id: AnOnPsyCkO, name: Gianis Kounelis, wiki: leagueoflegends
+, team: We Love Gaming, id: Bananitoo, name: Nikolaos Fakis, wiki: leagueoflegends
+, team: We Love Gaming, id: IceBreaker, name: Dimitris Chatzitsobanis, wiki: leagueoflegends
+, team: We Love Gaming, id: Spooky, name: Miroslav Gochev, wiki: leagueoflegends
+, team: We Love Gaming, id: WaenA, name: Beru015fan Aydu0131n, wiki: leagueoflegends
+, team: We Love Gaming, id: iLevi, name: Besmir Jakupi, wiki: leagueoflegends
+, team: White Dragons, id: AlternativeX, name: Jou00e3o Parada, wiki: leagueoflegends
+, team: White Dragons, id: Aziado, name: Tiago Rodrigues, wiki: leagueoflegends
+, team: White Dragons, id: LeChase, name: Antu00f3nio Ramalho, wiki: leagueoflegends
+, team: White Dragons, id: Slayer, name: Nuno Moutinho, wiki: leagueoflegends
+, team: White Dragons, id: Xaky, name: Marcos Letras, wiki: leagueoflegends
+, team: Wildcard Gaming Red, id: Bradley, name: Bradley Benneyworth, wiki: leagueoflegends
+, team: Winners, id: inSec, name: Choi In-Seok, wiki: leagueoflegends
+, team: Winthrop University, id: Doxa, name: William Lee, wiki: leagueoflegends
+, team: Wortex Gaming, id: MrFreezed, name: Tom Richard Teslon, wiki: leagueoflegends
+, team: Wortex Gaming, id: Sufleks, name: Caspar Kodar, wiki: leagueoflegends
+, team: Wortex Gaming, id: Teh, name: Kevin Kindsigo, wiki: leagueoflegends
+, team: Wortex Gaming, id: theblindboy, name: Edgar Trumm, wiki: leagueoflegends
+, team: X25 Esports, id: WildPanda, name: Dimosthenis Dimitriadis, wiki: leagueoflegends
+, team: X7 Esports, id: Skude, name: Andreas Aarlund Skude, wiki: leagueoflegends
+, team: XTEN Esports, id: JackPoT, name: Park Jin-soo, wiki: leagueoflegends
+, team: XTEN Esports, id: Rainbow, name: Kim Soo-gi, wiki: leagueoflegends
+, team: XTEN Esports, id: Unforgiven, name: Maximiliano Utrero, wiki: leagueoflegends
+, team: Young Miracles, id: PDD, name: Liu Mou, wiki: leagueoflegends
+, team: YouthCrew Esports, id: Impaler, name: Matthew Taylor, wiki: leagueoflegends
+, team: Zephyr Esport, id: Findus, name: Thu00e9o Fouassier, wiki: leagueoflegends
+, team: Zero Tenacity, id: Velja, name: Veljko Camdzic, wiki: leagueoflegends
+, team: Zerolag Esports, id: Gagai, name: Ilias Krionas, wiki: leagueoflegends
+, team: Zeu5 Bogota, id: Zelt, name: Jairo Urbina Orozco, wiki: leagueoflegends
+, team: u0130stanbul Wildcats, id: Farfetch, name: Berk Badur, wiki: leagueoflegends
+, team: u0130stanbul Wildcats, id: Ferret, name: Hakan Mert u00c7akmak, wiki: leagueoflegends
+, team: u0130stanbul Wildcats, id: HolyPhoenix, name: Anu0131l Iu015fu0131k, wiki: leagueoflegends
+, team: u0130stanbul Wildcats, id: Robogod, name: Boris Meter Sevinc, wiki: leagueoflegends
+, team: u0130stanbul Wildcats, id: Serin, name: Tolga u00d6lmez, wiki: leagueoflegends
+, team: u0130stanbul Wildcats, id: StarScreen, name: Soner Kaya, wiki: leagueoflegends
+

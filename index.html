@@ -64,6 +64,11 @@
 
         </div>
 
+        <script>
 
+        fetch('https://api.liquipedia.net/api/v2/player')
+        .then(res => resizeBy.json())
+        .then(data => console.log(data))
+        </script>
     </body>
 </html>
