@@ -1,0 +1,192 @@
+team: , id: .zVEDE, name: , wiki: artifact
+, team: , id: 0vrr, name: , wiki: artifact
+, team: , id: Adamantin, name: , wiki: artifact
+, team: , id: AiR, name: , wiki: artifact
+, team: , id: Arya, name: , wiki: artifact
+, team: , id: BLUEPOWERVAN, name: , wiki: artifact
+, team: , id: BORDO, name: , wiki: artifact
+, team: , id: BOX, name: , wiki: artifact
+, team: , id: Babybokchoy88, name: , wiki: artifact
+, team: , id: Barbossa, name: , wiki: artifact
+, team: , id: Belgiangrump, name: , wiki: artifact
+, team: , id: Biolog_psihopat, name: u041cu0438u0445u0430u0438u043b u041cu0435u0434u0432u0435u0434u0435u0432, wiki: artifact
+, team: , id: DMzda, name: , wiki: artifact
+, team: , id: Dane, name: Dane McCappin, wiki: artifact
+, team: , id: Don Armon, name: , wiki: artifact
+, team: , id: DrHippi, name: u0410u0440u0442u0451u043c u041au0440u0430u0432u0435u0446, wiki: artifact
+, team: , id: Ekop, name: Jan Palys, wiki: artifact
+, team: , id: Equals4, name: , wiki: artifact
+, team: , id: EthnicSmoke, name: , wiki: artifact
+, team: , id: Falkie, name: Yale Ren, wiki: artifact
+, team: , id: Feno, name: Christos Tsakopoulos, wiki: artifact
+, team: , id: Fox, name: , wiki: artifact
+, team: , id: Gela, name: u0410u043bu0451u043du0430 u0428u0443u0448u043fu0430u043du043du0438u043au043eu0432u0430, wiki: artifact
+, team: , id: GetRich, name: , wiki: artifact
+, team: , id: Gonzopioneer, name: , wiki: artifact
+, team: , id: Groza, name: , wiki: artifact
+, team: , id: Gvuardya, name: , wiki: artifact
+, team: , id: Harleen, name: u041cu0430u0440u0438u044f u041au043eu0431u0437u0430u0440u044c, wiki: artifact
+, team: , id: HellO, name: , wiki: artifact
+, team: , id: Hellscreamer, name: Edward Araneta, wiki: artifact
+, team: , id: Hexmedusa, name: , wiki: artifact
+, team: , id: IMba, name: , wiki: artifact
+, team: , id: JMauler, name: , wiki: artifact
+, team: , id: Jester, name: , wiki: artifact
+, team: , id: KanuTaH MopraH, name: , wiki: artifact
+, team: , id: Kazuva, name: , wiki: artifact
+, team: , id: KnowMe, name: Steffen Fritzemeier, wiki: artifact
+, team: , id: Komsiant, name: , wiki: artifact
+, team: , id: Kova, name: , wiki: artifact
+, team: , id: Kova, name: Kovu00e1cs u00c1du00e1m, wiki: artifact
+, team: , id: Krosty Rules, name: , wiki: artifact
+, team: , id: Kushak, name: , wiki: artifact
+, team: , id: Lifecoach, name: Adrian Koy, wiki: artifact
+, team: , id: MAXIMUMTHEGAVR, name: Maxim Gavr, wiki: artifact
+, team: , id: MaggoGx, name: , wiki: artifact
+, team: , id: Meziljie, name: Erik Tarrodi, wiki: artifact
+, team: , id: Mogwai, name: Miguel Guerrero, wiki: artifact
+, team: , id: NJJo, name: , wiki: artifact
+, team: , id: Naiman, name: u041eu043bu0436u0430u0441 u0411u0430u0442u044bu0440u0431u0435u043au043eu0432, wiki: artifact
+, team: , id: Nickotine, name: , wiki: artifact
+, team: , id: Nine, name: , wiki: artifact
+, team: , id: Niqnaq, name: , wiki: artifact
+, team: , id: Nostam, name: Robert Matson, wiki: artifact
+, team: , id: NotRasheed, name: , wiki: artifact
+, team: , id: PORNO, name: , wiki: artifact
+, team: , id: Pattycake, name: , wiki: artifact
+, team: , id: Pavtan, name: u041fu0430u0432u0435u043b, wiki: artifact
+, team: , id: ProPos6, name: , wiki: artifact
+, team: , id: Prody, name: , wiki: artifact
+, team: , id: Psyx CZ, name: , wiki: artifact
+, team: , id: Pubsty1e, name: , wiki: artifact
+, team: , id: RYPGlenn, name: , wiki: artifact
+, team: , id: RazDva, name: u0414u043cu0438u0442u0440u0438u0439 u041fu0440u0438u0434u0430u043du043du0438u043au043eu0432, wiki: artifact
+, team: , id: Real_MAN, name: Santichai Onlert, wiki: artifact
+, team: , id: RtN.Con, name: , wiki: artifact
+, team: , id: S-GOD, name: , wiki: artifact
+, team: , id: San4oPanso, name: , wiki: artifact
+, team: , id: Shana, name: u738bu96e8u4f26, wiki: artifact
+, team: , id: Shnumi, name: u041cu0438u0445u0430u0438u043b u0421u043bu043eu0436u0435u043du0438u043au0438u043d, wiki: artifact
+, team: , id: SneakyPanda, name: , wiki: artifact
+, team: , id: Soey, name: Thomas Brandt, wiki: artifact
+, team: , id: SpeLeRRR, name: , wiki: artifact
+, team: , id: StanCifka, name: Stanislav Cifka, wiki: artifact
+, team: , id: Stormlike-, name: u0414u043cu0438u0442u0440u0438u0439 u041cu0443u043bu0438u043d, wiki: artifact
+, team: , id: Superpike, name: , wiki: artifact
+, team: , id: SvYaT, name: u0421u0432u044fu0442u043eu0441u043bu0430u0432 u0422u0440u043eu0435u0446u043au0438u0439, wiki: artifact
+, team: , id: Swellzong, name: , wiki: artifact
+, team: , id: Teddy, name: , wiki: artifact
+, team: , id: Tenchuu, name: , wiki: artifact
+, team: , id: The Untouchable, name: , wiki: artifact
+, team: , id: Thirius, name: , wiki: artifact
+, team: , id: Tuby, name: , wiki: artifact
+, team: , id: Underscore, name: , wiki: artifact
+, team: , id: Unscathed, name: , wiki: artifact
+, team: , id: Vilgefortz, name: u0415u0432u0433u0435u043du0438u0439 u041au0443u0440u043eu0432, wiki: artifact
+, team: , id: Wayfarer, name: , wiki: artifact
+, team: , id: Weakwinner, name: , wiki: artifact
+, team: , id: Wockeez, name: , wiki: artifact
+, team: , id: Xioh, name: Julian Dumler, wiki: artifact
+, team: , id: Xixo, name: Sebastian Bentert, wiki: artifact
+, team: , id: aLte, name: , wiki: artifact
+, team: , id: anger, name: , wiki: artifact
+, team: , id: big30head, name: , wiki: artifact
+, team: , id: bsttttt, name: , wiki: artifact
+, team: , id: catoftheyear, name: , wiki: artifact
+, team: , id: diQ, name: , wiki: artifact
+, team: , id: dpmlicious, name: Sing Chi, wiki: artifact
+, team: , id: dreamer, name: u0410u043bu0435u043au0441u0430u043du0434u0440 u041du0435u043au0440u0430u0441u043eu0432, wiki: artifact
+, team: , id: fermens, name: , wiki: artifact
+, team: , id: heffaklumpen, name: Joel Larsson, wiki: artifact
+, team: , id: kiwi, name: , wiki: artifact
+, team: , id: nemphy, name: Sampsa Kutvonen, wiki: artifact
+, team: , id: norDick, name: , wiki: artifact
+, team: , id: oblizhi, name: u0410u043du0442u043eu043d u0420u0430u0445u043cu0430u043du043eu0432, wiki: artifact
+, team: , id: perroperro, name: , wiki: artifact
+, team: , id: sin_sobaki, name: , wiki: artifact
+, team: , id: space_loner, name: , wiki: artifact
+, team: , id: tmv23, name: , wiki: artifact
+, team: , id: vigulisam, name: , wiki: artifact
+, team: , id: wuhek, name: , wiki: artifact
+, team: , id: yungbasedsalami, name: David Molina, wiki: artifact
+, team: , id: u043au043eu043cu043fu043eu0442, name: , wiki: artifact
+, team: , id: u53eau5b57u4e0du63d0u4e36zhizhi, name: , wiki: artifact
+, team: 5 gangsters esports, id: Kepptor, name: Piotr Kempa, wiki: artifact
+, team: brainscans, id: garesnap, name: Garrett Hensley, wiki: artifact
+, team: complexity gaming, id: Freddybabes, name: Freddy Bird, wiki: artifact
+, team: complexity gaming, id: Mryagut, name: Tugay Evsan, wiki: artifact
+, team: complexity gaming, id: Petrify, name: Mark Fittipaldi, wiki: artifact
+, team: complexity gaming, id: SuperJJ, name: Jan Janssen, wiki: artifact
+, team: evil geniuses, id: swim, name: Sean Huguenard, wiki: artifact
+, team: keen gaming, id: Chamberlain, name: u5f20u4f2fu4f26, wiki: artifact
+, team: keen gaming, id: Doudou, name: u7ae0u7b11u8bed, wiki: artifact
+, team: keen gaming, id: JasonZhou, name: u5468u5f6c, wiki: artifact
+, team: keen gaming, id: White Stone, name: , wiki: artifact
+, team: newbee, id: MieGod, name: Shen Yang, wiki: artifact
+, team: noname esports, id: Tigracle, name: u0422u0438u0433u0440u0430u043d u0410u043bu0435u043au0441u0430u043du044fu043d, wiki: artifact
+, team: panda global, id: HotMEOWTH, name: Edwin Cook, wiki: artifact
+, team: pittsburgh knights, id: GameKing, name: Raffael Iciren, wiki: artifact
+, team: sk telecom t1, id: Hoej, name: Frederik Hu00f8j Nielsen, wiki: artifact
+, team: team aretuza, id: lordgort, name: John Dale Beety, wiki: artifact
+, team: team liquid, id: Hyped, name: George Maganzini, wiki: artifact
+, team: team
+
+
+, id: Alix Branwyn, name: , wiki: artifact
+, team: team
+
+
+, id: Chaks, name: Shirag Maharaj, wiki: artifact
+, team: team
+
+
+, id: Daarken, name: Michael Lim, wiki: artifact
+, team: team
+
+
+, id: David Palumbo, name: , wiki: artifact
+, team: team
+
+
+, id: Dib, name: Dylan Brown, wiki: artifact
+, team: team
+
+
+, id: Forrest Imel, name: , wiki: artifact
+, team: team
+
+
+, id: James Paick, name: , wiki: artifact
+, team: team
+
+
+, id: Jana Schirmer, name: , wiki: artifact
+, team: team
+
+
+, id: Kieran Yanner, name: , wiki: artifact
+, team: team
+
+
+, id: Lars Grant-West, name: , wiki: artifact
+, team: team
+
+
+, id: Lius Lasahido, name: , wiki: artifact
+, team: team
+
+
+, id: Nobeo, name: Duong Tran Anh, wiki: artifact
+, team: team
+
+
+, id: T, name: , wiki: artifact
+, team: team
+
+
+, id: Vargasni, name: Randy Vargas, wiki: artifact
+, team: team
+
+
+, id: m4tr, name: Egor Matryonicheu, wiki: artifact
+
